@@ -1,0 +1,265 @@
+*** Settings ***
+Library    RequestsLibrary  
+Library    JsonLibrary    
+Library    String    
+# Library    GenerateOidcToken
+Library    BaselineComparator    
+
+# Library    Collections   
+# Library    OperatingSystem 
+Variables    ../../ConfigFile/GlobalConfig.py
+Resource    ../../ConfigFile/ImportFile.robot
+
+
+
+Suite Teardown    Delete All Sessions
+
+Test Setup    GIVEN VALID AUTHENTICATION TOKEN AND SESSION IS CREATED
+
+*** Variables ***
+@{IGNORED_KEYS_JSON_COMPARE}    Create List    comment    legalDisclaimer    lastUpdatedFromSource 
+
+${HEADERS}
+${RESPONSE}
+${API_REQUEST_FROM_FILE}
+
+
+*** Test Cases ***
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_001_WHEN START AND END DATES ARE SAME WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2019-02-28 endDate=2019-02-28 with lookback > lockout.
+    
+    ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_001.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_001.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_001.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_001.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_001.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_003_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2019-02-28 endDate=2019-03-01 with lookback = lockout.
+    
+   ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_003.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_003.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_003.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_003.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_003.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_011_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2019-10-31 endDate=2019-11-10 with lookback > lockout=0.
+    
+    ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_011.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_011.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_011.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_011.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_011.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_018_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2020-02-02 endDate=2020-02-29 with lookback = lockout.
+    
+     ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_018.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_018.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_018.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_018.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_018.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_028_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2019-05-01 endDate=2019-06-30 with lookback < lockout.
+    
+     ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_028.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_028.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_028.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_028.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_028.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_034_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2018-06-30 endDate=2019-01-01 with lookback < lockout.
+    
+    ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_034.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_034.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_034.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_034.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_034.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_040_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2018-07-01 endDate=2019-08-01 with lookback < lockout.
+    
+    ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_040.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_040.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_040.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_040.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_040.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_047_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2020-04-17 endDate=2020-04-19 with lookback < lockout.
+    
+    ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_047.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_047.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_047.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_047.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_047.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_048_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2018-12-30 endDate=2019-01-01 with lookback < lockout.
+    
+    ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_048.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_048.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_048.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_048.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_048.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_049_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2020-04-28 endDate=2020-05-02 with lookback < lockout.
+    
+    ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_049.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_049.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_049.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_049.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_049.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_052_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2019-06-24 endDate=2019-07-01 with lookback = lockout.
+    
+    ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_052.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_052.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_052.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_052.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_052.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_062_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2020-02-08 endDate=2020-02-29 with lookback > lockout.
+    
+     ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_062.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_062.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_062.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_062.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_062.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_064_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2019-09-01 endDate=2019-09-30 with lookback < lockout.
+    
+     ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_064.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_064.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_064.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_064.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_064.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_066_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2020-03-31 endDate=2020-05-01 with lookback > lockout.
+    
+    ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_066.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_066.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_066.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_066.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_066.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_069_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2020-03-02 endDate=2020-05-04 with lookback < lockout.
+    
+    ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_069.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_069.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_069.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_069.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_069.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_071_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2018-12-31 endDate=2019-03-31 with lookback > lockout.
+    
+    ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_071.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_071.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_071.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_071.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_071.json    ${IGNORED_KEYS_JSON_COMPARE}
+
+
+POST_VALIDATE RATE_FOR_ARRCSOFRDC_072_WHEN START AND END DATES ARE DIFFERENT WITH LOOKBACK AND LOCKOUT APPLIED
+    [Documentation]    This testcase covers scenario where startDate=2019-08-31 endDate=2019-11-30 with lookback > lockout.
+     
+    ${jsonData}    Load Json From File    ${INPUT_REQUEST_PATH}\\ARRCv1.1\\DailyInterest_Requests\\SOFR\\Request_ARRCSOFRDC_072.txt
+   
+    WHEN USER SENDS A "POST" REQUEST    ${ARR_Calc_Prefix}/daily-compounding/interest    ${jsonData}
+    AND SAVES THE API RESPONSE    ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_072.json
+    
+    THEN VERIFY RESPONSE STATUS   ${RESPONSE.status_code}    200
+    AND VERIFY ACTUAL RESPONSE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_072.txt  ${RESPONSE.content}    ${IGNORED_KEYS_JSON_COMPARE}
+    
+    AND VERIFY ACTUAL RESPONSE FILE MATCHES WITH EXPECTED RESPONSE FILE    ${API_EXPECTED_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\Response_ARRCSOFRDC_072.txt   ${API_ACTUAL_RESPONSE_PATH}\\ARRCv1.1\\DailyInterest_Response\\SOFR\\API_ARRCSOFRDC_072.json    ${IGNORED_KEYS_JSON_COMPARE}
+

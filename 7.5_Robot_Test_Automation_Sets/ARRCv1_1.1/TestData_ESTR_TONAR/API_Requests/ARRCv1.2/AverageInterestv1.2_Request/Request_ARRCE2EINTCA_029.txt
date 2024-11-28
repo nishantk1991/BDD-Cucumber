@@ -1,0 +1,16 @@
+{ 
+   "initialPrincipalBalance":10000000.0,
+   "interestPeriodStartDate":"2020-02-03",
+   "interestPeriodEndDate":"2020-02-29",
+   "riskFreeRate":"TONAR",
+   "lookBackDays": "2",
+   "lockoutDays": "9",
+   "rateRoundingDecimalPoints":10,
+   "calculateTillDate":"2020-02-25",
+   "spread":-1,
+   "spreadAdjustment":0.12345,
+   "riskFreeRateFloor":1.56,
+   "observationPeriodShift":"false",
+   "showDailyDetails":"true",
+   "principalAmountChanges":[{"date":"2020-02-28","principalAmountChange":9999.43}]
+}

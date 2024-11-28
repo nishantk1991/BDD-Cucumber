@@ -1,0 +1,17 @@
+{
+  "message": "Bad Request",
+  "_links": {
+    "self": {
+      "href": "/corporate/lending/alternative-reference-rates/v1/compounded-in-arrears/average-rate?rateRoundingDecimalPoints=5&interestPeriodEndDate=2020-03-20&interestPeriodStartDate=1900-01-01",
+      "templated": false
+    }
+  },
+  "_embedded": {
+    "errors": [
+      {
+        "message": "Required QueryValue [riskFreeRate] not specified",
+        "path": "/riskFreeRate"
+      }
+    ]
+  }
+}

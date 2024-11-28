@@ -1,0 +1,23 @@
+{ 
+    "initialPrincipalBalance":10000000.0,
+    "interestPeriodStartDate":"2020-04-27",
+    "interestPeriodEndDate":"2020-05-31",
+    "calculateTillDate": "2020-05-25",
+    "riskFreeRate":"SORA",
+    "lookBackDays": "1",
+    "lockoutDays": "1",
+    "legacyRiskFreeRateFloor":7.8566,
+    "riskFreeRateFloor":0.05,
+    "spreadAdjustment":-0.2345,
+    "spread":0.213,
+    "allInRateFloor":1,
+    "allInRateCap":1,
+    "ccrRoundingApplies":"false",
+    "ccrRoundingPrecision":0,
+    "showDailyDetails":"true",
+    "rateRoundingDecimalPoints":10,
+    "principalAmountChanges":[{"date":"2020-05-23","principalAmountChange":10000000},{"date":"2020-05-24","principalAmountChange":-489000
+ },{"date":"2020-05-30","principalAmountChange":-2000000
+ }]
+ 
+ }

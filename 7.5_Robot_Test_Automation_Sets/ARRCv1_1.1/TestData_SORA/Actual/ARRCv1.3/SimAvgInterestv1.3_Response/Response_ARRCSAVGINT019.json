@@ -1,0 +1,53 @@
+{
+  "comment": " The most recent published SORA RFR rate is available as-of: 2020-05-22. Computed time : 2021-11-23T11:52:32+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-10-29T00:00:00+00:00",
+  "legalDisclaimer": "SORA-related statistics, the 1-month, 3-month and 6-month Compounded SORA rates, and the SORA Index, are provided on an as is basis, without warranties of any kind. MAS shall not be liable for any damage or loss, which may arise from reliance on such data obtained from the MAS website. Please refer to the Terms of Use (https://www.mas.gov.sg/terms-of-use) on accessing and using any part of the MAS website.",
+  "interestCalculatorCriteria": {
+    "initialPrincipalBalance": 10000000,
+    "interestPeriodStartDate": "2020-04-10",
+    "interestPeriodEndDate": "2020-05-31",
+    "riskFreeRate": "SORA",
+    "riskFreeRateFloor": 0,
+    "allInRateFloor": 1,
+    "allInRateCap": 1,
+    "lookBackDays": 3,
+    "lockoutDays": 2,
+    "observationPeriodShift": false,
+    "spread": 1,
+    "spreadAdjustment": 0,
+    "dayCountConvention": "ACT/365",
+    "rateRoundingDecimalPoints": 11,
+    "paymentRounding": "NEAREST",
+    "principalAmountChanges": [
+      {
+        "date": "2020-04-13",
+        "principalAmountChange": -1000000
+      },
+      {
+        "date": "2020-05-12",
+        "principalAmountChange": 68000
+      },
+      {
+        "date": "2020-05-31",
+        "principalAmountChange": -68000
+      }
+    ]
+  },
+  "currencyCode": "SGD",
+  "interestSummary": [
+    {
+      "interestPeriodDate": "2020-05-31",
+      "interestPeriodDays": 52,
+      "principalBalance": 9000000.0,
+      "publishedRiskFreeRate": -0.0684,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": true,
+      "allInRateFloorApplied": false,
+      "allInRateCapApplied": true,
+      "simpleAverageRate": 0.04155,
+      "calculatedAllInRate": 1.04155,
+      "allInRate": 1.0,
+      "cummulativeInterestAmount": 12939.51
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "comment": " The most recent published SORA RFR rate is available as-of: 2020-05-22. Computed time : 2021-11-23T11:52:37+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-10-29T00:00:00+00:00",
+  "legalDisclaimer": "SORA-related statistics, the 1-month, 3-month and 6-month Compounded SORA rates, and the SORA Index, are provided on an as is basis, without warranties of any kind. MAS shall not be liable for any damage or loss, which may arise from reliance on such data obtained from the MAS website. Please refer to the Terms of Use (https://www.mas.gov.sg/terms-of-use) on accessing and using any part of the MAS website.",
+  "interestCalculatorCriteria": {
+    "initialPrincipalBalance": 10000000,
+    "interestPeriodStartDate": "2020-01-01",
+    "interestPeriodEndDate": "2020-05-31",
+    "riskFreeRate": "SORA",
+    "riskFreeRateFloor": -0.0673,
+    "lookBackDays": 2,
+    "lockoutDays": 0,
+    "spread": 0.22,
+    "spreadAdjustment": 0.56,
+    "dayCountConvention": "ACT/365",
+    "paymentRounding": "NEAREST",
+    "principalAmountChanges": [
+      {
+        "date": "2020-05-27",
+        "principalAmountChange": -10000000
+      },
+      {
+        "date": "2020-05-31",
+        "principalAmountChange": 100000
+      }
+    ],
+    "showDailyDetails": false,
+    "calculateTillDate": "2020-05-27"
+  },
+  "currencyCode": "SGD",
+  "interestSummary": [
+    {
+      "interestPeriodDate": "2020-05-27",
+      "interestPeriodDays": 148,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.3797,
+      "allInRate": 1.1597,
+      "cummulativeInterestAmount": 46705.73
+    }
+  ]
+}

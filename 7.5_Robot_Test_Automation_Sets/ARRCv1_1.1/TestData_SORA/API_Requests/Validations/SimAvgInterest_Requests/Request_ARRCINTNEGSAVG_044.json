@@ -1,0 +1,17 @@
+{ 
+   "initialPrincipalBalance":15000000.0,
+   "interestPeriodStartDate":"2019-04-24",
+   "interestPeriodEndDate":"2020-04-14",
+   "spread":0.523,
+   "spreadAdjustment":0.1,
+   "observationPeriodShift":"true",
+   "lookBackDays":10,
+   "lockoutDays":0,
+   "riskFreeRate":"SOFR",
+   "riskFreeRate":"SORA",
+   "rateRoundingDecimalPoints":2,
+   "interestPeriodStartDate":"2019-04-25",
+   "showDailyDetails":"false"
+   
+   
+ }

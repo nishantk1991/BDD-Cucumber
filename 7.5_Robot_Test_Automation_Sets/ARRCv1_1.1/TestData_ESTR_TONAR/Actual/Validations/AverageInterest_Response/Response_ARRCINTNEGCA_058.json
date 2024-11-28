@@ -1,0 +1,5 @@
+{
+  "title": "PRINC_CHANGE_DATE_ISNULL",
+  "message": "Principal amount change date cannot be null",
+  "status": 400
+}

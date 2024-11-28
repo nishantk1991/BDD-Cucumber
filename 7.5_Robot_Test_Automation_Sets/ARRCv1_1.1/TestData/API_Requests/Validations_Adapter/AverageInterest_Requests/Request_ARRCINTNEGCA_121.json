@@ -1,0 +1,14 @@
+{ 
+   "initialPrincipalBalance":100000,
+   "interestPeriodStartDate":"2020-08-29",
+   "interestPeriodEndDate":"2020-08-29",
+    "spread":0.523,
+   "spreadAdjustment":0.1,
+   "riskFreeRateFloor":"0.012",
+   "lookBackDays":6,
+   "lockoutDays":0,
+   "riskFreeRate":"SOFR",
+   "rateRoundingDecimalPoints":2,
+   "dayCountConvention":"ACT/360",
+   "showDailyDetails":"true"
+}

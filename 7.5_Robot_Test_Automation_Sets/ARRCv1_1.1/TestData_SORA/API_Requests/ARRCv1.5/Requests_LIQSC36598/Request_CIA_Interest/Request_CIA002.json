@@ -1,0 +1,14 @@
+{ 
+   "initialPrincipalBalance":1000000000.0,
+   "interestPeriodStartDate":"2020-05-03",
+   "interestPeriodEndDate":"2020-05-30",
+   "calculateTillDate": "2020-05-22",
+   "riskFreeRate":"SORA",
+   "lookBackDays": "3",
+   "lockoutDays": "0",
+   "spreadAdjustment":-1.51546,
+   "spread":2.32331,
+   "showDailyDetails":"true",
+   "dayCountConvention": "ACT/365",
+   "rateRoundingDecimalPoints":7
+}

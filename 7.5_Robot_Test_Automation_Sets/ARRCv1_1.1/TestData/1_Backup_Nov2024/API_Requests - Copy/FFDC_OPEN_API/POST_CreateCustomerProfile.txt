@@ -1,0 +1,4 @@
+{
+  "profileType": "LENDER",
+  "taxPayerId": "{{taxpayer_id_random}}"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "NO_INDEX_REPO_FOR_START",
+  "message": "Index is not available for the indexStartDate provided",
+  "status": 400
+}

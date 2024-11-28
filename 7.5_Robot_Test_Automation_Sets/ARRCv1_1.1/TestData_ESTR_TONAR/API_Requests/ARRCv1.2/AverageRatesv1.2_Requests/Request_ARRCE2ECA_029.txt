@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/compounded-in-arrears/average-rate?lockoutDays=9&interestPeriodStartDate=2020-02-03&interestPeriodEndDate=2020-02-29&riskFreeRate=TONAR&lookBackDays=2&rateRoundingDecimalPoints=8&calculateTillDate=2020-02-25&showDailyDetails=true&riskFreeRateFloor=1.56

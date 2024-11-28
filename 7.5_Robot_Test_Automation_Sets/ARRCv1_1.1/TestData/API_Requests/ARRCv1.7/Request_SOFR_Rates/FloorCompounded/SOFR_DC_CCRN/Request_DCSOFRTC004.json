@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/daily-compounding/rates?interestPeriodStartDate=2021-04-02&interestPeriodEndDate=2021-05-31&calculateTillDate=2021-05-31&riskFreeRate=SOFR&riskFreeRateFloor=0.05&spreadAdjustment=-0.05&lookBackDays=25&lockoutDays=37&showDailyDetails=true&floorCompoundedRate=true&rateRoundingDecimalPoints=11&dayCountConvention=ACT/360

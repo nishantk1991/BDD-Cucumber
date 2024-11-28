@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "PRINC_CHANGE_BEFORE_START",
+    "exceptionMessage": "Principal change date cannot be before interestPeriodStartDate",
+    "status": "400"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2021-11-17. Computed time : 2021-11-19T07:28:03+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-18T00:00:00+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "interestCalculatorCriteria": {
+    "initialPrincipalBalance": 10000000,
+    "interestPeriodStartDate": "2018-12-30",
+    "interestPeriodEndDate": "2019-01-01",
+    "riskFreeRate": "SOFR",
+    "lookBackDays": 4,
+    "lockoutDays": 9,
+    "observationPeriodShift": false,
+    "spread": 0.07,
+    "spreadAdjustment": 0.43,
+    "dayCountConvention": "ACT/365",
+    "rateRoundingDecimalPoints": 10,
+    "paymentRounding": "ACTUAL",
+    "principalAmountChanges": [
+      {
+        "date": "2018-12-30",
+        "principalAmountChange": 100000
+      },
+      {
+        "date": "2019-01-01",
+        "principalAmountChange": 100000
+      },
+      {
+        "date": "2018-12-31",
+        "principalAmountChange": 100000
+      }
+    ],
+    "showDailyDetails": true
+  },
+  "currencyCode": "USD",
+  "interestSummary": [
+    {
+      "interestPeriodDate": "2019-01-01",
+      "interestPeriodDays": 1,
+      "principalBalance": 10300000.0,
+      "publishedRiskFreeRate": 2.41,
+      "rateApplied": 2.41,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000066027397,
+      "dailyCompoundedRate": 2.410159126,
+      "allInRate": 2.910159126,
+      "interestAmount": 821.22,
+      "cummulativeInterestAmount": 2439.71
+    },
+    {
+      "interestPeriodDate": "2018-12-31",
+      "interestPeriodDays": 1,
+      "principalBalance": 10200000.0,
+      "publishedRiskFreeRate": 2.41,
+      "rateApplied": 2.41,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000066027397,
+      "dailyCompoundedRate": 2.410159126,
+      "allInRate": 2.910159126,
+      "interestAmount": 813.25,
+      "cummulativeInterestAmount": 1618.48
+    },
+    {
+      "interestPeriodDate": "2018-12-30",
+      "interestPeriodDays": 1,
+      "principalBalance": 10100000.0,
+      "publishedRiskFreeRate": 2.41,
+      "rateApplied": 2.41,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": 2.41,
+      "allInRate": 2.91,
+      "interestAmount": 805.23,
+      "cummulativeInterestAmount": 805.23
+    }
+  ]
+}

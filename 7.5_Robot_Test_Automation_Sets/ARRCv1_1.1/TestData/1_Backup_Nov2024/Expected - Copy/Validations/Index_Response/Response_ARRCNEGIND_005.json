@@ -1,0 +1,5 @@
+{
+    "title": "INDEX_GT_THAN_CURRENTDT",
+    "message": "indexStartDate or indexEndDate cannot be greater than current date",
+    "status": 400
+}

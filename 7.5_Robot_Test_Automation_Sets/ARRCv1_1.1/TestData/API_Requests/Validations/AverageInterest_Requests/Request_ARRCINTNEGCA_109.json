@@ -1,0 +1,17 @@
+{ 
+   "initialPrincipalBalance":10000000.0,
+   "interestPeriodStartDate":"2020-08-21",
+   "interestPeriodEndDate":"2020-08-21",
+   "riskFreeRate":"SOFR",
+   "spread":-0.0123,
+   "spreadAdjustment":-0.01100,
+   "allInRateFloor":3.4,
+   "allInRateCap":5.6565,
+   "lookBackDays": "0",
+   "lockoutDays": "0",
+   "showDailyDetails":"true",
+   "rateRoundingDecimalPoints":7,
+   "calculateTillDate":"2020-08-21",
+   "paymentRounding":"DOWN",
+   "principalAmountChanges":[{"date":"2020-08-21","principalAmountChange":-300000}]
+}

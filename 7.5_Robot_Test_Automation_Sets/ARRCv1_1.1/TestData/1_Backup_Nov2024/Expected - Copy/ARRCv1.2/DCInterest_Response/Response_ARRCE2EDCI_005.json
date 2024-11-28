@@ -1,0 +1,55 @@
+{
+    "comment": " Computed time : 2021-05-24T06:12:49+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2020-08-05T09:45:12+00:00",
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "interestCalculatorCriteria": {
+        "initialPrincipalBalance": 10000000,
+        "interestPeriodStartDate": "2020-02-01",
+        "interestPeriodEndDate": "2020-05-29",
+        "riskFreeRate": "SOFR",
+        "riskFreeRateFloor": 0,
+        "lookBackDays": 0,
+        "lockoutDays": 7,
+        "observationPeriodShift": false,
+        "spread": 0.0023,
+        "spreadAdjustment": 0.04567,
+        "dayCountConvention": "ACT/360",
+        "rateRoundingDecimalPoints": 9,
+        "paymentRounding": "UP",
+        "principalAmountChanges": [
+            {
+                "date": "2020-03-20",
+                "principalAmountChange": -9876.84
+            },
+            {
+                "date": "2020-03-25",
+                "principalAmountChange": 100000
+            },
+            {
+                "date": "2020-03-20",
+                "principalAmountChange": 9876.84
+            },
+            {
+                "date": "2020-03-25",
+                "principalAmountChange": -100000
+            }
+        ],
+        "calculateTillDate": "2020-05-21"
+    },
+    "currencyCode": "USD",
+    "interestSummary": [
+        {
+            "interestPeriodDate": "2020-05-29",
+            "interestPeriodDays": 1,
+            "principalBalance": 10000000.00,
+            "publishedRiskFreeRate": 0.04,
+            "rateApplied": 0.04,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.001869170899,
+            "dailyCompoundedRate": 0.040074767,
+            "allInRate": 0.088044767,
+            "interestAmount": 24.46,
+            "cummulativeInterestAmount": 20288.52
+        }
+    ]
+}

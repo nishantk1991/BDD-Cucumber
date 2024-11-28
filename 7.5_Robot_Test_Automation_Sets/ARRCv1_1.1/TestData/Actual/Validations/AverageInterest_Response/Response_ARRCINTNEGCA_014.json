@@ -1,0 +1,5 @@
+{
+  "title": "PAYMENT_RND_INVALID",
+  "message": "Invalid value passed for paymentRounding ",
+  "status": 400
+}

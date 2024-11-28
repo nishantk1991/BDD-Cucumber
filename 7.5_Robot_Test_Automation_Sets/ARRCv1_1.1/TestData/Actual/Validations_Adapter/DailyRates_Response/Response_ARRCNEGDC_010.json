@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "REPO_DATA_UNAVAILABLE",
+    "exceptionMessage": "Rate is not available for the given interest period date range. SONIA rate is not available for 2021-08-24.",
+    "status": "400"
+  }
+}

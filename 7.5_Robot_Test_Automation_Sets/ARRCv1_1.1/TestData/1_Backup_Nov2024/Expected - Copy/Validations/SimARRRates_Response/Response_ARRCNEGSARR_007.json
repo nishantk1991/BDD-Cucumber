@@ -1,0 +1,6 @@
+{
+	
+	"status": 400,
+	"title": "INVALID_DATE_FORMAT",
+	"message": "Invalid date or date format for interestPeriodEndDate"
+}

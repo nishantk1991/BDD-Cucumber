@@ -1,0 +1,12 @@
+{
+    "id": "31f31b41857c624872bd55c",
+    "branch": "00001",
+    "legalName": "ShortName-123upd0322",
+    "shortName": "SHORTNAME-123UPD0322",
+    "externalId": "AA2BCDD89",
+    "restricted": false,
+    "specialLoan": false,
+    "majorUnderwriter": true,
+    "treasuryReportingAreaCode": "US",
+    "customerStatus": "SKELETAL"
+}

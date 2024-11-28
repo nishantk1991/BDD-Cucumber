@@ -1,0 +1,5 @@
+{
+    "title": "ENDDT_DATA_UNAVAILABLE",
+    "message": "Rate is not available for the interestPeriodEndDate provided",
+    "status": 400
+}

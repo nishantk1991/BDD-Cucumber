@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "TENOR_INVALID",
+    "exceptionMessage": "Invalid value passed for tenor",
+    "status": "400"
+  }
+}

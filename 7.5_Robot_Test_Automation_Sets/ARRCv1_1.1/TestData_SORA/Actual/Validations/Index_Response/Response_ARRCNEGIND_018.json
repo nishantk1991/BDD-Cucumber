@@ -1,0 +1,5 @@
+{
+  "title": "INVALID_INDENDDT_DATE_FORMAT",
+  "message": "Invalid date or date format for indexEndDate",
+  "status": 400
+}

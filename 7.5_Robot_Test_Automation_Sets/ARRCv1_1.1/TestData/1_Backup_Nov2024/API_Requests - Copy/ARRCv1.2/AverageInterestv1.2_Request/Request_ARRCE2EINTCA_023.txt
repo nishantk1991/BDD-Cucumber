@@ -1,0 +1,17 @@
+{ 
+   "initialPrincipalBalance":10000000.0,
+   "interestPeriodStartDate":"2020-02-29",
+   "interestPeriodEndDate":"2020-05-24",
+   "riskFreeRate":"SONIA",
+   "lookBackDays": "0",
+   "lockoutDays": "2",
+   "spread":-2.345,
+   "spreadAdjustment":0.0021,
+   "observationPeriodShift":"false",
+   "rateRoundingDecimalPoints":9,
+   "calculateTillDate": "2020-05-24",
+   "showDailyDetails":"true",
+    "riskFreeRateFloor":-0.02,
+   "dayCountConvention":"ACT/365",
+   "principalAmountChanges":[{"date":"2020-04-01","principalAmountChange":150000},{"date":"2020-04-03","principalAmountChange":-10150000}]
+}

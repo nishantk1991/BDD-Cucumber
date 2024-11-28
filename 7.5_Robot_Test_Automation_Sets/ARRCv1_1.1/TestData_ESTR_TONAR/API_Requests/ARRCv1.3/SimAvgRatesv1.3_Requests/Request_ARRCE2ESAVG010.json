@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/simple-average/rates?riskFreeRate=ESTR&rateRoundingDecimalPoints=9&lookBackDays=4&interestPeriodStartDate=2020-04-27&lockoutDays=2&dayCountConvention=ACT/365&showDailyDetails=true&calculateTillDate=2020-05-24&interestPeriodEndDate=2020-05-30&riskFreeRateFloor=5

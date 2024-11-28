@@ -1,0 +1,15 @@
+{ 
+   "initialPrincipalBalance":100000,
+   "interestPeriodStartDate":"2019-10-10",
+   "interestPeriodEndDate":"2020-04-11",
+   "spread":0.523,
+   "spreadAdjustment":0.1,
+   "observationPeriodShift":"false",
+   "lookBackDays":10,
+   "lockoutDays":0,
+   "riskFreeRate":"SOFR",
+   "rateRoundingDecimalPoints":2,
+   "dayCountConvention":"ACT/360",
+   "showDailyDetails":"false",
+    "principalAmountChanges":[{"date":"2019-10-18","principalAmountChange":-100000}, {"date":"2019-11-19","principalAmountChange":1000000}]
+}

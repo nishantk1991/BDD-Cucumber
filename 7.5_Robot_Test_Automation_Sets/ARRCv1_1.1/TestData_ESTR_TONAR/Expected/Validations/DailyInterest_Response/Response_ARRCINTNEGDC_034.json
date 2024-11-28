@@ -1,0 +1,5 @@
+{
+    "title": "ROUNDING_DPS_OUT_OF_RANGE",
+    "message": "rateRoundingDecimalPoints must be between 2 to 12",
+    "status": 400
+}

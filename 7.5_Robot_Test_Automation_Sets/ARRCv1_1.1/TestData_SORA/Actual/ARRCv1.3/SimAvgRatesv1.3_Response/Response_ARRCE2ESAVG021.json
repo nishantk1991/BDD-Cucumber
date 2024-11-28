@@ -1,0 +1,25 @@
+{
+  "comment": " The most recent published SORA RFR rate is available as-of: 2020-05-22. Computed time : 2021-11-23T11:51:44+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-10-29T00:00:00+00:00",
+  "legalDisclaimer": "SORA-related statistics, the 1-month, 3-month and 6-month Compounded SORA rates, and the SORA Index, are provided on an as is basis, without warranties of any kind. MAS shall not be liable for any damage or loss, which may arise from reliance on such data obtained from the MAS website. Please refer to the Terms of Use (https://www.mas.gov.sg/terms-of-use) on accessing and using any part of the MAS website.",
+  "requestParameters": {
+    "interestPeriodStartDate": "2020-01-01",
+    "interestPeriodEndDate": "2020-05-31",
+    "riskFreeRate": "SORA",
+    "riskFreeRateFloor": -0.0673,
+    "lookBackDays": 2,
+    "lockoutDays": 0,
+    "rateRoundingDecimalPoints": 7,
+    "calculateTillDate": "2020-05-27"
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2020-05-27",
+      "interestPeriodDays": 148,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.3797155
+    }
+  ]
+}

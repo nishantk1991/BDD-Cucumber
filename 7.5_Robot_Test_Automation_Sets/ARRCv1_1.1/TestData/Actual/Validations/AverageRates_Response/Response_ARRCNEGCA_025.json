@@ -1,0 +1,12 @@
+{
+  "requestParameters": null,
+  "dailyRateSummary": null,
+  "lastUpdatedFromSource": null,
+  "comment": null,
+  "legalDisclaimer": null,
+  "exception": {
+    "title": null,
+    "exceptionMessage": "Invalid  value passed for showDailyDetails.",
+    "status": "400"
+  }
+}

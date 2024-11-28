@@ -1,0 +1,5 @@
+{
+  "title": "CTDT_GT_THAN_ENDDT",
+  "message": "calculateTillDate cannot be greater than interestPeriodEndDate date",
+  "status": 400
+}

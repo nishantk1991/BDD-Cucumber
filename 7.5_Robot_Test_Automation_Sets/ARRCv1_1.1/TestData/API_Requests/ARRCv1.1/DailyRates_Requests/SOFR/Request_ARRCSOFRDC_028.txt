@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/daily-compounding/rates?interestPeriodStartDate=2020-02-29&interestPeriodEndDate=2020-04-30&riskFreeRate=SOFR&lookBackDays=3&observationPeriodShift=false&lockoutDays=7&showDailyDetails=true&dayCountConvention=ACT/360

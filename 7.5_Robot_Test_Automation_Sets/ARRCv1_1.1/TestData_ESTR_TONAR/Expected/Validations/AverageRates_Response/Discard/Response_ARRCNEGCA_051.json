@@ -1,0 +1,5 @@
+{
+    "title": "INVALID_OBS_SHIFT_CAL_TILL_DATE",
+    "message": "observationPeriodShift with calculateTillDate being a non-business day is not supported",
+    "status": 400
+}

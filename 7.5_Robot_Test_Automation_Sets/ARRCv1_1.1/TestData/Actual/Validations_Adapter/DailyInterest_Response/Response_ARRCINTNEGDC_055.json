@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "INVALID_PRINC_CHANGE_FORMAT",
+    "exceptionMessage": "Invalid date or date format for principal amount change date",
+    "status": "400"
+  }
+}

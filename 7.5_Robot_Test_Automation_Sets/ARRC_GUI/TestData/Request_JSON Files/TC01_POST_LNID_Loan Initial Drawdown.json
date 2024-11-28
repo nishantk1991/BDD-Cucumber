@@ -1,0 +1,21 @@
+{
+  "creditAgreementName": "DEAL_TRANS_API_4",
+  "agentTransactionRefId": "<<agentTransactionRefId>>",
+  "dealTrackingId": "Q7G8R6US",
+  "dealISIN": null,
+  "dealCUSIP": null,
+  "outstandingType": "LOAN",
+  "borrowerName": "BORR_TRANS_API_2",
+  "pricingOption": "Test - Pricing option 2",
+  "repricingFrequency": "1 month",
+  "facilityType": "Term",
+  "facilityCUSIP": "GUSM3YJJ1",
+  "facilityISIN": "MM2801720131",
+  "facilityId": null,
+  "outstandingId": "L1",
+  "effectiveDate": "2013-07-04",
+  "maturityDate": "2015-05-21",
+  "riskType": "Risk type 1",
+  "requestedAmount": 2000,
+  "loanCurrency": "USD"
+}

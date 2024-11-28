@@ -1,0 +1,128 @@
+{
+    "comment": " Computed time : 2020-09-18T09:49:11+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2020-09-17T09:35:29+00:00",
+    "legalDisclaimer": "The SONIA benchmark is used subject to the terms of the UK Open Government License v.3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) and the Bank of England�s disclaimer for SONIA (set out below)*. The �SONIA� mark is used with the consent of the Bank of England (the benchmark administrator of SONIA), and the use of such mark does not imply or express any approval or endorsement by the Bank of England. �Bank of England� and �SONIA� are registered trade marks of the Bank of England. The Bank of England has no liability for your use of the calculator service herein.\n*Bank of England�s disclaimer for SONIA: SONIA is copyright the Bank of England. The trade marks �Bank of England� and �SONIA� are registered trade marks of the Bank of England. All Rights Reserved. The SONIA benchmark includes the proprietary information of the Bank of England and the data comprising the benchmark may not be copied or distributed except as specifically authorised. The SONIA benchmark is not intended to be relied upon as authoritative or taken in substitution for the exercise of judgement. The SONIA benchmark is not, and should not be construed as, an offer, bid or solicitation in relation to any financial instrument. The Bank of England does not guarantee, and expressly disclaims any liability for, and makes no representations or warranties whether express or implied, as to the currency, accuracy, timeliness, completeness or fitness for any particular purpose of the SONIA benchmark. The Bank of England accepts no liability whatsoever for any loss (including, but not limited to any direct, indirect or consequential loss, whether or not such loss is foreseeable and whether or not the Bank of England has been appraised of the use to which the SONIA benchmark will be put) howsoever arising from the use, the timeliness of delivery or the failure of delivery of the SONIA benchmark.",
+    "requestParameters": {
+        "interestPeriodStartDate": "2020-01-20",
+        "interestPeriodEndDate": "2020-02-03",
+        "riskFreeRate": "SONIA",
+        "lookBackDays": 9,
+        "lockoutDays": 0,
+        "observationPeriodShift": true,
+        "dayCountConvention": "ACT/360",
+        "rateRoundingDecimalPoints": 12,
+        "showDailyDetails": true
+    },
+    "dailyRateSummary": [
+        {
+            "interestPeriodDate": "2020-02-03",
+            "interestPeriodDays": 15,
+            "observationPeriodDate": "2020-01-21",
+            "observationPeriodDays": 15,
+            "publishedRiskFreeRate": 0.7117,
+            "rateApplied": 0.7117,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.711906230826
+        },
+        {
+            "interestPeriodDate": "2020-01-31",
+            "interestPeriodDays": 14,
+            "observationPeriodDate": "2020-01-20",
+            "observationPeriodDays": 14,
+            "publishedRiskFreeRate": 0.7117,
+            "rateApplied": 0.7117,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.711906887596
+        },
+        {
+            "interestPeriodDate": "2020-01-30",
+            "interestPeriodDays": 11,
+            "observationPeriodDate": "2020-01-17",
+            "observationPeriodDays": 13,
+            "publishedRiskFreeRate": 0.712,
+            "rateApplied": 0.712,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.711908727986
+        },
+        {
+            "interestPeriodDate": "2020-01-29",
+            "interestPeriodDays": 10,
+            "observationPeriodDate": "2020-01-16",
+            "observationPeriodDays": 10,
+            "publishedRiskFreeRate": 0.7117,
+            "rateApplied": 0.7117,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.711839110595
+        },
+        {
+            "interestPeriodDate": "2020-01-28",
+            "interestPeriodDays": 9,
+            "observationPeriodDate": "2020-01-15",
+            "observationPeriodDays": 9,
+            "publishedRiskFreeRate": 0.7125,
+            "rateApplied": 0.7125,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.711840494637
+        },
+        {
+            "interestPeriodDate": "2020-01-27",
+            "interestPeriodDays": 8,
+            "observationPeriodDate": "2020-01-14",
+            "observationPeriodDays": 8,
+            "publishedRiskFreeRate": 0.7111,
+            "rateApplied": 0.7111,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.711743969867
+        },
+        {
+            "interestPeriodDate": "2020-01-24",
+            "interestPeriodDays": 7,
+            "observationPeriodDate": "2020-01-13",
+            "observationPeriodDays": 7,
+            "publishedRiskFreeRate": 0.7107,
+            "rateApplied": 0.7107,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.711821905102
+        },
+        {
+            "interestPeriodDate": "2020-01-23",
+            "interestPeriodDays": 4,
+            "observationPeriodDate": "2020-01-10",
+            "observationPeriodDays": 6,
+            "publishedRiskFreeRate": 0.7117,
+            "rateApplied": 0.7117,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.711994833321
+        },
+        {
+            "interestPeriodDate": "2020-01-22",
+            "interestPeriodDays": 3,
+            "observationPeriodDate": "2020-01-09",
+            "observationPeriodDays": 3,
+            "publishedRiskFreeRate": 0.7123,
+            "rateApplied": 0.7123,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.712247424435
+        },
+        {
+            "interestPeriodDate": "2020-01-21",
+            "interestPeriodDays": 2,
+            "observationPeriodDate": "2020-01-08",
+            "observationPeriodDays": 2,
+            "publishedRiskFreeRate": 0.7124,
+            "rateApplied": 0.7124,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.712207044844
+        },
+        {
+            "interestPeriodDate": "2020-01-20",
+            "interestPeriodDays": 1,
+            "observationPeriodDate": "2020-01-07",
+            "observationPeriodDays": 1,
+            "publishedRiskFreeRate": 0.712,
+            "rateApplied": 0.712,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.712000000000
+        }
+    ]
+}

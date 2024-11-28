@@ -1,0 +1,5 @@
+{
+  "title": "VALUEDT_DATA_UNAVAILABLE",
+  "message": "Rate is not available for the valueDate provided. The most recent published SONIA rate is available from: 1997-01-02.",
+  "status": 400
+}

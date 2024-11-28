@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "NUMERIC_INVALID_FORMAT_PRIN",
+    "exceptionMessage": "Invalid value passed for principalChangeAmount",
+    "status": "400"
+  }
+}

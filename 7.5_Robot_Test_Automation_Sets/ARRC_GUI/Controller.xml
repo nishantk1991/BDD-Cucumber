@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<robotTest>
+  <testSuite name="AmendFacilityExipryMaturity Date.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Amendment\AmendFacilityExipryMaturity Date.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Amend Facility Expiry Maturity date" toRun="yes"/>
+  </testSuite>
+  <testSuite name="AmendmentCommitmentIncreaseDecrease.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Amendment\AmendmentCommitmentIncreaseDecrease.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Amendment Commitment Increase Decrease" toRun="yes"/>
+  </testSuite>
+  <testSuite name="AmendmentDealDetailsQueryCall.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Amendment\AmendmentDealDetailsQueryCall.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Deal Details Query" toRun="yes"/>
+  </testSuite>
+  <testSuite name="Amendment_PCT.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Amendment\Amendment_PCT.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Amendment Pricing Change Transaction" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CreateAmendmentWithFreeForm.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Amendment\CreateAmendmentWithFreeForm.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Create Free Form Deal Amendment" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CreateDealAmendment_Fac Extension.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Amendment\CreateDealAmendment_Fac Extension.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Create Deal Amendment_Fac Extension" toRun="yes"/>
+  </testSuite>
+  <testSuite name="UpdateDealAmendmentFreeFormTransaction.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Amendment\UpdateDealAmendmentFreeFormTransaction.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Update Deal Amendment Free Form Transaction" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CreateCustomer.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CreateCustomer.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Create Customer" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CreateCustomerAlias.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CreateCustomerAlias.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Create and Delete Customer Alias" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CreateCustomerMISCode.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CreateCustomerMISCode.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Customer MIS Code" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CreatesCustomerAddress.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CreatesCustomerAddress.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Creates Customer Address" toRun="yes"/>
+  </testSuite>
+  <testSuite name="Customer Status.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\Customer Status.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Customer Status" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerAdditionalField.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerAdditionalField.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Customer Additional Field" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerContact.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerContact.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Create Customer Contact" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerContactAssociation.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerContactAssociation.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Customer Contact Assocication" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerContactCurrency.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerContactCurrency.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_CustomerContactCurrency" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerContactNoticeMethod.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerContactNoticeMethod.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Customer Contact Notice Method" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerContactPurpose.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerContactPurpose.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Creates Customer Purposes" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerExternalRiskRating.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerExternalRiskRating.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Create Customer External Risk rating" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerLocation.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerLocation.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Customer Profile Location" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerProfile.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerProfile.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Create Customer Profile" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerRemittanceInstruction_ACH.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerRemittanceInstruction_ACH.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Add Customer Remittance Instruction-ACH" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerRemittanceInstruction_CHECK.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerRemittanceInstruction_CHECK.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Add Customer Remittance Instruction-CHECK" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerRemittanceInstruction_FED.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerRemittanceInstruction_FED.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Customer FED Remittance Instruction" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerRemittanceInstruction_LockBoxCHECK.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerRemittanceInstruction_LockBoxCHECK.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Customer LOCK_BOX_CHECK Remittance Instruction" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerRemittanceInstruction_NOSTRO.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerRemittanceInstruction_NOSTRO.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Add Customer Remittance Instruction-NOSTRO" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerServicingGroup.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerServicingGroup.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Customer Servicing group" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerServicingGroupContact.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerServicingGroupContact.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Customer Servicing group contact" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CustomerSICCode.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CustomerSICCode.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Create Customer SIC code" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CutomerFaxNumber.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\CutomerFaxNumber.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Create Customer Fax number" toRun="yes"/>
+  </testSuite>
+  <testSuite name="RemittanceInstructionComment.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\RemittanceInstructionComment.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Remittance Instruction Comment" toRun="yes"/>
+  </testSuite>
+  <testSuite name="RemittanceInstructionLocationAssociation.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Customer\RemittanceInstructionLocationAssociation.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Customer Remittance Instruction Location Association" toRun="yes"/>
+  </testSuite>
+  <testSuite name="AddDealBorrowers.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Deal\AddDealBorrowers.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Add Deal Borrowers" toRun="yes"/>
+  </testSuite>
+  <testSuite name="AddRemittanceInstructions.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Deal\AddRemittanceInstructions.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_ADD Remittance Instruction" toRun="yes"/>
+  </testSuite>
+  <testSuite name="Create Deal.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Deal\Create Deal.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Create Deal" toRun="yes"/>
+  </testSuite>
+  <testSuite name="Deal Personnel.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Deal\Deal Personnel.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Deal Personnel" toRun="yes"/>
+  </testSuite>
+  <testSuite name="Deal Servicing Group.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Deal\Deal Servicing Group.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Deal Servicing Group" toRun="yes"/>
+  </testSuite>
+  <testSuite name="Deal Status.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Deal\Deal Status.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Facility Status" toRun="yes"/>
+  </testSuite>
+  <testSuite name="DealEventFees.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Deal\DealEventFees.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Deal Event Fees" toRun="yes"/>
+  </testSuite>
+  <testSuite name="DealPricingOption.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Deal\DealPricingOption.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Deal Pricing Options" toRun="yes"/>
+  </testSuite>
+  <testSuite name="UpdateDealPricingOptionWithRepricingFrequency.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Deal\UpdateDealPricingOptionWithRepricingFrequency.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Update Deal Pricing Options" toRun="yes"/>
+  </testSuite>
+  <testSuite name="AddFacilityBorrower.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\AddFacilityBorrower.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_View Favorites" toRun="yes"/>
+  </testSuite>
+  <testSuite name="AddGuarantor.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\AddGuarantor.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Facility Add Guarantor" toRun="yes"/>
+  </testSuite>
+  <testSuite name="AlterMisCode.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\AlterMisCode.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Alter MIS Code" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CreateFacility.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\CreateFacility.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Creates Facility" toRun="yes"/>
+  </testSuite>
+  <testSuite name="Facility Status.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\Facility Status.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Facility Status" toRun="yes"/>
+  </testSuite>
+  <testSuite name="FacilityBorrowerCurrencyLimit.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\FacilityBorrowerCurrencyLimit.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Facility Borrower Currency Limit" toRun="yes"/>
+  </testSuite>
+  <testSuite name="FacilityBorrowerRiskTypeLimit.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\FacilityBorrowerRiskTypeLimit.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Facility Borrower Currency Limit" toRun="yes"/>
+  </testSuite>
+  <testSuite name="FacilityBorrowerSubLimitLimit.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\FacilityBorrowerSubLimitLimit.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Facility Borrower Sublimit Limit" toRun="yes"/>
+  </testSuite>
+  <testSuite name="FacilityBorrowingBase.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\FacilityBorrowingBase.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Create Facility Borrowing Base" toRun="yes"/>
+  </testSuite>
+  <testSuite name="FacilityFeeDate.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\FacilityFeeDate.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Facility Fee Date" toRun="yes"/>
+  </testSuite>
+  <testSuite name="FacilityOngoingFeePricing.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\FacilityOngoingFeePricing.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Facility Ongoing Fee Pricing" toRun="yes"/>
+  </testSuite>
+  <testSuite name="FacilityPastDuePricing.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\FacilityPastDuePricing.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Add Past Due Pricing Option" toRun="yes"/>
+  </testSuite>
+  <testSuite name="FacilityPricingOption.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\FacilityPricingOption.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Facility Pricing Option" toRun="yes"/>
+  </testSuite>
+  <testSuite name="FacilityProductCurrency.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\FacilityProductCurrency.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Facility Product Currency" toRun="yes"/>
+  </testSuite>
+  <testSuite name="FacilityRiskTypeandPurpose.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\FacilityRiskTypeandPurpose.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Facility Risk type and Purpose" toRun="yes"/>
+  </testSuite>
+  <testSuite name="QueryFacilityAPI.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\QueryFacilityAPI.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Query Facility APIs" toRun="yes"/>
+  </testSuite>
+  <testSuite name="UpdateFacility.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\UpdateFacility.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Update Facility" toRun="yes"/>
+  </testSuite>
+  <testSuite name="UpdateFacPricingOptionFrequency.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Facility\UpdateFacPricingOptionFrequency.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Adhoc Query related to outstanding" toRun="yes"/>
+  </testSuite>
+  <testSuite name="Add Favorite.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Others\Add Favorite.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Add Favorites" toRun="yes"/>
+  </testSuite>
+  <testSuite name="FactoryFilter.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Others\FactoryFilter.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Update Deal Amendment Free Form Transaction" toRun="yes"/>
+  </testSuite>
+  <testSuite name="HolidayCalender.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Others\HolidayCalender.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Holiday Calender" toRun="yes"/>
+  </testSuite>
+  <testSuite name="HostDataEntity.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Others\HostDataEntity.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Host Data Enity" toRun="yes"/>
+  </testSuite>
+  <testSuite name="QuerySwiftCode.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Others\QuerySwiftCode.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Query Swift Code" toRun="yes"/>
+  </testSuite>
+  <testSuite name="RemoveFavorites.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Others\RemoveFavorites.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Remove Favorites" toRun="yes"/>
+  </testSuite>
+  <testSuite name="UpdateDepositAmount.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Others\UpdateDepositAmount.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Update Deposit Amount" toRun="yes"/>
+  </testSuite>
+  <testSuite name="View Favorites.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Others\View Favorites.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_View Favorites" toRun="yes"/>
+  </testSuite>
+  <testSuite name="AdhocQueryRelatedtoOST.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Outstanding\AdhocQueryRelatedtoOST.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Adhoc Query related to outstanding" toRun="yes"/>
+  </testSuite>
+  <testSuite name="CreateLoanInitialDrawdown.robot" path="C:\Robot_Testcases\FBL_RESTAPI_Automation\/TestCases\FBL_REST_API\Outstanding\CreateLoanInitialDrawdown.robot" runAllTestcases="" tag="" toRun="yes">
+    <testCase testcaseName="POST_Create Loan Initial Drawdown" toRun="yes"/>
+  </testSuite>
+</robotTest>

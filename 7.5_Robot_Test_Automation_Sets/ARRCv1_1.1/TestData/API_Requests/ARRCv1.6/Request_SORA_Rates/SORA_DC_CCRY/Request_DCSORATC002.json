@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/daily-compounding/rates?spreadAdjustment=-0.01&legacyRiskFreeRateFloor=0.0012&riskFreeRate=SORA&rateRoundingDecimalPoints=6&interestPeriodStartDate=2021-01-01&interestPeriodEndDate=2022-01-01&showDailyDetails=true&lookBackDays=99&lockoutDays=55&dayCountConvention=ACT/365&ccrRoundingApplies=true&ccrRoundingPrecision=6

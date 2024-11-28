@@ -1,0 +1,57 @@
+{
+    "comment": " Computed time : 2020-11-10T06:23:13+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2020-08-05T09:45:12+00:00",
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "requestParameters": {
+        "interestPeriodStartDate": "2020-05-18",
+        "interestPeriodEndDate": "2020-05-25",
+        "riskFreeRate": "SOFR",
+        "lookBackDays": 1,
+        "lockoutDays": 3,
+        "dayCountConvention": "ACT/360",
+        "showDailyDetails": true,
+        "calculateTillDate": "2020-05-19"
+    },
+    "dailyRateSummary": [
+        {
+            "interestPeriodDate": "2020-05-22",
+            "interestPeriodDays": 8,
+            "publishedRiskFreeRate": 0.04,
+            "rateApplied": 0.04,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.04125
+        },
+        {
+            "interestPeriodDate": "2020-05-21",
+            "interestPeriodDays": 4,
+            "publishedRiskFreeRate": 0.04,
+            "rateApplied": 0.04,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.04250
+        },
+        {
+            "interestPeriodDate": "2020-05-20",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 0.04,
+            "rateApplied": 0.04,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.04333
+        },
+        {
+            "interestPeriodDate": "2020-05-19",
+            "interestPeriodDays": 2,
+            "publishedRiskFreeRate": 0.04,
+            "rateApplied": 0.04,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.04500
+        },
+        {
+            "interestPeriodDate": "2020-05-18",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.05,
+            "rateApplied": 0.05,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.05000
+        }
+    ]
+}

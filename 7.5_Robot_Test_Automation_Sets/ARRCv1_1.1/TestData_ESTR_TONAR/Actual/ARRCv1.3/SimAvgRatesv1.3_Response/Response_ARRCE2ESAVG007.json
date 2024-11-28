@@ -1,0 +1,89 @@
+{
+  "comment": " The most recent published ESTR RFR rate is available as-of: 2020-05-19. Computed time : 2021-11-22T11:38:23+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-10-29T00:00:00+00:00",
+  "legalDisclaimer": "Use of euro short-term rate (€STR) is subject to the ECB’s €STR disclaimer under https://www.ecb.europa.eu/stats/financial_markets_and_interest_rates/euro_short-term_rate/html/index.en.html#disclaimer.",
+  "requestParameters": {
+    "interestPeriodStartDate": "2019-12-19",
+    "interestPeriodEndDate": "2020-01-02",
+    "riskFreeRate": "ESTR",
+    "lookBackDays": 5,
+    "lockoutDays": 2,
+    "rateRoundingDecimalPoints": 12,
+    "showDailyDetails": true,
+    "calculateTillDate": "2020-01-02"
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2020-01-02",
+      "interestPeriodDays": 15,
+      "publishedRiskFreeRate": -0.01,
+      "rateApplied": -0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": -0.015333333333
+    },
+    {
+      "interestPeriodDate": "2019-12-31",
+      "interestPeriodDays": 14,
+      "publishedRiskFreeRate": -0.01,
+      "rateApplied": -0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": -0.015714285714
+    },
+    {
+      "interestPeriodDate": "2019-12-30",
+      "interestPeriodDays": 12,
+      "publishedRiskFreeRate": -0.01,
+      "rateApplied": -0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": -0.016666666667
+    },
+    {
+      "interestPeriodDate": "2019-12-27",
+      "interestPeriodDays": 11,
+      "publishedRiskFreeRate": -0.05,
+      "rateApplied": -0.05,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": -0.017272727273
+    },
+    {
+      "interestPeriodDate": "2019-12-26",
+      "interestPeriodDays": 8,
+      "publishedRiskFreeRate": -0.04,
+      "rateApplied": -0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": -0.005
+    },
+    {
+      "interestPeriodDate": "2019-12-24",
+      "interestPeriodDays": 7,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0
+    },
+    {
+      "interestPeriodDate": "2019-12-23",
+      "interestPeriodDays": 5,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0
+    },
+    {
+      "interestPeriodDate": "2019-12-20",
+      "interestPeriodDays": 4,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0
+    },
+    {
+      "interestPeriodDate": "2019-12-19",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0
+    }
+  ]
+}

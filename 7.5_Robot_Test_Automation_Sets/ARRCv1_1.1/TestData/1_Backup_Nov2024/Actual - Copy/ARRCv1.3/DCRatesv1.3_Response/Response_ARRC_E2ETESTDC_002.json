@@ -1,0 +1,63 @@
+{
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2020-05-19. Computed time : 2022-02-16T05:36:40+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-18T00:00:00+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "requestParameters": {
+    "interestPeriodStartDate": "2020-05-18",
+    "interestPeriodEndDate": "2020-05-25",
+    "riskFreeRate": "SOFR",
+    "lookBackDays": 1,
+    "lockoutDays": 3,
+    "dayCountConvention": "ACT/360",
+    "rateRoundingDecimalPoints": 12,
+    "showDailyDetails": true,
+    "calculateTillDate": "2020-05-19"
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2020-05-22",
+      "interestPeriodDays": 4,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00000472223,
+      "dailyCompoundedRate": 0.040000188889
+    },
+    {
+      "interestPeriodDate": "2020-05-21",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000003611115,
+      "dailyCompoundedRate": 0.040000144445
+    },
+    {
+      "interestPeriodDate": "2020-05-20",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000002500001,
+      "dailyCompoundedRate": 0.0400001
+    },
+    {
+      "interestPeriodDate": "2020-05-19",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000001388889,
+      "dailyCompoundedRate": 0.040000055556
+    },
+    {
+      "interestPeriodDate": "2020-05-18",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": 0.05
+    }
+  ]
+}

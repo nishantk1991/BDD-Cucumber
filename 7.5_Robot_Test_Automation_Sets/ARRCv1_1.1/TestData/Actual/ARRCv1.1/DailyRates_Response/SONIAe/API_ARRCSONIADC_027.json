@@ -1,0 +1,1170 @@
+{
+  "comment": " The most recent published SONIA RFR rate is available as-of: 2021-11-17. Computed time : 2021-11-19T07:30:28+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-18T00:00:00+00:00",
+  "legalDisclaimer": "SONIA and SONIA Compounded Index are copyright the Bank of England. The trade marks Bank of England and SONIA are registered trade marks of the Bank of England. All Rights Reserved. The SONIA benchmark and SONIA Compounded Index include the proprietary information of the Bank of England and the data comprising the benchmark and SONIA Compounded Index may not be copied or distributed except as specifically authorised. The SONIA benchmark and SONIA Compounded Index are not intended to be relied upon as authoritative or taken in substitution for the exercise of judgement and do not constitute investment advice. The SONIA benchmark and SONIA Compounded Index are not, and should not be construed as, an offer, bid or solicitation in relation to any financial instrument. The Bank of England does not guarantee, and expressly disclaims any liability for, and makes no representations or warranties whether express or implied, as to the currency, accuracy, timeliness, completeness or fitness for any particular purpose of the SONIA benchmark and SONIA Compounded Index. The Bank of England accepts no liability whatsoever for any loss (including, but not limited to any direct, indirect or consequential loss, whether or not such loss is foreseeable and whether or not the Bank of England has been appraised of the use to which the SONIA benchmark or SONIA Compounded Index will be put) howsoever arising from the use, the timeliness of delivery or the failure of delivery of the SONIA benchmark or SONIA Compounded Index.",
+  "requestParameters": {
+    "interestPeriodStartDate": "2018-07-02",
+    "interestPeriodEndDate": "2019-01-01",
+    "riskFreeRate": "SONIA",
+    "lookBackDays": 10,
+    "lockoutDays": 8,
+    "observationPeriodShift": false,
+    "dayCountConvention": "ACT/ACT",
+    "rateRoundingDecimalPoints": 12,
+    "showDailyDetails": true
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2018-12-31",
+      "interestPeriodDays": 2,
+      "publishedRiskFreeRate": 0.7019,
+      "rateApplied": 0.7019,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.003196719427,
+      "dailyCompoundedRate": 0.704143777366
+    },
+    {
+      "interestPeriodDate": "2018-12-28",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7019,
+      "rateApplied": 0.7019,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.003138847935,
+      "dailyCompoundedRate": 0.704103157365
+    },
+    {
+      "interestPeriodDate": "2018-12-27",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7019,
+      "rateApplied": 0.7019,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.003119557808,
+      "dailyCompoundedRate": 0.704089617625
+    },
+    {
+      "interestPeriodDate": "2018-12-24",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7019,
+      "rateApplied": 0.7019,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.003061690767,
+      "dailyCompoundedRate": 0.704049000749
+    },
+    {
+      "interestPeriodDate": "2018-12-21",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7019,
+      "rateApplied": 0.7019,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.003003827064,
+      "dailyCompoundedRate": 0.704008386216
+    },
+    {
+      "interestPeriodDate": "2018-12-20",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7019,
+      "rateApplied": 0.7019,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002984539534,
+      "dailyCompoundedRate": 0.703994848299
+    },
+    {
+      "interestPeriodDate": "2018-12-19",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7019,
+      "rateApplied": 0.7019,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002965252375,
+      "dailyCompoundedRate": 0.703981310642
+    },
+    {
+      "interestPeriodDate": "2018-12-18",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7019,
+      "rateApplied": 0.7019,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002945965586,
+      "dailyCompoundedRate": 0.703967773245
+    },
+    {
+      "interestPeriodDate": "2018-12-17",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7019,
+      "rateApplied": 0.7019,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002926679169,
+      "dailyCompoundedRate": 0.703954236109
+    },
+    {
+      "interestPeriodDate": "2018-12-14",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7002,
+      "rateApplied": 0.7002,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002868963373,
+      "dailyCompoundedRate": 0.702208848154
+    },
+    {
+      "interestPeriodDate": "2018-12-13",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7017,
+      "rateApplied": 0.7017,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002849683931,
+      "dailyCompoundedRate": 0.703699623215
+    },
+    {
+      "interestPeriodDate": "2018-12-12",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.701,
+      "rateApplied": 0.701,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002830424092,
+      "dailyCompoundedRate": 0.702984127289
+    },
+    {
+      "interestPeriodDate": "2018-12-11",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7018,
+      "rateApplied": 0.7018,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002811142644,
+      "dailyCompoundedRate": 0.703772859908
+    },
+    {
+      "interestPeriodDate": "2018-12-10",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.701,
+      "rateApplied": 0.701,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002791883545,
+      "dailyCompoundedRate": 0.702957110365
+    },
+    {
+      "interestPeriodDate": "2018-12-07",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7032,
+      "rateApplied": 0.7032,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002733928271,
+      "dailyCompoundedRate": 0.70512249836
+    },
+    {
+      "interestPeriodDate": "2018-12-06",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7031,
+      "rateApplied": 0.7031,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002714612966,
+      "dailyCompoundedRate": 0.705008644376
+    },
+    {
+      "interestPeriodDate": "2018-12-05",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7028,
+      "rateApplied": 0.7028,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002695306274,
+      "dailyCompoundedRate": 0.704694261249
+    },
+    {
+      "interestPeriodDate": "2018-12-04",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7013,
+      "rateApplied": 0.7013,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002676041159,
+      "dailyCompoundedRate": 0.703176707665
+    },
+    {
+      "interestPeriodDate": "2018-12-03",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7006,
+      "rateApplied": 0.7006,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002656795642,
+      "dailyCompoundedRate": 0.702461351027
+    },
+    {
+      "interestPeriodDate": "2018-11-30",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7007,
+      "rateApplied": 0.7007,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002599054177,
+      "dailyCompoundedRate": 0.702521157262
+    },
+    {
+      "interestPeriodDate": "2018-11-29",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7019,
+      "rateApplied": 0.7019,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002579774431,
+      "dailyCompoundedRate": 0.703710743673
+    },
+    {
+      "interestPeriodDate": "2018-11-28",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7013,
+      "rateApplied": 0.7013,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002560511535,
+      "dailyCompoundedRate": 0.70309568674
+    },
+    {
+      "interestPeriodDate": "2018-11-27",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7025,
+      "rateApplied": 0.7025,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00254121605,
+      "dailyCompoundedRate": 0.704285204275
+    },
+    {
+      "interestPeriodDate": "2018-11-26",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7023,
+      "rateApplied": 0.7023,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00252192643,
+      "dailyCompoundedRate": 0.704071148932
+    },
+    {
+      "interestPeriodDate": "2018-11-23",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7028,
+      "rateApplied": 0.7028,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002464019714,
+      "dailyCompoundedRate": 0.704531713055
+    },
+    {
+      "interestPeriodDate": "2018-11-22",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7023,
+      "rateApplied": 0.7023,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002444731578,
+      "dailyCompoundedRate": 0.704016934987
+    },
+    {
+      "interestPeriodDate": "2018-11-21",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7031,
+      "rateApplied": 0.7031,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002425421844,
+      "dailyCompoundedRate": 0.704805314098
+    },
+    {
+      "interestPeriodDate": "2018-11-20",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7017,
+      "rateApplied": 0.7017,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002406150929,
+      "dailyCompoundedRate": 0.703388396107
+    },
+    {
+      "interestPeriodDate": "2018-11-19",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7009,
+      "rateApplied": 0.7009,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002386902354,
+      "dailyCompoundedRate": 0.70257297986
+    },
+    {
+      "interestPeriodDate": "2018-11-16",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7005,
+      "rateApplied": 0.7005,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002329192907,
+      "dailyCompoundedRate": 0.702131599632
+    },
+    {
+      "interestPeriodDate": "2018-11-15",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7006,
+      "rateApplied": 0.7006,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002309954048,
+      "dailyCompoundedRate": 0.702218353806
+    },
+    {
+      "interestPeriodDate": "2018-11-14",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7002,
+      "rateApplied": 0.7002,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002290726543,
+      "dailyCompoundedRate": 0.701803966725
+    },
+    {
+      "interestPeriodDate": "2018-11-13",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7013,
+      "rateApplied": 0.7013,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002271469201,
+      "dailyCompoundedRate": 0.70289298135
+    },
+    {
+      "interestPeriodDate": "2018-11-12",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7011,
+      "rateApplied": 0.7011,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00225221772,
+      "dailyCompoundedRate": 0.702679029844
+    },
+    {
+      "interestPeriodDate": "2018-11-09",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7021,
+      "rateApplied": 0.7021,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00219438424,
+      "dailyCompoundedRate": 0.703640677175
+    },
+    {
+      "interestPeriodDate": "2018-11-08",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.6988,
+      "rateApplied": 0.6988,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00217519739,
+      "dailyCompoundedRate": 0.700320027936
+    },
+    {
+      "interestPeriodDate": "2018-11-07",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7023,
+      "rateApplied": 0.7023,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002155914812,
+      "dailyCompoundedRate": 0.703814098972
+    },
+    {
+      "interestPeriodDate": "2018-11-06",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7004,
+      "rateApplied": 0.7004,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00213668477,
+      "dailyCompoundedRate": 0.701896534013
+    },
+    {
+      "interestPeriodDate": "2018-11-05",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.699,
+      "rateApplied": 0.699,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002117493533,
+      "dailyCompoundedRate": 0.70048012798
+    },
+    {
+      "interestPeriodDate": "2018-11-02",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.6999,
+      "rateApplied": 0.6999,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002059849011,
+      "dailyCompoundedRate": 0.701341688323
+    },
+    {
+      "interestPeriodDate": "2018-11-01",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7017,
+      "rateApplied": 0.7017,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002040585124,
+      "dailyCompoundedRate": 0.703131878582
+    },
+    {
+      "interestPeriodDate": "2018-10-31",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7016,
+      "rateApplied": 0.7016,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002021324352,
+      "dailyCompoundedRate": 0.703018161166
+    },
+    {
+      "interestPeriodDate": "2018-10-30",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7012,
+      "rateApplied": 0.7012,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.002002074932,
+      "dailyCompoundedRate": 0.702603854942
+    },
+    {
+      "interestPeriodDate": "2018-10-29",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.701,
+      "rateApplied": 0.701,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001982831371,
+      "dailyCompoundedRate": 0.702389964791
+    },
+    {
+      "interestPeriodDate": "2018-10-26",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7012,
+      "rateApplied": 0.7012,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001925087546,
+      "dailyCompoundedRate": 0.702549871387
+    },
+    {
+      "interestPeriodDate": "2018-10-25",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.6999,
+      "rateApplied": 0.6999,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001905875658,
+      "dailyCompoundedRate": 0.701233922373
+    },
+    {
+      "interestPeriodDate": "2018-10-24",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.6997,
+      "rateApplied": 0.6997,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001886669628,
+      "dailyCompoundedRate": 0.701020102738
+    },
+    {
+      "interestPeriodDate": "2018-10-23",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7019,
+      "rateApplied": 0.7019,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00186740358,
+      "dailyCompoundedRate": 0.703210730573
+    },
+    {
+      "interestPeriodDate": "2018-10-22",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7021,
+      "rateApplied": 0.7021,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001848132414,
+      "dailyCompoundedRate": 0.703397573768
+    },
+    {
+      "interestPeriodDate": "2018-10-19",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.701,
+      "rateApplied": 0.701,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001790412818,
+      "dailyCompoundedRate": 0.702255079386
+    },
+    {
+      "interestPeriodDate": "2018-10-18",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7023,
+      "rateApplied": 0.7023,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001771137644,
+      "dailyCompoundedRate": 0.703543869967
+    },
+    {
+      "interestPeriodDate": "2018-10-17",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7015,
+      "rateApplied": 0.7015,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001751884796,
+      "dailyCompoundedRate": 0.702728947184
+    },
+    {
+      "interestPeriodDate": "2018-10-16",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7026,
+      "rateApplied": 0.7026,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001732602129,
+      "dailyCompoundedRate": 0.703817326256
+    },
+    {
+      "interestPeriodDate": "2018-10-15",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7021,
+      "rateApplied": 0.7021,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001713333556,
+      "dailyCompoundedRate": 0.70330293149
+    },
+    {
+      "interestPeriodDate": "2018-10-12",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.6964,
+      "rateApplied": 0.6964,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001656000413,
+      "dailyCompoundedRate": 0.697553238688
+    },
+    {
+      "interestPeriodDate": "2018-10-11",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7015,
+      "rateApplied": 0.7015,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001636749778,
+      "dailyCompoundedRate": 0.702648179969
+    },
+    {
+      "interestPeriodDate": "2018-10-10",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.699,
+      "rateApplied": 0.699,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001617568115,
+      "dailyCompoundedRate": 0.700130680113
+    },
+    {
+      "interestPeriodDate": "2018-10-09",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.6995,
+      "rateApplied": 0.6995,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.0015983731,
+      "dailyCompoundedRate": 0.700618061983
+    },
+    {
+      "interestPeriodDate": "2018-10-08",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.701,
+      "rateApplied": 0.701,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001579137292,
+      "dailyCompoundedRate": 0.702106975242
+    },
+    {
+      "interestPeriodDate": "2018-10-05",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7003,
+      "rateApplied": 0.7003,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001521490813,
+      "dailyCompoundedRate": 0.701365500016
+    },
+    {
+      "interestPeriodDate": "2018-10-04",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.6999,
+      "rateApplied": 0.6999,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001502286664,
+      "dailyCompoundedRate": 0.700951450436
+    },
+    {
+      "interestPeriodDate": "2018-10-03",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7005,
+      "rateApplied": 0.7005,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00148306642,
+      "dailyCompoundedRate": 0.701538888027
+    },
+    {
+      "interestPeriodDate": "2018-10-02",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7015,
+      "rateApplied": 0.7015,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001463819109,
+      "dailyCompoundedRate": 0.702526869105
+    },
+    {
+      "interestPeriodDate": "2018-10-01",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7013,
+      "rateApplied": 0.7013,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001444577654,
+      "dailyCompoundedRate": 0.702313082309
+    },
+    {
+      "interestPeriodDate": "2018-09-28",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7016,
+      "rateApplied": 0.7016,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001386831928,
+      "dailyCompoundedRate": 0.702573001281
+    },
+    {
+      "interestPeriodDate": "2018-09-27",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7024,
+      "rateApplied": 0.7024,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001367561775,
+      "dailyCompoundedRate": 0.703360575391
+    },
+    {
+      "interestPeriodDate": "2018-09-26",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7025,
+      "rateApplied": 0.7025,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00134828925,
+      "dailyCompoundedRate": 0.703447173198
+    },
+    {
+      "interestPeriodDate": "2018-09-25",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7003,
+      "rateApplied": 0.7003,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001329077449,
+      "dailyCompoundedRate": 0.701230752937
+    },
+    {
+      "interestPeriodDate": "2018-09-24",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7016,
+      "rateApplied": 0.7016,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001309830353,
+      "dailyCompoundedRate": 0.702518976976
+    },
+    {
+      "interestPeriodDate": "2018-09-21",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7028,
+      "rateApplied": 0.7028,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001251993649,
+      "dailyCompoundedRate": 0.703679901137
+    },
+    {
+      "interestPeriodDate": "2018-09-20",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7032,
+      "rateApplied": 0.7032,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001232704147,
+      "dailyCompoundedRate": 0.704066837556
+    },
+    {
+      "interestPeriodDate": "2018-09-19",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7022,
+      "rateApplied": 0.7022,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001213442446,
+      "dailyCompoundedRate": 0.703052079286
+    },
+    {
+      "interestPeriodDate": "2018-09-18",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7046,
+      "rateApplied": 0.7046,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001194115285,
+      "dailyCompoundedRate": 0.70544137363
+    },
+    {
+      "interestPeriodDate": "2018-09-17",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.702,
+      "rateApplied": 0.702,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001174859813,
+      "dailyCompoundedRate": 0.702824751588
+    },
+    {
+      "interestPeriodDate": "2018-09-14",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7042,
+      "rateApplied": 0.7042,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001116915714,
+      "dailyCompoundedRate": 0.704986532046
+    },
+    {
+      "interestPeriodDate": "2018-09-13",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7058,
+      "rateApplied": 0.7058,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001097557504,
+      "dailyCompoundedRate": 0.706574656086
+    },
+    {
+      "interestPeriodDate": "2018-09-12",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7048,
+      "rateApplied": 0.7048,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001078227095,
+      "dailyCompoundedRate": 0.705559934457
+    },
+    {
+      "interestPeriodDate": "2018-09-11",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7032,
+      "rateApplied": 0.7032,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00105894094,
+      "dailyCompoundedRate": 0.703944647269
+    },
+    {
+      "interestPeriodDate": "2018-09-10",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7036,
+      "rateApplied": 0.7036,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001039644187,
+      "dailyCompoundedRate": 0.70433149365
+    },
+    {
+      "interestPeriodDate": "2018-09-07",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7035,
+      "rateApplied": 0.7035,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000981765502,
+      "dailyCompoundedRate": 0.70419067203
+    },
+    {
+      "interestPeriodDate": "2018-09-06",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7028,
+      "rateApplied": 0.7028,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000962492175,
+      "dailyCompoundedRate": 0.7034764395
+    },
+    {
+      "interestPeriodDate": "2018-09-05",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7037,
+      "rateApplied": 0.7037,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000943194538,
+      "dailyCompoundedRate": 0.704363725997
+    },
+    {
+      "interestPeriodDate": "2018-09-04",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7039,
+      "rateApplied": 0.7039,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00092389179,
+      "dailyCompoundedRate": 0.704550327431
+    },
+    {
+      "interestPeriodDate": "2018-09-03",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.703,
+      "rateApplied": 0.703,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000904614093,
+      "dailyCompoundedRate": 0.703635943707
+    },
+    {
+      "interestPeriodDate": "2018-08-31",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7024,
+      "rateApplied": 0.7024,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000846833697,
+      "dailyCompoundedRate": 0.702994815989
+    },
+    {
+      "interestPeriodDate": "2018-08-30",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7018,
+      "rateApplied": 0.7018,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000827590387,
+      "dailyCompoundedRate": 0.702380802934
+    },
+    {
+      "interestPeriodDate": "2018-08-29",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7021,
+      "rateApplied": 0.7021,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000808339222,
+      "dailyCompoundedRate": 0.702667534968
+    },
+    {
+      "interestPeriodDate": "2018-08-28",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7037,
+      "rateApplied": 0.7037,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000789044557,
+      "dailyCompoundedRate": 0.704255250655
+    },
+    {
+      "interestPeriodDate": "2018-08-24",
+      "interestPeriodDays": 4,
+      "publishedRiskFreeRate": 0.7035,
+      "rateApplied": 0.7035,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000711893783,
+      "dailyCompoundedRate": 0.704000817276
+    },
+    {
+      "interestPeriodDate": "2018-08-23",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7019,
+      "rateApplied": 0.7019,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000692650326,
+      "dailyCompoundedRate": 0.702386171264
+    },
+    {
+      "interestPeriodDate": "2018-08-22",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7028,
+      "rateApplied": 0.7028,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000673382566,
+      "dailyCompoundedRate": 0.703273253267
+    },
+    {
+      "interestPeriodDate": "2018-08-21",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7011,
+      "rateApplied": 0.7011,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000654161781,
+      "dailyCompoundedRate": 0.701558632825
+    },
+    {
+      "interestPeriodDate": "2018-08-20",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7006,
+      "rateApplied": 0.7006,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000634955073,
+      "dailyCompoundedRate": 0.701044849524
+    },
+    {
+      "interestPeriodDate": "2018-08-17",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7028,
+      "rateApplied": 0.7028,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00057715735,
+      "dailyCompoundedRate": 0.703205626186
+    },
+    {
+      "interestPeriodDate": "2018-08-16",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.6897,
+      "rateApplied": 0.6897,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000558250911,
+      "dailyCompoundedRate": 0.690085025653
+    },
+    {
+      "interestPeriodDate": "2018-08-15",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4522,
+      "rateApplied": 0.4522,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000545855107,
+      "dailyCompoundedRate": 0.45244683568
+    },
+    {
+      "interestPeriodDate": "2018-08-14",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4503,
+      "rateApplied": 0.4503,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000533511539,
+      "dailyCompoundedRate": 0.450540240246
+    },
+    {
+      "interestPeriodDate": "2018-08-13",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4523,
+      "rateApplied": 0.4523,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000521113301,
+      "dailyCompoundedRate": 0.452535699546
+    },
+    {
+      "interestPeriodDate": "2018-08-10",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.4532,
+      "rateApplied": 0.4532,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000483845963,
+      "dailyCompoundedRate": 0.45341927899
+    },
+    {
+      "interestPeriodDate": "2018-08-09",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4532,
+      "rateApplied": 0.4532,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000471423671,
+      "dailyCompoundedRate": 0.453413649208
+    },
+    {
+      "interestPeriodDate": "2018-08-08",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.454,
+      "rateApplied": 0.454,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000458979606,
+      "dailyCompoundedRate": 0.454208376741
+    },
+    {
+      "interestPeriodDate": "2018-08-07",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4548,
+      "rateApplied": 0.4548,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000446513768,
+      "dailyCompoundedRate": 0.455003074462
+    },
+    {
+      "interestPeriodDate": "2018-08-06",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4537,
+      "rateApplied": 0.4537,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000434078236,
+      "dailyCompoundedRate": 0.453896941296
+    },
+    {
+      "interestPeriodDate": "2018-08-03",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.4557,
+      "rateApplied": 0.4557,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000396608586,
+      "dailyCompoundedRate": 0.455880734533
+    },
+    {
+      "interestPeriodDate": "2018-08-02",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4538,
+      "rateApplied": 0.4538,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000384170933,
+      "dailyCompoundedRate": 0.45397433677
+    },
+    {
+      "interestPeriodDate": "2018-08-01",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4543,
+      "rateApplied": 0.4543,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000371719731,
+      "dailyCompoundedRate": 0.454468872274
+    },
+    {
+      "interestPeriodDate": "2018-07-31",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4541,
+      "rateApplied": 0.4541,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000359274166,
+      "dailyCompoundedRate": 0.454263146399
+    },
+    {
+      "interestPeriodDate": "2018-07-30",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4552,
+      "rateApplied": 0.4552,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000346798608,
+      "dailyCompoundedRate": 0.455357862726
+    },
+    {
+      "interestPeriodDate": "2018-07-27",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.4565,
+      "rateApplied": 0.4565,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000309266456,
+      "dailyCompoundedRate": 0.456641180137
+    },
+    {
+      "interestPeriodDate": "2018-07-26",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4563,
+      "rateApplied": 0.4563,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000296761376,
+      "dailyCompoundedRate": 0.456435412216
+    },
+    {
+      "interestPeriodDate": "2018-07-25",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4544,
+      "rateApplied": 0.4544,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000284308522,
+      "dailyCompoundedRate": 0.454529189792
+    },
+    {
+      "interestPeriodDate": "2018-07-24",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4549,
+      "rateApplied": 0.4549,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.00027184212,
+      "dailyCompoundedRate": 0.45502366098
+    },
+    {
+      "interestPeriodDate": "2018-07-23",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4567,
+      "rateApplied": 0.4567,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000259326546,
+      "dailyCompoundedRate": 0.456818434434
+    },
+    {
+      "interestPeriodDate": "2018-07-20",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.458,
+      "rateApplied": 0.458,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000221674366,
+      "dailyCompoundedRate": 0.45810152686
+    },
+    {
+      "interestPeriodDate": "2018-07-19",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4563,
+      "rateApplied": 0.4563,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000209170381,
+      "dailyCompoundedRate": 0.456395444445
+    },
+    {
+      "interestPeriodDate": "2018-07-18",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4546,
+      "rateApplied": 0.4546,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000196713137,
+      "dailyCompoundedRate": 0.454689425792
+    },
+    {
+      "interestPeriodDate": "2018-07-17",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4543,
+      "rateApplied": 0.4543,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000184264268,
+      "dailyCompoundedRate": 0.454383711257
+    },
+    {
+      "interestPeriodDate": "2018-07-16",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4531,
+      "rateApplied": 0.4531,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000171848436,
+      "dailyCompoundedRate": 0.453177864526
+    },
+    {
+      "interestPeriodDate": "2018-07-13",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.4399,
+      "rateApplied": 0.4399,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000135687366,
+      "dailyCompoundedRate": 0.439959688872
+    },
+    {
+      "interestPeriodDate": "2018-07-12",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4515,
+      "rateApplied": 0.4515,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000123315977,
+      "dailyCompoundedRate": 0.451555677164
+    },
+    {
+      "interestPeriodDate": "2018-07-11",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4495,
+      "rateApplied": 0.4495,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000110999542,
+      "dailyCompoundedRate": 0.449549894294
+    },
+    {
+      "interestPeriodDate": "2018-07-10",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4498,
+      "rateApplied": 0.4498,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000098675038,
+      "dailyCompoundedRate": 0.449844384032
+    },
+    {
+      "interestPeriodDate": "2018-07-09",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4512,
+      "rateApplied": 0.4512,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000086312327,
+      "dailyCompoundedRate": 0.451238944122
+    },
+    {
+      "interestPeriodDate": "2018-07-06",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.4491,
+      "rateApplied": 0.4491,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000049398175,
+      "dailyCompoundedRate": 0.449122184721
+    },
+    {
+      "interestPeriodDate": "2018-07-05",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4513,
+      "rateApplied": 0.4513,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000037033334,
+      "dailyCompoundedRate": 0.451316713144
+    },
+    {
+      "interestPeriodDate": "2018-07-04",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4495,
+      "rateApplied": 0.4495,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000024717961,
+      "dailyCompoundedRate": 0.449511110723
+    },
+    {
+      "interestPeriodDate": "2018-07-03",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4507,
+      "rateApplied": 0.4507,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000012369863,
+      "dailyCompoundedRate": 0.450705575097
+    },
+    {
+      "interestPeriodDate": "2018-07-02",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.4515,
+      "rateApplied": 0.4515,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": 0.4515
+    }
+  ]
+}

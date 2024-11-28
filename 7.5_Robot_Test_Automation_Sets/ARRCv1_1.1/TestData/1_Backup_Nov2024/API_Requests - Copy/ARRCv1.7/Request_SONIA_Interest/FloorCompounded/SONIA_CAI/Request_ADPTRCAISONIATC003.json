@@ -1,0 +1,33 @@
+{
+	
+	"initialPrincipalBalance": 9788884545.0,
+	"interestPeriodStartDate": "2021-04-02",
+	"interestPeriodEndDate": "2021-05-01",
+	"calculateTillDate": "2021-05-01",
+	"riskFreeRate": "SONIA",
+	"riskFreeRateFloor": 0.9,
+	"spread": 0.34430,
+	"lookBackDays": 5,
+	"lockoutDays": 0,
+	"showDailyDetails": true,
+	"spreadAdjustment": -0.06435,
+	"floorCompoundedRate": true,
+	"observationPeriodShift": true,
+	"dayCountConvention": "ACT/360",
+	"paymentRounding": "DOWN",
+  "principalAmountChanges": [
+
+	{
+		"date": "2021-04-02",
+		"principalAmountChange": -56666.87
+	},
+	{
+		"date": "2021-04-17",
+		"principalAmountChange": 2000000
+	},
+	{
+		"date": "2021-04-27",
+		"principalAmountChange": -65656565
+	}
+	]
+}

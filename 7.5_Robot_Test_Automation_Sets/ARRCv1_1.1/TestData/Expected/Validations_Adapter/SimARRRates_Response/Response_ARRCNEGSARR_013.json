@@ -1,0 +1,17 @@
+{
+  "message": "Bad Request",
+  "_links": {
+    "self": {
+      "href": "/corporate/lending/alternative-reference-rates/v1/simple-arr/rates?rateRoundingDecimalPoints=5&interestPeriodStartDate=2020-04-19&interestPeriodEndDate=2020-04-30",
+      "templated": false
+    }
+  },
+  "_embedded": {
+    "errors": [
+      {
+        "message": "Required QueryValue [riskFreeRate] not specified",
+        "path": "/riskFreeRate"
+      }
+    ]
+  }
+}

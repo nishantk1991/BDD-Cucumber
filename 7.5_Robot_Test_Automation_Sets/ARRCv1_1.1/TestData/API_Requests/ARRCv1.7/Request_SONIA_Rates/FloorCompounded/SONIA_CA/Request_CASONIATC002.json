@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/compounded-in-arrears/average-rate?interestPeriodStartDate=2021-03-31&interestPeriodEndDate=2026-05-01&calculateTillDate=2021-10-09&riskFreeRate=SONIA&riskFreeRateFloor=-0.03&spread=-0.000344&lookBackDays=95&lockoutDays=10&showDailyDetails=true&floorCompoundedRate=true&rateRoundingDecimalPoints=12&dayCountConvention=ACT/365

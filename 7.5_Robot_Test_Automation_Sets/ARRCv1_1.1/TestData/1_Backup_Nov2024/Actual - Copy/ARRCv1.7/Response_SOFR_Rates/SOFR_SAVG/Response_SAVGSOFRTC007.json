@@ -1,0 +1,1225 @@
+{
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2024-07-02. Computed time : 2024-07-04T12:40:29+00:00. Computed time is the time stamp when the calculation was completed.  Note : SOFR rate was not published on or for April 7th, 2023 (Friday) by New York Fed, even though April 7th was a business day as per SIFMA (Securities Industry and Financial Markets Association). Given that there was no SOFR rate available for April 7th, 2023 Finastra had added April 7th as a SOFR publishing holiday in the ARR Calculator. However, based on subsequent feedback from our client base, ARR Working Group, and conversations with LSTA/LMA, Finastra has decided to keep April 7th 2023 as a business day, with the SOFR rate used for 7th April, 2023 to be the same value of the rate for preceding business day, Thursday, April 6th, 2023 (which was published on Monday, April 10th, 2023). This change will ensure lookback dates are aligned with the market expectation.Note that choosing this approach has a impact on the compounding calculations - For a given interest period that includes 7th Apr, Cumulative Compounded Rate Calculations done on the ARR Calculator (Calculation Method: Average Compounded in Arrears) will not match with published SOFR Averages or Cumulative Compounded Rate calculated based on published SOFR Index.This change is effective from Monday, June 12th, 2023 and impacts all the rate calculation methods only for SOFR rate. Other RFR rates are not impacted.Please be advised that if you have used ARR Calculator for rate/interest calculations for SOFR Loans whose interest/lookback/observation period includes 7 April 2023, you may want to relook at the rate/interest calculations if this change impacts those loans.",
+  "lastUpdatedFromSource": "2024-07-03T12:40:03+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "requestParameters": {
+    "interestPeriodStartDate": "2021-03-31",
+    "interestPeriodEndDate": "2026-05-01",
+    "riskFreeRate": "SOFR",
+    "riskFreeRateFloor": -0.03,
+    "lookBackDays": 95,
+    "lockoutDays": 10,
+    "dayCountConvention": "ACT/360",
+    "rateRoundingDecimalPoints": 12,
+    "showDailyDetails": true,
+    "calculateTillDate": "2021-10-09"
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2021-10-08",
+      "interestPeriodDays": 195,
+      "lookBackDate": "2021-05-25",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.043128205128
+    },
+    {
+      "interestPeriodDate": "2021-10-07",
+      "interestPeriodDays": 191,
+      "lookBackDate": "2021-05-24",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.043821989529
+    },
+    {
+      "interestPeriodDate": "2021-10-06",
+      "interestPeriodDays": 190,
+      "lookBackDate": "2021-05-21",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.044
+    },
+    {
+      "interestPeriodDate": "2021-10-05",
+      "interestPeriodDays": 189,
+      "lookBackDate": "2021-05-20",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.04417989418
+    },
+    {
+      "interestPeriodDate": "2021-10-04",
+      "interestPeriodDays": 188,
+      "lookBackDate": "2021-05-19",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.044361702128
+    },
+    {
+      "interestPeriodDate": "2021-10-01",
+      "interestPeriodDays": 187,
+      "lookBackDate": "2021-05-18",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.044545454545
+    },
+    {
+      "interestPeriodDate": "2021-09-30",
+      "interestPeriodDays": 184,
+      "lookBackDate": "2021-05-17",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.045108695652
+    },
+    {
+      "interestPeriodDate": "2021-09-29",
+      "interestPeriodDays": 183,
+      "lookBackDate": "2021-05-14",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.045300546448
+    },
+    {
+      "interestPeriodDate": "2021-09-28",
+      "interestPeriodDays": 182,
+      "lookBackDate": "2021-05-13",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.045494505495
+    },
+    {
+      "interestPeriodDate": "2021-09-27",
+      "interestPeriodDays": 181,
+      "lookBackDate": "2021-05-12",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.045690607735
+    },
+    {
+      "interestPeriodDate": "2021-09-24",
+      "interestPeriodDays": 180,
+      "lookBackDate": "2021-05-11",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.045888888889
+    },
+    {
+      "interestPeriodDate": "2021-09-23",
+      "interestPeriodDays": 177,
+      "lookBackDate": "2021-05-10",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.046497175141
+    },
+    {
+      "interestPeriodDate": "2021-09-22",
+      "interestPeriodDays": 176,
+      "lookBackDate": "2021-05-07",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.046704545455
+    },
+    {
+      "interestPeriodDate": "2021-09-21",
+      "interestPeriodDays": 175,
+      "lookBackDate": "2021-05-06",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.046914285714
+    },
+    {
+      "interestPeriodDate": "2021-09-20",
+      "interestPeriodDays": 174,
+      "lookBackDate": "2021-05-05",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.047126436782
+    },
+    {
+      "interestPeriodDate": "2021-09-17",
+      "interestPeriodDays": 173,
+      "lookBackDate": "2021-05-04",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.047341040462
+    },
+    {
+      "interestPeriodDate": "2021-09-16",
+      "interestPeriodDays": 170,
+      "lookBackDate": "2021-05-03",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.048
+    },
+    {
+      "interestPeriodDate": "2021-09-15",
+      "interestPeriodDays": 169,
+      "lookBackDate": "2021-04-30",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.048224852071
+    },
+    {
+      "interestPeriodDate": "2021-09-14",
+      "interestPeriodDays": 168,
+      "lookBackDate": "2021-04-29",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.048452380952
+    },
+    {
+      "interestPeriodDate": "2021-09-13",
+      "interestPeriodDays": 167,
+      "lookBackDate": "2021-04-28",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.048682634731
+    },
+    {
+      "interestPeriodDate": "2021-09-10",
+      "interestPeriodDays": 166,
+      "lookBackDate": "2021-04-27",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.048915662651
+    },
+    {
+      "interestPeriodDate": "2021-09-09",
+      "interestPeriodDays": 163,
+      "lookBackDate": "2021-04-26",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.04963190184
+    },
+    {
+      "interestPeriodDate": "2021-09-08",
+      "interestPeriodDays": 162,
+      "lookBackDate": "2021-04-23",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.04987654321
+    },
+    {
+      "interestPeriodDate": "2021-09-07",
+      "interestPeriodDays": 161,
+      "lookBackDate": "2021-04-22",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.050124223602
+    },
+    {
+      "interestPeriodDate": "2021-09-03",
+      "interestPeriodDays": 160,
+      "lookBackDate": "2021-04-21",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.050375
+    },
+    {
+      "interestPeriodDate": "2021-09-02",
+      "interestPeriodDays": 156,
+      "lookBackDate": "2021-04-20",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.05141025641
+    },
+    {
+      "interestPeriodDate": "2021-09-01",
+      "interestPeriodDays": 155,
+      "lookBackDate": "2021-04-19",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.051677419355
+    },
+    {
+      "interestPeriodDate": "2021-08-31",
+      "interestPeriodDays": 154,
+      "lookBackDate": "2021-04-16",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.051948051948
+    },
+    {
+      "interestPeriodDate": "2021-08-30",
+      "interestPeriodDays": 153,
+      "lookBackDate": "2021-04-15",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.052222222222
+    },
+    {
+      "interestPeriodDate": "2021-08-27",
+      "interestPeriodDays": 152,
+      "lookBackDate": "2021-04-14",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0525
+    },
+    {
+      "interestPeriodDate": "2021-08-26",
+      "interestPeriodDays": 149,
+      "lookBackDate": "2021-04-13",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.053355704698
+    },
+    {
+      "interestPeriodDate": "2021-08-25",
+      "interestPeriodDays": 148,
+      "lookBackDate": "2021-04-12",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.053648648649
+    },
+    {
+      "interestPeriodDate": "2021-08-24",
+      "interestPeriodDays": 147,
+      "lookBackDate": "2021-04-09",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.053945578231
+    },
+    {
+      "interestPeriodDate": "2021-08-23",
+      "interestPeriodDays": 146,
+      "lookBackDate": "2021-04-08",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.054246575342
+    },
+    {
+      "interestPeriodDate": "2021-08-20",
+      "interestPeriodDays": 145,
+      "lookBackDate": "2021-04-07",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.054551724138
+    },
+    {
+      "interestPeriodDate": "2021-08-19",
+      "interestPeriodDays": 142,
+      "lookBackDate": "2021-04-06",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.055492957746
+    },
+    {
+      "interestPeriodDate": "2021-08-18",
+      "interestPeriodDays": 141,
+      "lookBackDate": "2021-04-05",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.055815602837
+    },
+    {
+      "interestPeriodDate": "2021-08-17",
+      "interestPeriodDays": 140,
+      "lookBackDate": "2021-04-01",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.056142857143
+    },
+    {
+      "interestPeriodDate": "2021-08-16",
+      "interestPeriodDays": 139,
+      "lookBackDate": "2021-03-31",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.056474820144
+    },
+    {
+      "interestPeriodDate": "2021-08-13",
+      "interestPeriodDays": 138,
+      "lookBackDate": "2021-03-30",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.056811594203
+    },
+    {
+      "interestPeriodDate": "2021-08-12",
+      "interestPeriodDays": 135,
+      "lookBackDate": "2021-03-29",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.057851851852
+    },
+    {
+      "interestPeriodDate": "2021-08-11",
+      "interestPeriodDays": 134,
+      "lookBackDate": "2021-03-26",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.058208955224
+    },
+    {
+      "interestPeriodDate": "2021-08-10",
+      "interestPeriodDays": 133,
+      "lookBackDate": "2021-03-25",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.058571428571
+    },
+    {
+      "interestPeriodDate": "2021-08-09",
+      "interestPeriodDays": 132,
+      "lookBackDate": "2021-03-24",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.058939393939
+    },
+    {
+      "interestPeriodDate": "2021-08-06",
+      "interestPeriodDays": 131,
+      "lookBackDate": "2021-03-23",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.059312977099
+    },
+    {
+      "interestPeriodDate": "2021-08-05",
+      "interestPeriodDays": 128,
+      "lookBackDate": "2021-03-22",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.06046875
+    },
+    {
+      "interestPeriodDate": "2021-08-04",
+      "interestPeriodDays": 127,
+      "lookBackDate": "2021-03-19",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.060866141732
+    },
+    {
+      "interestPeriodDate": "2021-08-03",
+      "interestPeriodDays": 126,
+      "lookBackDate": "2021-03-18",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.06126984127
+    },
+    {
+      "interestPeriodDate": "2021-08-02",
+      "interestPeriodDays": 125,
+      "lookBackDate": "2021-03-17",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.06168
+    },
+    {
+      "interestPeriodDate": "2021-07-30",
+      "interestPeriodDays": 124,
+      "lookBackDate": "2021-03-16",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.062096774194
+    },
+    {
+      "interestPeriodDate": "2021-07-29",
+      "interestPeriodDays": 121,
+      "lookBackDate": "2021-03-15",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.063388429752
+    },
+    {
+      "interestPeriodDate": "2021-07-28",
+      "interestPeriodDays": 120,
+      "lookBackDate": "2021-03-12",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.063833333333
+    },
+    {
+      "interestPeriodDate": "2021-07-27",
+      "interestPeriodDays": 119,
+      "lookBackDate": "2021-03-11",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.064285714286
+    },
+    {
+      "interestPeriodDate": "2021-07-26",
+      "interestPeriodDays": 118,
+      "lookBackDate": "2021-03-10",
+      "publishedRiskFreeRate": 0.02,
+      "rateApplied": 0.02,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.064745762712
+    },
+    {
+      "interestPeriodDate": "2021-07-23",
+      "interestPeriodDays": 117,
+      "lookBackDate": "2021-03-09",
+      "publishedRiskFreeRate": 0.02,
+      "rateApplied": 0.02,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.065128205128
+    },
+    {
+      "interestPeriodDate": "2021-07-22",
+      "interestPeriodDays": 114,
+      "lookBackDate": "2021-03-08",
+      "publishedRiskFreeRate": 0.02,
+      "rateApplied": 0.02,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.066315789474
+    },
+    {
+      "interestPeriodDate": "2021-07-21",
+      "interestPeriodDays": 113,
+      "lookBackDate": "2021-03-05",
+      "publishedRiskFreeRate": 0.02,
+      "rateApplied": 0.02,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.066725663717
+    },
+    {
+      "interestPeriodDate": "2021-07-20",
+      "interestPeriodDays": 112,
+      "lookBackDate": "2021-03-04",
+      "publishedRiskFreeRate": 0.02,
+      "rateApplied": 0.02,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.067142857143
+    },
+    {
+      "interestPeriodDate": "2021-07-19",
+      "interestPeriodDays": 111,
+      "lookBackDate": "2021-03-03",
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.067567567568
+    },
+    {
+      "interestPeriodDate": "2021-07-16",
+      "interestPeriodDays": 110,
+      "lookBackDate": "2021-03-02",
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.067818181818
+    },
+    {
+      "interestPeriodDate": "2021-07-15",
+      "interestPeriodDays": 107,
+      "lookBackDate": "2021-03-01",
+      "publishedRiskFreeRate": 0.02,
+      "rateApplied": 0.02,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.068598130841
+    },
+    {
+      "interestPeriodDate": "2021-07-14",
+      "interestPeriodDays": 106,
+      "lookBackDate": "2021-02-26",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.069056603774
+    },
+    {
+      "interestPeriodDate": "2021-07-13",
+      "interestPeriodDays": 105,
+      "lookBackDate": "2021-02-25",
+      "publishedRiskFreeRate": 0.03,
+      "rateApplied": 0.03,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.069619047619
+    },
+    {
+      "interestPeriodDate": "2021-07-12",
+      "interestPeriodDays": 104,
+      "lookBackDate": "2021-02-24",
+      "publishedRiskFreeRate": 0.02,
+      "rateApplied": 0.02,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.07
+    },
+    {
+      "interestPeriodDate": "2021-07-09",
+      "interestPeriodDays": 103,
+      "lookBackDate": "2021-02-23",
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.070485436893
+    },
+    {
+      "interestPeriodDate": "2021-07-08",
+      "interestPeriodDays": 100,
+      "lookBackDate": "2021-02-22",
+      "publishedRiskFreeRate": 0.03,
+      "rateApplied": 0.03,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0723
+    },
+    {
+      "interestPeriodDate": "2021-07-07",
+      "interestPeriodDays": 99,
+      "lookBackDate": "2021-02-19",
+      "publishedRiskFreeRate": 0.02,
+      "rateApplied": 0.02,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.072727272727
+    },
+    {
+      "interestPeriodDate": "2021-07-06",
+      "interestPeriodDays": 98,
+      "lookBackDate": "2021-02-18",
+      "publishedRiskFreeRate": 0.03,
+      "rateApplied": 0.03,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.073265306122
+    },
+    {
+      "interestPeriodDate": "2021-07-02",
+      "interestPeriodDays": 97,
+      "lookBackDate": "2021-02-17",
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.073711340206
+    },
+    {
+      "interestPeriodDate": "2021-07-01",
+      "interestPeriodDays": 93,
+      "lookBackDate": "2021-02-16",
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.074301075269
+    },
+    {
+      "interestPeriodDate": "2021-06-30",
+      "interestPeriodDays": 92,
+      "lookBackDate": "2021-02-12",
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.074456521739
+    },
+    {
+      "interestPeriodDate": "2021-06-29",
+      "interestPeriodDays": 91,
+      "lookBackDate": "2021-02-11",
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.074725274725
+    },
+    {
+      "interestPeriodDate": "2021-06-28",
+      "interestPeriodDays": 90,
+      "lookBackDate": "2021-02-10",
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.074888888889
+    },
+    {
+      "interestPeriodDate": "2021-06-25",
+      "interestPeriodDays": 89,
+      "lookBackDate": "2021-02-09",
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.075056179775
+    },
+    {
+      "interestPeriodDate": "2021-06-24",
+      "interestPeriodDays": 86,
+      "lookBackDate": "2021-02-08",
+      "publishedRiskFreeRate": 0.02,
+      "rateApplied": 0.02,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.075930232558
+    },
+    {
+      "interestPeriodDate": "2021-06-23",
+      "interestPeriodDays": 85,
+      "lookBackDate": "2021-02-05",
+      "publishedRiskFreeRate": 0.02,
+      "rateApplied": 0.02,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.076588235294
+    },
+    {
+      "interestPeriodDate": "2021-06-22",
+      "interestPeriodDays": 84,
+      "lookBackDate": "2021-02-04",
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.077261904762
+    },
+    {
+      "interestPeriodDate": "2021-06-21",
+      "interestPeriodDays": 83,
+      "lookBackDate": "2021-02-03",
+      "publishedRiskFreeRate": 0.07,
+      "rateApplied": 0.07,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.077590361446
+    },
+    {
+      "interestPeriodDate": "2021-06-18",
+      "interestPeriodDays": 82,
+      "lookBackDate": "2021-02-02",
+      "publishedRiskFreeRate": 0.07,
+      "rateApplied": 0.07,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.077682926829
+    },
+    {
+      "interestPeriodDate": "2021-06-17",
+      "interestPeriodDays": 79,
+      "lookBackDate": "2021-02-01",
+      "publishedRiskFreeRate": 0.07,
+      "rateApplied": 0.07,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.077974683544
+    },
+    {
+      "interestPeriodDate": "2021-06-16",
+      "interestPeriodDays": 78,
+      "lookBackDate": "2021-01-29",
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.078076923077
+    },
+    {
+      "interestPeriodDate": "2021-06-15",
+      "interestPeriodDays": 77,
+      "lookBackDate": "2021-01-28",
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.078311688312
+    },
+    {
+      "interestPeriodDate": "2021-06-14",
+      "interestPeriodDays": 76,
+      "lookBackDate": "2021-01-27",
+      "publishedRiskFreeRate": 0.03,
+      "rateApplied": 0.03,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.078815789474
+    },
+    {
+      "interestPeriodDate": "2021-06-11",
+      "interestPeriodDays": 75,
+      "lookBackDate": "2021-01-26",
+      "publishedRiskFreeRate": 0.03,
+      "rateApplied": 0.03,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.079466666667
+    },
+    {
+      "interestPeriodDate": "2021-06-10",
+      "interestPeriodDays": 72,
+      "lookBackDate": "2021-01-25",
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.081527777778
+    },
+    {
+      "interestPeriodDate": "2021-06-09",
+      "interestPeriodDays": 71,
+      "lookBackDate": "2021-01-22",
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.081830985915
+    },
+    {
+      "interestPeriodDate": "2021-06-08",
+      "interestPeriodDays": 70,
+      "lookBackDate": "2021-01-21",
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.082285714286
+    },
+    {
+      "interestPeriodDate": "2021-06-07",
+      "interestPeriodDays": 69,
+      "lookBackDate": "2021-01-20",
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.082898550725
+    },
+    {
+      "interestPeriodDate": "2021-06-04",
+      "interestPeriodDays": 68,
+      "lookBackDate": "2021-01-19",
+      "publishedRiskFreeRate": 0.07,
+      "rateApplied": 0.07,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.083235294118
+    },
+    {
+      "interestPeriodDate": "2021-06-03",
+      "interestPeriodDays": 65,
+      "lookBackDate": "2021-01-15",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.083846153846
+    },
+    {
+      "interestPeriodDate": "2021-06-02",
+      "interestPeriodDays": 64,
+      "lookBackDate": "2021-01-14",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.08390625
+    },
+    {
+      "interestPeriodDate": "2021-06-01",
+      "interestPeriodDays": 63,
+      "lookBackDate": "2021-01-13",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.083968253968
+    },
+    {
+      "interestPeriodDate": "2021-05-28",
+      "interestPeriodDays": 62,
+      "lookBackDate": "2021-01-12",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.084032258065
+    },
+    {
+      "interestPeriodDate": "2021-05-27",
+      "interestPeriodDays": 58,
+      "lookBackDate": "2021-01-11",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.084310344828
+    },
+    {
+      "interestPeriodDate": "2021-05-26",
+      "interestPeriodDays": 57,
+      "lookBackDate": "2021-01-08",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.084210526316
+    },
+    {
+      "interestPeriodDate": "2021-05-25",
+      "interestPeriodDays": 56,
+      "lookBackDate": "2021-01-07",
+      "publishedRiskFreeRate": 0.1,
+      "rateApplied": 0.1,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.084107142857
+    },
+    {
+      "interestPeriodDate": "2021-05-24",
+      "interestPeriodDays": 55,
+      "lookBackDate": "2021-01-06",
+      "publishedRiskFreeRate": 0.1,
+      "rateApplied": 0.1,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.083818181818
+    },
+    {
+      "interestPeriodDate": "2021-05-21",
+      "interestPeriodDays": 54,
+      "lookBackDate": "2021-01-05",
+      "publishedRiskFreeRate": 0.11,
+      "rateApplied": 0.11,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.083518518519
+    },
+    {
+      "interestPeriodDate": "2021-05-20",
+      "interestPeriodDays": 51,
+      "lookBackDate": "2021-01-04",
+      "publishedRiskFreeRate": 0.1,
+      "rateApplied": 0.1,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.081960784314
+    },
+    {
+      "interestPeriodDate": "2021-05-19",
+      "interestPeriodDays": 50,
+      "lookBackDate": "2020-12-31",
+      "publishedRiskFreeRate": 0.07,
+      "rateApplied": 0.07,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0816
+    },
+    {
+      "interestPeriodDate": "2021-05-18",
+      "interestPeriodDays": 49,
+      "lookBackDate": "2020-12-30",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.081836734694
+    },
+    {
+      "interestPeriodDate": "2021-05-17",
+      "interestPeriodDays": 48,
+      "lookBackDate": "2020-12-29",
+      "publishedRiskFreeRate": 0.1,
+      "rateApplied": 0.1,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.081666666667
+    },
+    {
+      "interestPeriodDate": "2021-05-14",
+      "interestPeriodDays": 47,
+      "lookBackDate": "2020-12-28",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.081276595745
+    },
+    {
+      "interestPeriodDate": "2021-05-13",
+      "interestPeriodDays": 44,
+      "lookBackDate": "2020-12-24",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.080681818182
+    },
+    {
+      "interestPeriodDate": "2021-05-12",
+      "interestPeriodDays": 43,
+      "lookBackDate": "2020-12-23",
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.080697674419
+    },
+    {
+      "interestPeriodDate": "2021-05-11",
+      "interestPeriodDays": 42,
+      "lookBackDate": "2020-12-22",
+      "publishedRiskFreeRate": 0.07,
+      "rateApplied": 0.07,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.08119047619
+    },
+    {
+      "interestPeriodDate": "2021-05-10",
+      "interestPeriodDays": 41,
+      "lookBackDate": "2020-12-21",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.081463414634
+    },
+    {
+      "interestPeriodDate": "2021-05-07",
+      "interestPeriodDays": 40,
+      "lookBackDate": "2020-12-18",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.08125
+    },
+    {
+      "interestPeriodDate": "2021-05-06",
+      "interestPeriodDays": 37,
+      "lookBackDate": "2020-12-17",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.080540540541
+    },
+    {
+      "interestPeriodDate": "2021-05-05",
+      "interestPeriodDays": 36,
+      "lookBackDate": "2020-12-16",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.080277777778
+    },
+    {
+      "interestPeriodDate": "2021-05-04",
+      "interestPeriodDays": 35,
+      "lookBackDate": "2020-12-15",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.08
+    },
+    {
+      "interestPeriodDate": "2021-05-03",
+      "interestPeriodDays": 34,
+      "lookBackDate": "2020-12-14",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.079705882353
+    },
+    {
+      "interestPeriodDate": "2021-04-30",
+      "interestPeriodDays": 33,
+      "lookBackDate": "2020-12-11",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.079696969697
+    },
+    {
+      "interestPeriodDate": "2021-04-29",
+      "interestPeriodDays": 30,
+      "lookBackDate": "2020-12-10",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.079666666667
+    },
+    {
+      "interestPeriodDate": "2021-04-28",
+      "interestPeriodDays": 29,
+      "lookBackDate": "2020-12-09",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.079655172414
+    },
+    {
+      "interestPeriodDate": "2021-04-27",
+      "interestPeriodDays": 28,
+      "lookBackDate": "2020-12-08",
+      "publishedRiskFreeRate": 0.07,
+      "rateApplied": 0.07,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.079642857143
+    },
+    {
+      "interestPeriodDate": "2021-04-26",
+      "interestPeriodDays": 27,
+      "lookBackDate": "2020-12-07",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.08
+    },
+    {
+      "interestPeriodDate": "2021-04-23",
+      "interestPeriodDays": 26,
+      "lookBackDate": "2020-12-04",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.08
+    },
+    {
+      "interestPeriodDate": "2021-04-22",
+      "interestPeriodDays": 23,
+      "lookBackDate": "2020-12-03",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.078695652174
+    },
+    {
+      "interestPeriodDate": "2021-04-21",
+      "interestPeriodDays": 22,
+      "lookBackDate": "2020-12-02",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.078636363636
+    },
+    {
+      "interestPeriodDate": "2021-04-20",
+      "interestPeriodDays": 21,
+      "lookBackDate": "2020-12-01",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.078571428571
+    },
+    {
+      "interestPeriodDate": "2021-04-19",
+      "interestPeriodDays": 20,
+      "lookBackDate": "2020-11-30",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0785
+    },
+    {
+      "interestPeriodDate": "2021-04-16",
+      "interestPeriodDays": 19,
+      "lookBackDate": "2020-11-27",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.077894736842
+    },
+    {
+      "interestPeriodDate": "2021-04-15",
+      "interestPeriodDays": 16,
+      "lookBackDate": "2020-11-25",
+      "publishedRiskFreeRate": 0.08,
+      "rateApplied": 0.08,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0775
+    },
+    {
+      "interestPeriodDate": "2021-04-14",
+      "interestPeriodDays": 15,
+      "lookBackDate": "2020-11-24",
+      "publishedRiskFreeRate": 0.07,
+      "rateApplied": 0.07,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.077333333333
+    },
+    {
+      "interestPeriodDate": "2021-04-13",
+      "interestPeriodDays": 14,
+      "lookBackDate": "2020-11-23",
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.077857142857
+    },
+    {
+      "interestPeriodDate": "2021-04-12",
+      "interestPeriodDays": 13,
+      "lookBackDate": "2020-11-20",
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.08
+    },
+    {
+      "interestPeriodDate": "2021-04-09",
+      "interestPeriodDays": 12,
+      "lookBackDate": "2020-11-19",
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0825
+    },
+    {
+      "interestPeriodDate": "2021-04-08",
+      "interestPeriodDays": 9,
+      "lookBackDate": "2020-11-18",
+      "publishedRiskFreeRate": 0.07,
+      "rateApplied": 0.07,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.09
+    },
+    {
+      "interestPeriodDate": "2021-04-07",
+      "interestPeriodDays": 8,
+      "lookBackDate": "2020-11-17",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0925
+    },
+    {
+      "interestPeriodDate": "2021-04-06",
+      "interestPeriodDays": 7,
+      "lookBackDate": "2020-11-16",
+      "publishedRiskFreeRate": 0.1,
+      "rateApplied": 0.1,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.092857142857
+    },
+    {
+      "interestPeriodDate": "2021-04-05",
+      "interestPeriodDays": 6,
+      "lookBackDate": "2020-11-13",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.091666666667
+    },
+    {
+      "interestPeriodDate": "2021-04-01",
+      "interestPeriodDays": 5,
+      "lookBackDate": "2020-11-12",
+      "publishedRiskFreeRate": 0.09,
+      "rateApplied": 0.09,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.092
+    },
+    {
+      "interestPeriodDate": "2021-03-31",
+      "interestPeriodDays": 1,
+      "lookBackDate": "2020-11-10",
+      "publishedRiskFreeRate": 0.1,
+      "rateApplied": 0.1,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.1
+    }
+  ]
+}

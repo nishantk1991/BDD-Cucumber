@@ -1,0 +1,17 @@
+{
+  "message": "Bad Request",
+  "_links": {
+    "self": {
+      "href": "/corporate/lending/alternative-reference-rates/v1/compounded-in-arrears/average-rate?riskFreeRate=SONIA&rateRoundingDecimalPoints=5&lookBackDays=4&interestPeriodStartDate=2020-04-10&lockoutDays=1&observationPeriodShift=false",
+      "templated": false
+    }
+  },
+  "_embedded": {
+    "errors": [
+      {
+        "message": "Required QueryValue [interestPeriodEndDate] not specified",
+        "path": "/interestPeriodEndDate"
+      }
+    ]
+  }
+}

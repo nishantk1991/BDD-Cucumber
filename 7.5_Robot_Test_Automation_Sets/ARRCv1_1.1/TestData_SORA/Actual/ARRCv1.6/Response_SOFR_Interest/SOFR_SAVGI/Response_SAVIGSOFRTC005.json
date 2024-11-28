@@ -1,0 +1,514 @@
+{
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2021-11-18. Computed time : 2021-11-22T05:22:06+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-19T00:00:00+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "interestCalculatorCriteria": {
+    "initialPrincipalBalance": 10000000,
+    "interestPeriodStartDate": "2021-04-02",
+    "interestPeriodEndDate": "2021-05-31",
+    "riskFreeRate": "SOFR",
+    "lookBackDays": 25,
+    "lockoutDays": 37,
+    "spread": 0,
+    "spreadAdjustment": -0.05,
+    "dayCountConvention": "ACT/360",
+    "rateRoundingDecimalPoints": 11,
+    "paymentRounding": "UP",
+    "principalAmountChanges": [
+      {
+        "date": "2021-04-03",
+        "principalAmountChange": -2000000
+      },
+      {
+        "date": "2021-04-16",
+        "principalAmountChange": -2000000
+      },
+      {
+        "date": "2021-04-30",
+        "principalAmountChange": -2000000
+      },
+      {
+        "date": "2021-05-31",
+        "principalAmountChange": -4000000
+      }
+    ],
+    "showDailyDetails": true,
+    "calculateTillDate": "2021-05-31"
+  },
+  "currencyCode": "USD",
+  "interestSummary": [
+    {
+      "interestPeriodDate": "2021-05-31",
+      "interestPeriodDays": 60,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03766666667,
+      "allInRate": -0.01233333333,
+      "cummulativeInterestAmount": -110.32
+    },
+    {
+      "interestPeriodDate": "2021-05-28",
+      "interestPeriodDays": 59,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03766666667,
+      "allInRate": -0.01233333333,
+      "cummulativeInterestAmount": -110.32
+    },
+    {
+      "interestPeriodDate": "2021-05-27",
+      "interestPeriodDays": 56,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0375,
+      "allInRate": -0.0125,
+      "cummulativeInterestAmount": -107.64
+    },
+    {
+      "interestPeriodDate": "2021-05-26",
+      "interestPeriodDays": 55,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03745454545,
+      "allInRate": -0.01254545455,
+      "cummulativeInterestAmount": -106.64
+    },
+    {
+      "interestPeriodDate": "2021-05-25",
+      "interestPeriodDays": 54,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03740740741,
+      "allInRate": -0.01259259259,
+      "cummulativeInterestAmount": -105.64
+    },
+    {
+      "interestPeriodDate": "2021-05-24",
+      "interestPeriodDays": 53,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03735849057,
+      "allInRate": -0.01264150943,
+      "cummulativeInterestAmount": -104.65
+    },
+    {
+      "interestPeriodDate": "2021-05-21",
+      "interestPeriodDays": 52,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03730769231,
+      "allInRate": -0.01269230769,
+      "cummulativeInterestAmount": -103.66
+    },
+    {
+      "interestPeriodDate": "2021-05-20",
+      "interestPeriodDays": 49,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03714285714,
+      "allInRate": -0.01285714286,
+      "cummulativeInterestAmount": -100.72
+    },
+    {
+      "interestPeriodDate": "2021-05-19",
+      "interestPeriodDays": 48,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03708333333,
+      "allInRate": -0.01291666667,
+      "cummulativeInterestAmount": -99.75
+    },
+    {
+      "interestPeriodDate": "2021-05-18",
+      "interestPeriodDays": 47,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0370212766,
+      "allInRate": -0.0129787234,
+      "cummulativeInterestAmount": -98.79
+    },
+    {
+      "interestPeriodDate": "2021-05-17",
+      "interestPeriodDays": 46,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03695652174,
+      "allInRate": -0.01304347826,
+      "cummulativeInterestAmount": -97.83
+    },
+    {
+      "interestPeriodDate": "2021-05-14",
+      "interestPeriodDays": 45,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03688888889,
+      "allInRate": -0.01311111111,
+      "cummulativeInterestAmount": -96.88
+    },
+    {
+      "interestPeriodDate": "2021-05-13",
+      "interestPeriodDays": 42,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03666666667,
+      "allInRate": -0.01333333333,
+      "cummulativeInterestAmount": -94.08
+    },
+    {
+      "interestPeriodDate": "2021-05-12",
+      "interestPeriodDays": 41,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03658536585,
+      "allInRate": -0.01341463415,
+      "cummulativeInterestAmount": -93.16
+    },
+    {
+      "interestPeriodDate": "2021-05-11",
+      "interestPeriodDays": 40,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0365,
+      "allInRate": -0.0135,
+      "cummulativeInterestAmount": -92.25
+    },
+    {
+      "interestPeriodDate": "2021-05-10",
+      "interestPeriodDays": 39,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03641025641,
+      "allInRate": -0.01358974359,
+      "cummulativeInterestAmount": -91.36
+    },
+    {
+      "interestPeriodDate": "2021-05-07",
+      "interestPeriodDays": 38,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03631578947,
+      "allInRate": -0.01368421053,
+      "cummulativeInterestAmount": -90.47
+    },
+    {
+      "interestPeriodDate": "2021-05-06",
+      "interestPeriodDays": 35,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.036,
+      "allInRate": -0.014,
+      "cummulativeInterestAmount": -87.89
+    },
+    {
+      "interestPeriodDate": "2021-05-05",
+      "interestPeriodDays": 34,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03588235294,
+      "allInRate": -0.01411764706,
+      "cummulativeInterestAmount": -87.06
+    },
+    {
+      "interestPeriodDate": "2021-05-04",
+      "interestPeriodDays": 33,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03575757576,
+      "allInRate": -0.01424242424,
+      "cummulativeInterestAmount": -86.25
+    },
+    {
+      "interestPeriodDate": "2021-05-03",
+      "interestPeriodDays": 32,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.035625,
+      "allInRate": -0.014375,
+      "cummulativeInterestAmount": -85.46
+    },
+    {
+      "interestPeriodDate": "2021-04-30",
+      "interestPeriodDays": 31,
+      "principalBalance": 4000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03548387097,
+      "allInRate": -0.01451612903,
+      "cummulativeInterestAmount": -84.68
+    },
+    {
+      "interestPeriodDate": "2021-04-29",
+      "interestPeriodDays": 28,
+      "principalBalance": 6000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.035,
+      "allInRate": -0.015,
+      "cummulativeInterestAmount": -82.5
+    },
+    {
+      "interestPeriodDate": "2021-04-28",
+      "interestPeriodDays": 27,
+      "principalBalance": 6000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03481481481,
+      "allInRate": -0.01518518519,
+      "cummulativeInterestAmount": -80.99
+    },
+    {
+      "interestPeriodDate": "2021-04-27",
+      "interestPeriodDays": 26,
+      "principalBalance": 6000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03461538462,
+      "allInRate": -0.01538461538,
+      "cummulativeInterestAmount": -79.49
+    },
+    {
+      "interestPeriodDate": "2021-04-26",
+      "interestPeriodDays": 25,
+      "principalBalance": 6000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.0344,
+      "allInRate": -0.0156,
+      "cummulativeInterestAmount": -78.0
+    },
+    {
+      "interestPeriodDate": "2021-04-23",
+      "interestPeriodDays": 24,
+      "principalBalance": 6000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03416666667,
+      "allInRate": -0.01583333333,
+      "cummulativeInterestAmount": -76.53
+    },
+    {
+      "interestPeriodDate": "2021-04-22",
+      "interestPeriodDays": 21,
+      "principalBalance": 6000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03333333333,
+      "allInRate": -0.01666666667,
+      "cummulativeInterestAmount": -72.23
+    },
+    {
+      "interestPeriodDate": "2021-04-21",
+      "interestPeriodDays": 20,
+      "principalBalance": 6000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.033,
+      "allInRate": -0.017,
+      "cummulativeInterestAmount": -70.84
+    },
+    {
+      "interestPeriodDate": "2021-04-20",
+      "interestPeriodDays": 19,
+      "principalBalance": 6000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03263157895,
+      "allInRate": -0.01736842105,
+      "cummulativeInterestAmount": -69.48
+    },
+    {
+      "interestPeriodDate": "2021-04-19",
+      "interestPeriodDays": 18,
+      "principalBalance": 6000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03222222222,
+      "allInRate": -0.01777777778,
+      "cummulativeInterestAmount": -68.15
+    },
+    {
+      "interestPeriodDate": "2021-04-16",
+      "interestPeriodDays": 17,
+      "principalBalance": 6000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03176470588,
+      "allInRate": -0.01823529412,
+      "cummulativeInterestAmount": -66.87
+    },
+    {
+      "interestPeriodDate": "2021-04-15",
+      "interestPeriodDays": 14,
+      "principalBalance": 8000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.03,
+      "allInRate": -0.02,
+      "cummulativeInterestAmount": -63.34
+    },
+    {
+      "interestPeriodDate": "2021-04-14",
+      "interestPeriodDays": 13,
+      "principalBalance": 8000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.02923076923,
+      "allInRate": -0.02076923077,
+      "cummulativeInterestAmount": -61.16
+    },
+    {
+      "interestPeriodDate": "2021-04-13",
+      "interestPeriodDays": 12,
+      "principalBalance": 8000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.02833333333,
+      "allInRate": -0.02166666667,
+      "cummulativeInterestAmount": -58.99
+    },
+    {
+      "interestPeriodDate": "2021-04-12",
+      "interestPeriodDays": 11,
+      "principalBalance": 8000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.02727272727,
+      "allInRate": -0.02272727273,
+      "cummulativeInterestAmount": -56.82
+    },
+    {
+      "interestPeriodDate": "2021-04-09",
+      "interestPeriodDays": 10,
+      "principalBalance": 8000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.026,
+      "allInRate": -0.024,
+      "cummulativeInterestAmount": -54.67
+    },
+    {
+      "interestPeriodDate": "2021-04-08",
+      "interestPeriodDays": 7,
+      "principalBalance": 8000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.02,
+      "allInRate": -0.03,
+      "cummulativeInterestAmount": -48.34
+    },
+    {
+      "interestPeriodDate": "2021-04-07",
+      "interestPeriodDays": 6,
+      "principalBalance": 8000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.01666666667,
+      "allInRate": -0.03333333333,
+      "cummulativeInterestAmount": -46.3
+    },
+    {
+      "interestPeriodDate": "2021-04-06",
+      "interestPeriodDays": 5,
+      "principalBalance": 8000000.0,
+      "publishedRiskFreeRate": 0.02,
+      "rateApplied": 0.02,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.012,
+      "allInRate": -0.038,
+      "cummulativeInterestAmount": -44.34
+    },
+    {
+      "interestPeriodDate": "2021-04-05",
+      "interestPeriodDays": 4,
+      "principalBalance": 8000000.0,
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.01,
+      "allInRate": -0.04,
+      "cummulativeInterestAmount": -37.78
+    },
+    {
+      "interestPeriodDate": "2021-04-03",
+      "interestPeriodDays": 3,
+      "principalBalance": 8000000.0,
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.01,
+      "allInRate": -0.04,
+      "cummulativeInterestAmount": -28.89
+    },
+    {
+      "interestPeriodDate": "2021-04-02",
+      "interestPeriodDays": 1,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": 0.01,
+      "allInRate": -0.04,
+      "cummulativeInterestAmount": -11.12
+    }
+  ]
+}

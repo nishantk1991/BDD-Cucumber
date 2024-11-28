@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "CCR_ROUNDING_PRECISION_INVALID",
+    "exceptionMessage": "Invalid value passed for ccrRoundingPrecision ",
+    "status": "400"
+  }
+}

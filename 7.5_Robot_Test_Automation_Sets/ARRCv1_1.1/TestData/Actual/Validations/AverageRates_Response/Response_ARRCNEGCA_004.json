@@ -1,0 +1,12 @@
+{
+  "requestParameters": null,
+  "dailyRateSummary": null,
+  "lastUpdatedFromSource": null,
+  "comment": null,
+  "legalDisclaimer": null,
+  "exception": {
+    "title": "STDT_GT_THAN_ENDDT",
+    "exceptionMessage": "interestPeriodStartDate cannot be greater than interestPeriodEndDate date",
+    "status": "400"
+  }
+}

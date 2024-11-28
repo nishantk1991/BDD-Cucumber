@@ -1,0 +1,12 @@
+{
+  "requestParameters": null,
+  "dailyRateSummary": null,
+  "lastUpdatedFromSource": null,
+  "comment": null,
+  "legalDisclaimer": null,
+  "exception": {
+    "title": "STDT_DATA_UNAVAILABLE",
+    "exceptionMessage": "Rate is not available for the interestPeriodStartDate provided. The most recent published SOFR rate is available from: 2017-01-03.",
+    "status": "400"
+  }
+}

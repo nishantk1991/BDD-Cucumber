@@ -1,0 +1,118 @@
+{
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2020-05-19. Computed time : 2021-11-23T11:51:49+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-18T00:00:00+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "interestCalculatorCriteria": {
+    "initialPrincipalBalance": 10000000,
+    "interestPeriodStartDate": "2020-05-18",
+    "interestPeriodEndDate": "2020-05-25",
+    "riskFreeRate": "SOFR",
+    "allInRateFloor": 2.6,
+    "allInRateCap": 2.8,
+    "lookBackDays": 1,
+    "lockoutDays": 3,
+    "spread": -0.0123,
+    "spreadAdjustment": -0.011,
+    "rateRoundingDecimalPoints": 7,
+    "paymentRounding": "DOWN",
+    "principalAmountChanges": [
+      {
+        "date": "2020-05-19",
+        "principalAmountChange": -300000
+      },
+      {
+        "date": "2020-05-23",
+        "principalAmountChange": 300000
+      }
+    ],
+    "showDailyDetails": true,
+    "calculateTillDate": "2020-05-18"
+  },
+  "currencyCode": "USD",
+  "interestSummary": [
+    {
+      "interestPeriodDate": "2020-05-23",
+      "interestPeriodDays": 8,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "allInRateFloorApplied": true,
+      "allInRateCapApplied": false,
+      "simpleAverageRate": 0.04125,
+      "calculatedAllInRate": 0.01795,
+      "allInRate": 2.6,
+      "cummulativeInterestAmount": 5691.11
+    },
+    {
+      "interestPeriodDate": "2020-05-22",
+      "interestPeriodDays": 5,
+      "principalBalance": 9700000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "allInRateFloorApplied": true,
+      "allInRateCapApplied": false,
+      "simpleAverageRate": 0.04125,
+      "calculatedAllInRate": 0.01795,
+      "allInRate": 2.6,
+      "cummulativeInterestAmount": 3524.44
+    },
+    {
+      "interestPeriodDate": "2020-05-21",
+      "interestPeriodDays": 4,
+      "principalBalance": 9700000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "allInRateFloorApplied": true,
+      "allInRateCapApplied": false,
+      "simpleAverageRate": 0.0425,
+      "calculatedAllInRate": 0.0192,
+      "allInRate": 2.6,
+      "cummulativeInterestAmount": 2823.88
+    },
+    {
+      "interestPeriodDate": "2020-05-20",
+      "interestPeriodDays": 3,
+      "principalBalance": 9700000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "allInRateFloorApplied": true,
+      "allInRateCapApplied": false,
+      "simpleAverageRate": 0.0433333,
+      "calculatedAllInRate": 0.0200333,
+      "allInRate": 2.6,
+      "cummulativeInterestAmount": 2123.33
+    },
+    {
+      "interestPeriodDate": "2020-05-19",
+      "interestPeriodDays": 2,
+      "principalBalance": 9700000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "allInRateFloorApplied": true,
+      "allInRateCapApplied": false,
+      "simpleAverageRate": 0.045,
+      "calculatedAllInRate": 0.0217,
+      "allInRate": 2.6,
+      "cummulativeInterestAmount": 1422.77
+    },
+    {
+      "interestPeriodDate": "2020-05-18",
+      "interestPeriodDays": 1,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "allInRateFloorApplied": true,
+      "allInRateCapApplied": false,
+      "simpleAverageRate": 0.05,
+      "calculatedAllInRate": 0.0267,
+      "allInRate": 2.6,
+      "cummulativeInterestAmount": 722.22
+    }
+  ]
+}

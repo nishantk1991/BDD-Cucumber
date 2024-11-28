@@ -1,0 +1,5 @@
+{
+    "title": "INDEX_ST_GT_END",
+    "message": "Index start date is greater than index end date",
+    "status": 400
+}

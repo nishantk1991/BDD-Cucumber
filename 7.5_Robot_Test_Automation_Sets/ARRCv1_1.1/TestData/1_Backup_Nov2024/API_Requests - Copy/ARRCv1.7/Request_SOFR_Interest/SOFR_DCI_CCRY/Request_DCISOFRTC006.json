@@ -1,0 +1,20 @@
+{ 
+   "initialPrincipalBalance":9788884545.0,
+   "interestPeriodStartDate":"2021-04-02",
+   "interestPeriodEndDate":"2021-05-01",
+   "calculateTillDate":"2021-05-01",
+   "riskFreeRate":"SOFR",
+   "spreadAdjustment":-0.06435,
+   "spread":0.34430,
+   "legacyRiskFreeRateFloor":-0.05,
+   "lookBackDays": "5",
+    "lockoutDays": "0",
+   "showDailyDetails":"true",
+   "observationPeriodShift":"true",
+   "dayCountConvention":"ACT/365",
+   "paymentRounding":"DOWN",
+   "ccrRoundingApplies":true,
+   "principalAmountChanges":[{"date":"2021-04-02","principalAmountChange":-56666.87},{"date":"2021-04-17","principalAmountChange":2000000},{"date":"2021-04-27","principalAmountChange":-65656565}]
+}
+   
+  

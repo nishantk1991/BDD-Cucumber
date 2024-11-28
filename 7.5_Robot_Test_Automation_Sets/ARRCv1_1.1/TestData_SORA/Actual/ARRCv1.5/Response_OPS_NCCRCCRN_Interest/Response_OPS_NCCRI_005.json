@@ -1,0 +1,53 @@
+{
+  "comment": " The most recent published SORA RFR rate is available as-of: 2020-05-22. Computed time : 2021-11-23T12:19:14+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-10-29T00:00:00+00:00",
+  "legalDisclaimer": "SORA-related statistics, the 1-month, 3-month and 6-month Compounded SORA rates, and the SORA Index, are provided on an as is basis, without warranties of any kind. MAS shall not be liable for any damage or loss, which may arise from reliance on such data obtained from the MAS website. Please refer to the Terms of Use (https://www.mas.gov.sg/terms-of-use) on accessing and using any part of the MAS website.",
+  "interestCalculatorCriteria": {
+    "initialPrincipalBalance": 9999966868,
+    "interestPeriodStartDate": "2020-04-30",
+    "interestPeriodEndDate": "2020-05-29",
+    "riskFreeRate": "SORA",
+    "allInRateCap": 1,
+    "observationPeriodShift": true,
+    "spread": 1,
+    "spreadAdjustment": 0.05896,
+    "rateRoundingDecimalPoints": 9,
+    "legacyRiskFreeRateFloor": 0,
+    "ccrRoundingApplies": false,
+    "paymentRounding": "NEAREST",
+    "principalAmountChanges": [
+      {
+        "date": "2020-05-17",
+        "principalAmountChange": -506669.88
+      },
+      {
+        "date": "2020-05-24",
+        "principalAmountChange": 506669.88
+      }
+    ],
+    "showDailyDetails": false,
+    "calculateTillDate": "2020-05-24"
+  },
+  "currencyCode": "SGD",
+  "interestSummary": [
+    {
+      "interestPeriodDate": "2020-05-24",
+      "interestPeriodDays": 4,
+      "observationPeriodDate": "2020-05-22",
+      "observationPeriodDays": 4,
+      "principalBalance": 9999966868.0,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "allInRateCapApplied": true,
+      "derivedRiskFreeRateFloor": -0.05896,
+      "derivedRiskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000007510139,
+      "dailyCompoundedRate": 0.0,
+      "calculatedAllInRate": 1.05896,
+      "allInRate": 1.0,
+      "interestAmount": 273971.7,
+      "cummulativeInterestAmount": 6849194.56
+    }
+  ]
+}

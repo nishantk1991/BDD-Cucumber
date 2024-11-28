@@ -1,0 +1,123 @@
+{
+    "header": {
+        "objectId": "PKF6L7DL"
+    },
+    "attributes": {
+        "liqBusinessObjects": {
+            "class": "Comment",
+            "ownerClass": "None",
+            "ownerId": "",
+            "liqBusinessObject": [
+                {
+                    "name": "Comment - Comment (Finastra Title)",
+                    "objectType": "CMT",
+                    "className": "Comment",
+                    "objectId": "XWF9RXSI",
+                    "group": [
+                        {
+                            "name": "",
+                            "item": [
+                                {
+                                    "attribute": "id",
+                                    "valueType": "String",
+                                    "value": "XWF9RXSI",
+                                    "label": "Comment Id",
+                                    "mandatory": "N",
+                                    "readonly": "N"
+                                },
+                                {
+                                    "attribute": "title",
+                                    "valueType": "String",
+                                    "value": "Title test",
+                                    "label": "Title",
+                                    "mandatory": "N",
+                                    "readonly": "N"
+                                },
+                                {
+                                    "attribute": "comment",
+                                    "valueType": "String",
+                                    "value": "Bismita test 2",
+                                    "label": "Comment",
+                                    "mandatory": "N",
+                                    "readonly": "N"
+                                },
+                                {
+                                    "attribute": "author",
+                                    "valueType": "String",
+                                    "value": "BISMITA",
+                                    "label": "Author",
+                                    "mandatory": "N",
+                                    "readonly": "N"
+                                },
+                                {
+                                    "attribute": "commentSubType",
+                                    "valueType": "String",
+                                    "value": "GENRL",
+                                    "label": "Comment Subtype",
+                                    "mandatory": "N",
+                                    "readonly": "N"
+                                },
+                                {
+                                    "attribute": "customerId",
+                                    "valueType": "String",
+                                    "value": "",
+                                    "label": "Customer Id",
+                                    "mandatory": "N",
+                                    "readonly": "N"
+                                },
+                                {
+                                    "attribute": "dealId",
+                                    "valueType": "String",
+                                    "value": "PVC5H6KD",
+                                    "label": "Deal Id",
+                                    "mandatory": "N",
+                                    "readonly": "N"
+                                },
+                                {
+                                    "attribute": "tableId",
+                                    "valueType": "String",
+                                    "value": "PCP",
+                                    "label": "Table Id",
+                                    "mandatory": "N",
+                                    "readonly": "N"
+                                },
+                                {
+                                    "attribute": "ownerId",
+                                    "valueType": "String",
+                                    "value": "%3B0F7Z7ZM",
+                                    "label": "Owner Id",
+                                    "mandatory": "N",
+                                    "readonly": "N"
+                                },
+                                {
+                                    "attribute": "createTimeStamp",
+                                    "valueType": "Timestamp",
+                                    "value": "2022-04-06 14:47:36.0",
+                                    "label": "Create TimeStamp",
+                                    "mandatory": "N",
+                                    "readonly": "N"
+                                },
+                                {
+                                    "attribute": "label",
+                                    "valueType": "String",
+                                    "value": "Comment (Finastra Title)",
+                                    "label": "Label",
+                                    "mandatory": "N",
+                                    "readonly": "N"
+                                },
+                                {
+                                    "attribute": "labelType",
+                                    "valueType": "String",
+                                    "value": "Comment",
+                                    "label": "Label Type",
+                                    "mandatory": "N",
+                                    "readonly": "N"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

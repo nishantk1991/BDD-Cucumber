@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "NUMERIC_INVALID_FORMAT_INITPRIN",
+    "exceptionMessage": "Invalid value passed for initialPrincipalBalance",
+    "status": "400"
+  }
+}

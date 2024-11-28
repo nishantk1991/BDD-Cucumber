@@ -1,0 +1,5 @@
+{
+  "title": "INVALID_PRINC_CHANGE_FORMAT",
+  "message": "Invalid date or date format for principal amount change date",
+  "status": 400
+}

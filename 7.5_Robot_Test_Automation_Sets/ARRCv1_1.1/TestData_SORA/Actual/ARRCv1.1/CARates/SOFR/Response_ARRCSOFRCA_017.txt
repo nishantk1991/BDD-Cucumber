@@ -1,0 +1,138 @@
+{
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2021-11-17. Computed time : 2021-11-19T07:26:40+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-18T00:00:00+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "requestParameters": {
+    "interestPeriodStartDate": "2020-02-07",
+    "interestPeriodEndDate": "2020-02-29",
+    "riskFreeRate": "SOFR",
+    "lookBackDays": 8,
+    "lockoutDays": 5,
+    "observationPeriodShift": false,
+    "dayCountConvention": "ACT/360",
+    "rateRoundingDecimalPoints": 12,
+    "showDailyDetails": true
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2020-02-28",
+      "interestPeriodDays": 23,
+      "publishedRiskFreeRate": 1.58,
+      "rateApplied": 1.58,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.577677474034
+    },
+    {
+      "interestPeriodDate": "2020-02-27",
+      "interestPeriodDays": 21,
+      "publishedRiskFreeRate": 1.58,
+      "rateApplied": 1.58,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.577317827631
+    },
+    {
+      "interestPeriodDate": "2020-02-26",
+      "interestPeriodDays": 20,
+      "publishedRiskFreeRate": 1.58,
+      "rateApplied": 1.58,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.57711450121
+    },
+    {
+      "interestPeriodDate": "2020-02-25",
+      "interestPeriodDays": 19,
+      "publishedRiskFreeRate": 1.58,
+      "rateApplied": 1.58,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.576893424752
+    },
+    {
+      "interestPeriodDate": "2020-02-24",
+      "interestPeriodDays": 18,
+      "publishedRiskFreeRate": 1.58,
+      "rateApplied": 1.58,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.57665163975
+    },
+    {
+      "interestPeriodDate": "2020-02-21",
+      "interestPeriodDays": 17,
+      "publishedRiskFreeRate": 1.58,
+      "rateApplied": 1.58,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.576385491574
+    },
+    {
+      "interestPeriodDate": "2020-02-20",
+      "interestPeriodDays": 14,
+      "publishedRiskFreeRate": 1.58,
+      "rateApplied": 1.58,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.575403525923
+    },
+    {
+      "interestPeriodDate": "2020-02-19",
+      "interestPeriodDays": 13,
+      "publishedRiskFreeRate": 1.59,
+      "rateApplied": 1.59,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.574980826836
+    },
+    {
+      "interestPeriodDate": "2020-02-18",
+      "interestPeriodDays": 12,
+      "publishedRiskFreeRate": 1.59,
+      "rateApplied": 1.59,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.573659725768
+    },
+    {
+      "interestPeriodDate": "2020-02-14",
+      "interestPeriodDays": 11,
+      "publishedRiskFreeRate": 1.6,
+      "rateApplied": 1.6,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.572104811663
+    },
+    {
+      "interestPeriodDate": "2020-02-13",
+      "interestPeriodDays": 7,
+      "publishedRiskFreeRate": 1.59,
+      "rateApplied": 1.59,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.555888101712
+    },
+    {
+      "interestPeriodDate": "2020-02-12",
+      "interestPeriodDays": 6,
+      "publishedRiskFreeRate": 1.6,
+      "rateApplied": 1.6,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.550134321065
+    },
+    {
+      "interestPeriodDate": "2020-02-11",
+      "interestPeriodDays": 5,
+      "publishedRiskFreeRate": 1.58,
+      "rateApplied": 1.58,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.540092736712
+    },
+    {
+      "interestPeriodDate": "2020-02-10",
+      "interestPeriodDays": 4,
+      "publishedRiskFreeRate": 1.53,
+      "rateApplied": 1.53,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.53004876875
+    },
+    {
+      "interestPeriodDate": "2020-02-07",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 1.53,
+      "rateApplied": 1.53,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.53
+    }
+  ]
+}

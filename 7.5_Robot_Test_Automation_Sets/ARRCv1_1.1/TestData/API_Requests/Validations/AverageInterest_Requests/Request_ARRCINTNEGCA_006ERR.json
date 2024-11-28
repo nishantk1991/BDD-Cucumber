@@ -1,0 +1,10 @@
+{
+	
+	"riskFreeRate": "SOFR",
+	"initialPrincipalBalance": 15000000.0,
+	"interestPeriodStartDate": "1900-01-01",
+	"interestPeriodEndDate": "2019-04-22",
+	"spreadAdjustment": 1.5,
+	"spread": 0.5,
+	"paymentRounding": "UP"
+}

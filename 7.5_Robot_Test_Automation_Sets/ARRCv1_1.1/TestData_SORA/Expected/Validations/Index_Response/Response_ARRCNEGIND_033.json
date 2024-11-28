@@ -1,0 +1,15 @@
+{
+    "comment": " Computed time : 2020-12-09T07:38:05+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2020-08-05T09:45:12+00:00",
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "requestParameters": {
+        "indexStartDate": "2020-04-28",
+        "indexEndDate": "2020-05-10",
+        "riskFreeRate": "SOFR"
+    },
+    "effectiveStartDate": "2020-04-28",
+    "effectiveEndDate": "2020-05-10",
+    "indexAtEffectiveStartDate": 1.04138324,
+    "indexAtEffectiveEndDate": 1.04139684,
+    "averageCompoundedRate": 0.03917
+}

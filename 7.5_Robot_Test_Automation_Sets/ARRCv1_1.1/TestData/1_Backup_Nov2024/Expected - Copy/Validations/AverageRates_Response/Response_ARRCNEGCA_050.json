@@ -1,0 +1,5 @@
+{
+    "title": "NUMERIC_INVALID_FORMAT_RFR_FLOOR",
+    "message": "Invalid value passed for riskFreeRateFloor",
+    "status": 400
+}

@@ -1,0 +1,10 @@
+{ 
+   "initialPrincipalBalance":15000000.0,
+   "interestPeriodStartDate":"2020-05-05",
+   "interestPeriodEndDate":"2020-05-02",
+   "spread":0.5,
+   "spreadAdjustment":1.5,
+   "paymentRounding":"UP",
+   "riskFreeRate":"ESTR"
+
+}

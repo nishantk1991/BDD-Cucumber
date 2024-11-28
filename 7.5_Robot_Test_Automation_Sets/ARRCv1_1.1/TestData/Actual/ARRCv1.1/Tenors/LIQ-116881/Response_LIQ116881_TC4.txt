@@ -1,0 +1,33 @@
+{
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2021-11-17. The most recent published SOFR Averages are available as-of: 2021-11-18. Computed time : 2021-11-19T07:32:17+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-18T00:00:00+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "requestParameters": {
+    "valueDate": "2018-06-30",
+    "riskFreeRate": "SOFR",
+    "rateRoundingDecimalPoints": 12
+  },
+  "calculatedCompoundedInArrearsRatesForTenors": [
+    {
+      "tenor": "7D",
+      "interestPeriodStartDate": "2018-06-23",
+      "interestPeriodEndDate": "2018-06-29",
+      "averageCompoundedRate": 1.943157022325,
+      "publishedRate": false
+    },
+    {
+      "tenor": "30D",
+      "interestPeriodStartDate": "2018-05-31",
+      "interestPeriodEndDate": "2018-06-29",
+      "averageCompoundedRate": 1.83598545433,
+      "publishedRate": false
+    },
+    {
+      "tenor": "60D",
+      "interestPeriodStartDate": "2018-05-01",
+      "interestPeriodEndDate": "2018-06-29",
+      "averageCompoundedRate": 1.783394909222,
+      "publishedRate": false
+    }
+  ]
+}

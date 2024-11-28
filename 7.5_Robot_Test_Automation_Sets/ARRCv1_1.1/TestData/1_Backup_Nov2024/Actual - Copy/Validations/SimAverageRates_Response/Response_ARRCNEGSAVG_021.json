@@ -1,0 +1,5 @@
+{
+  "title": "INVALID_DAY_CNT_FORMAT",
+  "message": "Invalid value passed for dayCountConvention",
+  "status": 400
+}

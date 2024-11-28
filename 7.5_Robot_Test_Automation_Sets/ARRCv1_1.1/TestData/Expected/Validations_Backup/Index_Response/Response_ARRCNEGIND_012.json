@@ -1,0 +1,6 @@
+{
+	
+	"status": 400,
+	"title": "NO_INDEX_REPO_FOR_END",
+	"message": "Index is not available for the indexEndDate provided. The most recent published SOFR rate is available from: 2020-03-02."
+}

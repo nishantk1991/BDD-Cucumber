@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/daily-compounding/rates?spreadAdjustment=-0.01&legacyRiskFreeRateFloor=0&riskFreeRateFloor=0&riskFreeRate=ESTR&rateRoundingDecimalPoints=3&interestPeriodStartDate=2020-03-01&interestPeriodEndDate=2020-05-28&calculateTillDate=2020-05-26&showDailyDetails=true&lookBackDays=4&lockoutDays=0&dayCountConvention=ACT/360

@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "INDEX_ST_GT_END",
+    "exceptionMessage": "Index start date is greater than index end date",
+    "status": "400"
+  }
+}

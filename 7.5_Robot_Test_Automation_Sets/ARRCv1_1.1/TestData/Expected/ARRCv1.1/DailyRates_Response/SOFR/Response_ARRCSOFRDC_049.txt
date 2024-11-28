@@ -1,0 +1,54 @@
+{
+    "comment": " Computed time : 2021-05-19T08:53:42+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2021-05-18T13:39:41+00:00",
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "requestParameters": {
+        "interestPeriodStartDate": "2020-04-28",
+        "interestPeriodEndDate": "2020-05-02",
+        "riskFreeRate": "SOFR",
+        "lookBackDays": 2,
+        "lockoutDays": 8,
+        "observationPeriodShift": false,
+        "dayCountConvention": "ACT/360",
+        "rateRoundingDecimalPoints": 10,
+        "showDailyDetails": true
+    },
+    "dailyRateSummary": [
+        {
+            "interestPeriodDate": "2020-05-01",
+            "interestPeriodDays": 2,
+            "publishedRiskFreeRate": 0.03,
+            "rateApplied": 0.03,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000002500002,
+            "dailyCompoundedRate": 0.0300000750
+        },
+        {
+            "interestPeriodDate": "2020-04-30",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.03,
+            "rateApplied": 0.03,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000001666667,
+            "dailyCompoundedRate": 0.0300000500
+        },
+        {
+            "interestPeriodDate": "2020-04-29",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.03,
+            "rateApplied": 0.03,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000000833333,
+            "dailyCompoundedRate": 0.0300000250
+        },
+        {
+            "interestPeriodDate": "2020-04-28",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.03,
+            "rateApplied": 0.03,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000000000000,
+            "dailyCompoundedRate": 0.0300000000
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "exception": {
+    "exceptionMessage": "Missing the required parameter 'interestPeriodStartDate'.",
+    "status": "400"
+  }
+}

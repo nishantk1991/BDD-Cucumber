@@ -1,0 +1,1098 @@
+{
+    "comment": " Computed time : 2020-09-18T09:54:27+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2020-09-17T09:35:29+00:00",
+    "legalDisclaimer": "The SONIA benchmark is used subject to the terms of the UK Open Government License v.3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) and the Bank of England�s disclaimer for SONIA (set out below)*. The �SONIA� mark is used with the consent of the Bank of England (the benchmark administrator of SONIA), and the use of such mark does not imply or express any approval or endorsement by the Bank of England. �Bank of England� and �SONIA� are registered trade marks of the Bank of England. The Bank of England has no liability for your use of the calculator service herein.\n*Bank of England�s disclaimer for SONIA: SONIA is copyright the Bank of England. The trade marks �Bank of England� and �SONIA� are registered trade marks of the Bank of England. All Rights Reserved. The SONIA benchmark includes the proprietary information of the Bank of England and the data comprising the benchmark may not be copied or distributed except as specifically authorised. The SONIA benchmark is not intended to be relied upon as authoritative or taken in substitution for the exercise of judgement. The SONIA benchmark is not, and should not be construed as, an offer, bid or solicitation in relation to any financial instrument. The Bank of England does not guarantee, and expressly disclaims any liability for, and makes no representations or warranties whether express or implied, as to the currency, accuracy, timeliness, completeness or fitness for any particular purpose of the SONIA benchmark. The Bank of England accepts no liability whatsoever for any loss (including, but not limited to any direct, indirect or consequential loss, whether or not such loss is foreseeable and whether or not the Bank of England has been appraised of the use to which the SONIA benchmark will be put) howsoever arising from the use, the timeliness of delivery or the failure of delivery of the SONIA benchmark.",
+    "requestParameters": {
+        "interestPeriodStartDate": "2019-07-31",
+        "interestPeriodEndDate": "2020-01-02",
+        "riskFreeRate": "SONIA",
+        "lookBackDays": 6,
+        "lockoutDays": 0,
+        "observationPeriodShift": true,
+        "dayCountConvention": "ACT/365",
+        "rateRoundingDecimalPoints": 11,
+        "showDailyDetails": true
+    },
+    "dailyRateSummary": [
+        {
+            "interestPeriodDate": "2020-01-02",
+            "interestPeriodDays": 156,
+            "observationPeriodDate": "2019-12-20",
+            "observationPeriodDays": 153,
+            "publishedRiskFreeRate": 0.7108,
+            "rateApplied": 0.7108,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71127712266
+        },
+        {
+            "interestPeriodDate": "2019-12-31",
+            "interestPeriodDays": 155,
+            "observationPeriodDate": "2019-12-19",
+            "observationPeriodDays": 150,
+            "publishedRiskFreeRate": 0.7113,
+            "rateApplied": 0.7113,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71124511281
+        },
+        {
+            "interestPeriodDate": "2019-12-30",
+            "interestPeriodDays": 153,
+            "observationPeriodDate": "2019-12-18",
+            "observationPeriodDays": 149,
+            "publishedRiskFreeRate": 0.7106,
+            "rateApplied": 0.7106,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71123088421
+        },
+        {
+            "interestPeriodDate": "2019-12-27",
+            "interestPeriodDays": 152,
+            "observationPeriodDate": "2019-12-17",
+            "observationPeriodDays": 148,
+            "publishedRiskFreeRate": 0.7104,
+            "rateApplied": 0.7104,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71122130053
+        },
+        {
+            "interestPeriodDate": "2019-12-24",
+            "interestPeriodDays": 149,
+            "observationPeriodDate": "2019-12-16",
+            "observationPeriodDays": 147,
+            "publishedRiskFreeRate": 0.7111,
+            "rateApplied": 0.7111,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71121304526
+        },
+        {
+            "interestPeriodDate": "2019-12-23",
+            "interestPeriodDays": 146,
+            "observationPeriodDate": "2019-12-13",
+            "observationPeriodDays": 146,
+            "publishedRiskFreeRate": 0.7113,
+            "rateApplied": 0.7113,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71119996381
+        },
+        {
+            "interestPeriodDate": "2019-12-20",
+            "interestPeriodDays": 145,
+            "observationPeriodDate": "2019-12-12",
+            "observationPeriodDays": 143,
+            "publishedRiskFreeRate": 0.7104,
+            "rateApplied": 0.7104,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71115628881
+        },
+        {
+            "interestPeriodDate": "2019-12-19",
+            "interestPeriodDays": 142,
+            "observationPeriodDate": "2019-12-11",
+            "observationPeriodDays": 142,
+            "publishedRiskFreeRate": 0.7098,
+            "rateApplied": 0.7098,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71114777371
+        },
+        {
+            "interestPeriodDate": "2019-12-18",
+            "interestPeriodDays": 141,
+            "observationPeriodDate": "2019-12-10",
+            "observationPeriodDays": 141,
+            "publishedRiskFreeRate": 0.7103,
+            "rateApplied": 0.7103,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71114350308
+        },
+        {
+            "interestPeriodDate": "2019-12-17",
+            "interestPeriodDays": 140,
+            "observationPeriodDate": "2019-12-09",
+            "observationPeriodDays": 140,
+            "publishedRiskFreeRate": 0.7095,
+            "rateApplied": 0.7095,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71113568921
+        },
+        {
+            "interestPeriodDate": "2019-12-16",
+            "interestPeriodDays": 139,
+            "observationPeriodDate": "2019-12-06",
+            "observationPeriodDays": 139,
+            "publishedRiskFreeRate": 0.7086,
+            "rateApplied": 0.7086,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71113363349
+        },
+        {
+            "interestPeriodDate": "2019-12-13",
+            "interestPeriodDays": 138,
+            "observationPeriodDate": "2019-12-05",
+            "observationPeriodDays": 136,
+            "publishedRiskFreeRate": 0.7097,
+            "rateApplied": 0.7097,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71114810441
+        },
+        {
+            "interestPeriodDate": "2019-12-12",
+            "interestPeriodDays": 135,
+            "observationPeriodDate": "2019-12-04",
+            "observationPeriodDays": 135,
+            "publishedRiskFreeRate": 0.7091,
+            "rateApplied": 0.7091,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71114500373
+        },
+        {
+            "interestPeriodDate": "2019-12-11",
+            "interestPeriodDays": 134,
+            "observationPeriodDate": "2019-12-03",
+            "observationPeriodDays": 134,
+            "publishedRiskFreeRate": 0.7092,
+            "rateApplied": 0.7092,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71114644922
+        },
+        {
+            "interestPeriodDate": "2019-12-10",
+            "interestPeriodDays": 133,
+            "observationPeriodDate": "2019-12-02",
+            "observationPeriodDays": 133,
+            "publishedRiskFreeRate": 0.7091,
+            "rateApplied": 0.7091,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71114726649
+        },
+        {
+            "interestPeriodDate": "2019-12-09",
+            "interestPeriodDays": 132,
+            "observationPeriodDate": "2019-11-29",
+            "observationPeriodDays": 132,
+            "publishedRiskFreeRate": 0.7123,
+            "rateApplied": 0.7123,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71114896031
+        },
+        {
+            "interestPeriodDate": "2019-12-06",
+            "interestPeriodDays": 131,
+            "observationPeriodDate": "2019-11-28",
+            "observationPeriodDays": 129,
+            "publishedRiskFreeRate": 0.71,
+            "rateApplied": 0.71,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71108056159
+        },
+        {
+            "interestPeriodDate": "2019-12-05",
+            "interestPeriodDays": 128,
+            "observationPeriodDate": "2019-11-27",
+            "observationPeriodDays": 128,
+            "publishedRiskFreeRate": 0.7105,
+            "rateApplied": 0.7105,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71107517161
+        },
+        {
+            "interestPeriodDate": "2019-12-04",
+            "interestPeriodDays": 127,
+            "observationPeriodDate": "2019-11-26",
+            "observationPeriodDays": 127,
+            "publishedRiskFreeRate": 0.7097,
+            "rateApplied": 0.7097,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71106585908
+        },
+        {
+            "interestPeriodDate": "2019-12-03",
+            "interestPeriodDays": 126,
+            "observationPeriodDate": "2019-11-25",
+            "observationPeriodDays": 126,
+            "publishedRiskFreeRate": 0.7097,
+            "rateApplied": 0.7097,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71106287345
+        },
+        {
+            "interestPeriodDate": "2019-12-02",
+            "interestPeriodDays": 125,
+            "observationPeriodDate": "2019-11-22",
+            "observationPeriodDays": 125,
+            "publishedRiskFreeRate": 0.7104,
+            "rateApplied": 0.7104,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71105995070
+        },
+        {
+            "interestPeriodDate": "2019-11-29",
+            "interestPeriodDays": 124,
+            "observationPeriodDate": "2019-11-21",
+            "observationPeriodDays": 122,
+            "publishedRiskFreeRate": 0.7107,
+            "rateApplied": 0.7107,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71103466236
+        },
+        {
+            "interestPeriodDate": "2019-11-28",
+            "interestPeriodDays": 121,
+            "observationPeriodDate": "2019-11-20",
+            "observationPeriodDays": 121,
+            "publishedRiskFreeRate": 0.7108,
+            "rateApplied": 0.7108,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71102358366
+        },
+        {
+            "interestPeriodDate": "2019-11-27",
+            "interestPeriodDays": 120,
+            "observationPeriodDate": "2019-11-19",
+            "observationPeriodDays": 120,
+            "publishedRiskFreeRate": 0.7106,
+            "rateApplied": 0.7106,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71101160064
+        },
+        {
+            "interestPeriodDate": "2019-11-26",
+            "interestPeriodDays": 119,
+            "observationPeriodDate": "2019-11-18",
+            "observationPeriodDays": 119,
+            "publishedRiskFreeRate": 0.7099,
+            "rateApplied": 0.7099,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71100121735
+        },
+        {
+            "interestPeriodDate": "2019-11-25",
+            "interestPeriodDays": 118,
+            "observationPeriodDate": "2019-11-15",
+            "observationPeriodDays": 118,
+            "publishedRiskFreeRate": 0.7085,
+            "rateApplied": 0.7085,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71099672130
+        },
+        {
+            "interestPeriodDate": "2019-11-22",
+            "interestPeriodDays": 117,
+            "observationPeriodDate": "2019-11-14",
+            "observationPeriodDays": 115,
+            "publishedRiskFreeRate": 0.7091,
+            "rateApplied": 0.7091,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71102044839
+        },
+        {
+            "interestPeriodDate": "2019-11-21",
+            "interestPeriodDays": 114,
+            "observationPeriodDate": "2019-11-13",
+            "observationPeriodDays": 114,
+            "publishedRiskFreeRate": 0.7109,
+            "rateApplied": 0.7109,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71102348109
+        },
+        {
+            "interestPeriodDate": "2019-11-20",
+            "interestPeriodDays": 113,
+            "observationPeriodDate": "2019-11-12",
+            "observationPeriodDays": 113,
+            "publishedRiskFreeRate": 0.7103,
+            "rateApplied": 0.7103,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71101072570
+        },
+        {
+            "interestPeriodDate": "2019-11-19",
+            "interestPeriodDays": 112,
+            "observationPeriodDate": "2019-11-11",
+            "observationPeriodDays": 112,
+            "publishedRiskFreeRate": 0.7112,
+            "rateApplied": 0.7112,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71100323514
+        },
+        {
+            "interestPeriodDate": "2019-11-18",
+            "interestPeriodDays": 111,
+            "observationPeriodDate": "2019-11-08",
+            "observationPeriodDays": 111,
+            "publishedRiskFreeRate": 0.71,
+            "rateApplied": 0.71,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71098760894
+        },
+        {
+            "interestPeriodDate": "2019-11-15",
+            "interestPeriodDays": 110,
+            "observationPeriodDate": "2019-11-07",
+            "observationPeriodDays": 108,
+            "publishedRiskFreeRate": 0.7108,
+            "rateApplied": 0.7108,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71097355283
+        },
+        {
+            "interestPeriodDate": "2019-11-14",
+            "interestPeriodDays": 107,
+            "observationPeriodDate": "2019-11-06",
+            "observationPeriodDays": 107,
+            "publishedRiskFreeRate": 0.7115,
+            "rateApplied": 0.7115,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71096132958
+        },
+        {
+            "interestPeriodDate": "2019-11-13",
+            "interestPeriodDays": 106,
+            "observationPeriodDate": "2019-11-05",
+            "observationPeriodDays": 106,
+            "publishedRiskFreeRate": 0.7105,
+            "rateApplied": 0.7105,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71094238928
+        },
+        {
+            "interestPeriodDate": "2019-11-12",
+            "interestPeriodDays": 105,
+            "observationPeriodDate": "2019-11-04",
+            "observationPeriodDays": 105,
+            "publishedRiskFreeRate": 0.7117,
+            "rateApplied": 0.7117,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71093276367
+        },
+        {
+            "interestPeriodDate": "2019-11-11",
+            "interestPeriodDays": 104,
+            "observationPeriodDate": "2019-11-01",
+            "observationPeriodDays": 104,
+            "publishedRiskFreeRate": 0.7119,
+            "rateApplied": 0.7119,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71091152459
+        },
+        {
+            "interestPeriodDate": "2019-11-08",
+            "interestPeriodDays": 103,
+            "observationPeriodDate": "2019-10-31",
+            "observationPeriodDays": 101,
+            "publishedRiskFreeRate": 0.7106,
+            "rateApplied": 0.7106,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71084057100
+        },
+        {
+            "interestPeriodDate": "2019-11-07",
+            "interestPeriodDays": 100,
+            "observationPeriodDate": "2019-10-30",
+            "observationPeriodDays": 100,
+            "publishedRiskFreeRate": 0.7107,
+            "rateApplied": 0.7107,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71082913794
+        },
+        {
+            "interestPeriodDate": "2019-11-06",
+            "interestPeriodDays": 99,
+            "observationPeriodDate": "2019-10-29",
+            "observationPeriodDays": 99,
+            "publishedRiskFreeRate": 0.7107,
+            "rateApplied": 0.7107,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71081660189
+        },
+        {
+            "interestPeriodDate": "2019-11-05",
+            "interestPeriodDays": 98,
+            "observationPeriodDate": "2019-10-28",
+            "observationPeriodDays": 98,
+            "publishedRiskFreeRate": 0.7106,
+            "rateApplied": 0.7106,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71080395147
+        },
+        {
+            "interestPeriodDate": "2019-11-04",
+            "interestPeriodDays": 97,
+            "observationPeriodDate": "2019-10-25",
+            "observationPeriodDays": 97,
+            "publishedRiskFreeRate": 0.7097,
+            "rateApplied": 0.7097,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71079221601
+        },
+        {
+            "interestPeriodDate": "2019-11-01",
+            "interestPeriodDays": 96,
+            "observationPeriodDate": "2019-10-24",
+            "observationPeriodDays": 94,
+            "publishedRiskFreeRate": 0.7108,
+            "rateApplied": 0.7108,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71078561277
+        },
+        {
+            "interestPeriodDate": "2019-10-31",
+            "interestPeriodDays": 93,
+            "observationPeriodDate": "2019-10-23",
+            "observationPeriodDays": 93,
+            "publishedRiskFreeRate": 0.7124,
+            "rateApplied": 0.7124,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71077161653
+        },
+        {
+            "interestPeriodDate": "2019-10-30",
+            "interestPeriodDays": 92,
+            "observationPeriodDate": "2019-10-22",
+            "observationPeriodDays": 92,
+            "publishedRiskFreeRate": 0.7116,
+            "rateApplied": 0.7116,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71074004462
+        },
+        {
+            "interestPeriodDate": "2019-10-29",
+            "interestPeriodDays": 91,
+            "observationPeriodDate": "2019-10-21",
+            "observationPeriodDays": 91,
+            "publishedRiskFreeRate": 0.7111,
+            "rateApplied": 0.7111,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71071673850
+        },
+        {
+            "interestPeriodDate": "2019-10-28",
+            "interestPeriodDays": 90,
+            "observationPeriodDate": "2019-10-18",
+            "observationPeriodDays": 90,
+            "publishedRiskFreeRate": 0.7101,
+            "rateApplied": 0.7101,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71069863407
+        },
+        {
+            "interestPeriodDate": "2019-10-25",
+            "interestPeriodDays": 89,
+            "observationPeriodDate": "2019-10-17",
+            "observationPeriodDays": 87,
+            "publishedRiskFreeRate": 0.7107,
+            "rateApplied": 0.7107,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71067779836
+        },
+        {
+            "interestPeriodDate": "2019-10-24",
+            "interestPeriodDays": 86,
+            "observationPeriodDate": "2019-10-16",
+            "observationPeriodDays": 86,
+            "publishedRiskFreeRate": 0.7109,
+            "rateApplied": 0.7109,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71066370270
+        },
+        {
+            "interestPeriodDate": "2019-10-23",
+            "interestPeriodDays": 85,
+            "observationPeriodDate": "2019-10-15",
+            "observationPeriodDays": 85,
+            "publishedRiskFreeRate": 0.7111,
+            "rateApplied": 0.7111,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71064708166
+        },
+        {
+            "interestPeriodDate": "2019-10-22",
+            "interestPeriodDays": 84,
+            "observationPeriodDate": "2019-10-14",
+            "observationPeriodDays": 84,
+            "publishedRiskFreeRate": 0.7106,
+            "rateApplied": 0.7106,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71062784519
+        },
+        {
+            "interestPeriodDate": "2019-10-21",
+            "interestPeriodDays": 83,
+            "observationPeriodDate": "2019-10-11",
+            "observationPeriodDays": 83,
+            "publishedRiskFreeRate": 0.7108,
+            "rateApplied": 0.7108,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71061434608
+        },
+        {
+            "interestPeriodDate": "2019-10-18",
+            "interestPeriodDays": 82,
+            "observationPeriodDate": "2019-10-10",
+            "observationPeriodDays": 80,
+            "publishedRiskFreeRate": 0.7115,
+            "rateApplied": 0.7115,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71056587144
+        },
+        {
+            "interestPeriodDate": "2019-10-17",
+            "interestPeriodDays": 79,
+            "observationPeriodDate": "2019-10-09",
+            "observationPeriodDays": 79,
+            "publishedRiskFreeRate": 0.7112,
+            "rateApplied": 0.7112,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71054019636
+        },
+        {
+            "interestPeriodDate": "2019-10-16",
+            "interestPeriodDays": 78,
+            "observationPeriodDate": "2019-10-08",
+            "observationPeriodDays": 78,
+            "publishedRiskFreeRate": 0.7107,
+            "rateApplied": 0.7107,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71051789295
+        },
+        {
+            "interestPeriodDate": "2019-10-15",
+            "interestPeriodDays": 77,
+            "observationPeriodDate": "2019-10-07",
+            "observationPeriodDays": 77,
+            "publishedRiskFreeRate": 0.7111,
+            "rateApplied": 0.7111,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71050169358
+        },
+        {
+            "interestPeriodDate": "2019-10-14",
+            "interestPeriodDays": 76,
+            "observationPeriodDate": "2019-10-04",
+            "observationPeriodDays": 76,
+            "publishedRiskFreeRate": 0.7118,
+            "rateApplied": 0.7118,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71047997942
+        },
+        {
+            "interestPeriodDate": "2019-10-11",
+            "interestPeriodDays": 75,
+            "observationPeriodDate": "2019-10-03",
+            "observationPeriodDays": 73,
+            "publishedRiskFreeRate": 0.7098,
+            "rateApplied": 0.7098,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71038417160
+        },
+        {
+            "interestPeriodDate": "2019-10-10",
+            "interestPeriodDays": 72,
+            "observationPeriodDate": "2019-10-02",
+            "observationPeriodDays": 72,
+            "publishedRiskFreeRate": 0.7098,
+            "rateApplied": 0.7098,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71037847067
+        },
+        {
+            "interestPeriodDate": "2019-10-09",
+            "interestPeriodDays": 71,
+            "observationPeriodDate": "2019-10-01",
+            "observationPeriodDays": 71,
+            "publishedRiskFreeRate": 0.7108,
+            "rateApplied": 0.7108,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71037280383
+        },
+        {
+            "interestPeriodDate": "2019-10-08",
+            "interestPeriodDays": 70,
+            "observationPeriodDate": "2019-09-30",
+            "observationPeriodDays": 70,
+            "publishedRiskFreeRate": 0.7101,
+            "rateApplied": 0.7101,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71035286763
+        },
+        {
+            "interestPeriodDate": "2019-10-07",
+            "interestPeriodDays": 69,
+            "observationPeriodDate": "2019-09-27",
+            "observationPeriodDays": 69,
+            "publishedRiskFreeRate": 0.7109,
+            "rateApplied": 0.7109,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71034271281
+        },
+        {
+            "interestPeriodDate": "2019-10-04",
+            "interestPeriodDays": 68,
+            "observationPeriodDate": "2019-09-26",
+            "observationPeriodDays": 66,
+            "publishedRiskFreeRate": 0.7109,
+            "rateApplied": 0.7109,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71027588005
+        },
+        {
+            "interestPeriodDate": "2019-10-03",
+            "interestPeriodDays": 65,
+            "observationPeriodDate": "2019-09-25",
+            "observationPeriodDays": 65,
+            "publishedRiskFreeRate": 0.7099,
+            "rateApplied": 0.7099,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71025244483
+        },
+        {
+            "interestPeriodDate": "2019-10-02",
+            "interestPeriodDays": 64,
+            "observationPeriodDate": "2019-09-24",
+            "observationPeriodDays": 64,
+            "publishedRiskFreeRate": 0.7105,
+            "rateApplied": 0.7105,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71024413801
+        },
+        {
+            "interestPeriodDate": "2019-10-01",
+            "interestPeriodDays": 63,
+            "observationPeriodDate": "2019-09-23",
+            "observationPeriodDays": 63,
+            "publishedRiskFreeRate": 0.7099,
+            "rateApplied": 0.7099,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71022625162
+        },
+        {
+            "interestPeriodDate": "2019-09-30",
+            "interestPeriodDays": 62,
+            "observationPeriodDate": "2019-09-20",
+            "observationPeriodDays": 62,
+            "publishedRiskFreeRate": 0.7093,
+            "rateApplied": 0.7093,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71021770050
+        },
+        {
+            "interestPeriodDate": "2019-09-27",
+            "interestPeriodDays": 61,
+            "observationPeriodDate": "2019-09-19",
+            "observationPeriodDays": 59,
+            "publishedRiskFreeRate": 0.7104,
+            "rateApplied": 0.7104,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71022295821
+        },
+        {
+            "interestPeriodDate": "2019-09-26",
+            "interestPeriodDays": 58,
+            "observationPeriodDate": "2019-09-18",
+            "observationPeriodDays": 58,
+            "publishedRiskFreeRate": 0.7104,
+            "rateApplied": 0.7104,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71020608302
+        },
+        {
+            "interestPeriodDate": "2019-09-25",
+            "interestPeriodDays": 57,
+            "observationPeriodDate": "2019-09-17",
+            "observationPeriodDays": 57,
+            "publishedRiskFreeRate": 0.711,
+            "rateApplied": 0.711,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71018885855
+        },
+        {
+            "interestPeriodDate": "2019-09-24",
+            "interestPeriodDays": 56,
+            "observationPeriodDate": "2019-09-16",
+            "observationPeriodDays": 56,
+            "publishedRiskFreeRate": 0.7099,
+            "rateApplied": 0.7099,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71016054034
+        },
+        {
+            "interestPeriodDate": "2019-09-23",
+            "interestPeriodDays": 55,
+            "observationPeriodDate": "2019-09-13",
+            "observationPeriodDays": 55,
+            "publishedRiskFreeRate": 0.708,
+            "rateApplied": 0.708,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71015146548
+        },
+        {
+            "interestPeriodDate": "2019-09-20",
+            "interestPeriodDays": 54,
+            "observationPeriodDate": "2019-09-12",
+            "observationPeriodDays": 52,
+            "publishedRiskFreeRate": 0.7096,
+            "rateApplied": 0.7096,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71023425869
+        },
+        {
+            "interestPeriodDate": "2019-09-19",
+            "interestPeriodDays": 51,
+            "observationPeriodDate": "2019-09-11",
+            "observationPeriodDays": 51,
+            "publishedRiskFreeRate": 0.7091,
+            "rateApplied": 0.7091,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71023288743
+        },
+        {
+            "interestPeriodDate": "2019-09-18",
+            "interestPeriodDays": 50,
+            "observationPeriodDate": "2019-09-10",
+            "observationPeriodDays": 50,
+            "publishedRiskFreeRate": 0.7087,
+            "rateApplied": 0.7087,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71024174703
+        },
+        {
+            "interestPeriodDate": "2019-09-17",
+            "interestPeriodDays": 49,
+            "observationPeriodDate": "2019-09-09",
+            "observationPeriodDays": 49,
+            "publishedRiskFreeRate": 0.7096,
+            "rateApplied": 0.7096,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71025942055
+        },
+        {
+            "interestPeriodDate": "2019-09-16",
+            "interestPeriodDays": 48,
+            "observationPeriodDate": "2019-09-06",
+            "observationPeriodDays": 48,
+            "publishedRiskFreeRate": 0.7098,
+            "rateApplied": 0.7098,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71025935025
+        },
+        {
+            "interestPeriodDate": "2019-09-13",
+            "interestPeriodDays": 47,
+            "observationPeriodDate": "2019-09-05",
+            "observationPeriodDays": 45,
+            "publishedRiskFreeRate": 0.7099,
+            "rateApplied": 0.7099,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71024853790
+        },
+        {
+            "interestPeriodDate": "2019-09-12",
+            "interestPeriodDays": 44,
+            "observationPeriodDate": "2019-09-04",
+            "observationPeriodDays": 44,
+            "publishedRiskFreeRate": 0.7095,
+            "rateApplied": 0.7095,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71024264548
+        },
+        {
+            "interestPeriodDate": "2019-09-11",
+            "interestPeriodDays": 43,
+            "observationPeriodDate": "2019-09-03",
+            "observationPeriodDays": 43,
+            "publishedRiskFreeRate": 0.7099,
+            "rateApplied": 0.7099,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71024611029
+        },
+        {
+            "interestPeriodDate": "2019-09-10",
+            "interestPeriodDays": 42,
+            "observationPeriodDate": "2019-09-02",
+            "observationPeriodDays": 42,
+            "publishedRiskFreeRate": 0.7091,
+            "rateApplied": 0.7091,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71024053732
+        },
+        {
+            "interestPeriodDate": "2019-09-09",
+            "interestPeriodDays": 41,
+            "observationPeriodDate": "2019-08-30",
+            "observationPeriodDays": 41,
+            "publishedRiskFreeRate": 0.7103,
+            "rateApplied": 0.7103,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71025455691
+        },
+        {
+            "interestPeriodDate": "2019-09-06",
+            "interestPeriodDays": 40,
+            "observationPeriodDate": "2019-08-29",
+            "observationPeriodDays": 38,
+            "publishedRiskFreeRate": 0.7101,
+            "rateApplied": 0.7101,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71020950668
+        },
+        {
+            "interestPeriodDate": "2019-09-05",
+            "interestPeriodDays": 37,
+            "observationPeriodDate": "2019-08-28",
+            "observationPeriodDays": 37,
+            "publishedRiskFreeRate": 0.7113,
+            "rateApplied": 0.7113,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71019864955
+        },
+        {
+            "interestPeriodDate": "2019-09-04",
+            "interestPeriodDays": 36,
+            "observationPeriodDate": "2019-08-27",
+            "observationPeriodDays": 36,
+            "publishedRiskFreeRate": 0.7107,
+            "rateApplied": 0.7107,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71015421723
+        },
+        {
+            "interestPeriodDate": "2019-09-03",
+            "interestPeriodDays": 35,
+            "observationPeriodDate": "2019-08-23",
+            "observationPeriodDays": 35,
+            "publishedRiskFreeRate": 0.7116,
+            "rateApplied": 0.7116,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.71012479643
+        },
+        {
+            "interestPeriodDate": "2019-09-02",
+            "interestPeriodDays": 34,
+            "observationPeriodDate": "2019-08-22",
+            "observationPeriodDays": 31,
+            "publishedRiskFreeRate": 0.711,
+            "rateApplied": 0.711,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70987908868
+        },
+        {
+            "interestPeriodDate": "2019-08-30",
+            "interestPeriodDays": 33,
+            "observationPeriodDate": "2019-08-21",
+            "observationPeriodDays": 30,
+            "publishedRiskFreeRate": 0.7127,
+            "rateApplied": 0.7127,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70982789791
+        },
+        {
+            "interestPeriodDate": "2019-08-29",
+            "interestPeriodDays": 30,
+            "observationPeriodDate": "2019-08-20",
+            "observationPeriodDays": 29,
+            "publishedRiskFreeRate": 0.7102,
+            "rateApplied": 0.7102,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70971500200
+        },
+        {
+            "interestPeriodDate": "2019-08-28",
+            "interestPeriodDays": 29,
+            "observationPeriodDate": "2019-08-19",
+            "observationPeriodDays": 28,
+            "publishedRiskFreeRate": 0.71,
+            "rateApplied": 0.71,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70968387194
+        },
+        {
+            "interestPeriodDate": "2019-08-27",
+            "interestPeriodDays": 28,
+            "observationPeriodDate": "2019-08-16",
+            "observationPeriodDays": 27,
+            "publishedRiskFreeRate": 0.7112,
+            "rateApplied": 0.7112,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70965835918
+        },
+        {
+            "interestPeriodDate": "2019-08-23",
+            "interestPeriodDays": 27,
+            "observationPeriodDate": "2019-08-15",
+            "observationPeriodDays": 24,
+            "publishedRiskFreeRate": 0.7098,
+            "rateApplied": 0.7098,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70942418483
+        },
+        {
+            "interestPeriodDate": "2019-08-22",
+            "interestPeriodDays": 23,
+            "observationPeriodDate": "2019-08-14",
+            "observationPeriodDays": 23,
+            "publishedRiskFreeRate": 0.71,
+            "rateApplied": 0.71,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70939404976
+        },
+        {
+            "interestPeriodDate": "2019-08-21",
+            "interestPeriodDays": 22,
+            "observationPeriodDate": "2019-08-13",
+            "observationPeriodDays": 22,
+            "publishedRiskFreeRate": 0.7094,
+            "rateApplied": 0.7094,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70935270820
+        },
+        {
+            "interestPeriodDate": "2019-08-20",
+            "interestPeriodDays": 21,
+            "observationPeriodDate": "2019-08-12",
+            "observationPeriodDays": 21,
+            "publishedRiskFreeRate": 0.709,
+            "rateApplied": 0.709,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70933666981
+        },
+        {
+            "interestPeriodDate": "2019-08-19",
+            "interestPeriodDays": 20,
+            "observationPeriodDate": "2019-08-09",
+            "observationPeriodDays": 20,
+            "publishedRiskFreeRate": 0.7099,
+            "rateApplied": 0.7099,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70933972462
+        },
+        {
+            "interestPeriodDate": "2019-08-16",
+            "interestPeriodDays": 19,
+            "observationPeriodDate": "2019-08-08",
+            "observationPeriodDays": 17,
+            "publishedRiskFreeRate": 0.7092,
+            "rateApplied": 0.7092,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70919947217
+        },
+        {
+            "interestPeriodDate": "2019-08-15",
+            "interestPeriodDays": 16,
+            "observationPeriodDate": "2019-08-07",
+            "observationPeriodDays": 16,
+            "publishedRiskFreeRate": 0.7098,
+            "rateApplied": 0.7098,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70918565960
+        },
+        {
+            "interestPeriodDate": "2019-08-14",
+            "interestPeriodDays": 15,
+            "observationPeriodDate": "2019-08-06",
+            "observationPeriodDays": 15,
+            "publishedRiskFreeRate": 0.7096,
+            "rateApplied": 0.7096,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70913091341
+        },
+        {
+            "interestPeriodDate": "2019-08-13",
+            "interestPeriodDays": 14,
+            "observationPeriodDate": "2019-08-05",
+            "observationPeriodDays": 14,
+            "publishedRiskFreeRate": 0.7092,
+            "rateApplied": 0.7092,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70908362186
+        },
+        {
+            "interestPeriodDate": "2019-08-12",
+            "interestPeriodDays": 13,
+            "observationPeriodDate": "2019-08-02",
+            "observationPeriodDays": 13,
+            "publishedRiskFreeRate": 0.7083,
+            "rateApplied": 0.7083,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70906089254
+        },
+        {
+            "interestPeriodDate": "2019-08-09",
+            "interestPeriodDays": 12,
+            "observationPeriodDate": "2019-08-01",
+            "observationPeriodDays": 10,
+            "publishedRiskFreeRate": 0.7087,
+            "rateApplied": 0.7087,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70924787042
+        },
+        {
+            "interestPeriodDate": "2019-08-08",
+            "interestPeriodDays": 9,
+            "observationPeriodDate": "2019-07-31",
+            "observationPeriodDays": 9,
+            "publishedRiskFreeRate": 0.7081,
+            "rateApplied": 0.7081,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70929497293
+        },
+        {
+            "interestPeriodDate": "2019-08-07",
+            "interestPeriodDays": 8,
+            "observationPeriodDate": "2019-07-30",
+            "observationPeriodDays": 8,
+            "publishedRiskFreeRate": 0.7092,
+            "rateApplied": 0.7092,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70943058160
+        },
+        {
+            "interestPeriodDate": "2019-08-06",
+            "interestPeriodDays": 7,
+            "observationPeriodDate": "2019-07-29",
+            "observationPeriodDays": 7,
+            "publishedRiskFreeRate": 0.7087,
+            "rateApplied": 0.7087,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70944973712
+        },
+        {
+            "interestPeriodDate": "2019-08-05",
+            "interestPeriodDays": 6,
+            "observationPeriodDate": "2019-07-26",
+            "observationPeriodDays": 6,
+            "publishedRiskFreeRate": 0.7097,
+            "rateApplied": 0.7097,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70956091616
+        },
+        {
+            "interestPeriodDate": "2019-08-02",
+            "interestPeriodDays": 5,
+            "observationPeriodDate": "2019-07-25",
+            "observationPeriodDays": 3,
+            "publishedRiskFreeRate": 0.7091,
+            "rateApplied": 0.7091,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70938045309
+        },
+        {
+            "interestPeriodDate": "2019-08-01",
+            "interestPeriodDays": 2,
+            "observationPeriodDate": "2019-07-24",
+            "observationPeriodDays": 2,
+            "publishedRiskFreeRate": 0.7095,
+            "rateApplied": 0.7095,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70950689576
+        },
+        {
+            "interestPeriodDate": "2019-07-31",
+            "interestPeriodDays": 1,
+            "observationPeriodDate": "2019-07-23",
+            "observationPeriodDays": 1,
+            "publishedRiskFreeRate": 0.7095,
+            "rateApplied": 0.7095,
+            "riskFreeRateFloorApplied": false,
+            "averageCompoundedRate": 0.70950000000
+        }
+    ]
+}

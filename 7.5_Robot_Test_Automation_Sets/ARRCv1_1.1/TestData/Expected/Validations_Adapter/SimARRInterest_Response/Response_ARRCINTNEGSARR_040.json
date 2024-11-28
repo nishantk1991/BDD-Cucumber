@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "ROUNDING_DPS_OUT_OF_RANGE_SIMPLE_ARR",
+    "exceptionMessage": "rateRoundingDecimalPoints must be between 2 to 6",
+    "status": "400"
+  }
+}

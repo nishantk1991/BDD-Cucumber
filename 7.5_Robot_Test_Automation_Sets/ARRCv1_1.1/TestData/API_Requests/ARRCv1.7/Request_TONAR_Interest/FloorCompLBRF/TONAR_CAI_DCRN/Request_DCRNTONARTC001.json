@@ -1,0 +1,30 @@
+{
+	
+	"initialPrincipalBalance": 1000000000.0,
+	"interestPeriodStartDate": "2021-04-02",
+	"interestPeriodEndDate": "2026-01-01",
+	"calculateTillDate": "2021-10-03",
+	"riskFreeRate": "TONAR",
+	"spread": 0,
+	"lookBackDays": 92,
+	"lockoutDays": 10,
+	"showDailyDetails": true,
+	"spreadAdjustment": 0.00345,
+	"legacyRiskFreeRateFloor": -0.0056,
+	"floorCompoundedRate": true,
+	"ccrRoundingApplies": false,
+	"rateRoundingDecimalPoints": 5,
+	"dayCountConvention": "ACT/365",
+	"paymentRounding": "ACTUAL",
+  "principalAmountChanges": [
+
+	{
+		"date": "2021-04-03",
+		"principalAmountChange": -10000
+	},
+	{
+		"date": "2021-04-04",
+		"principalAmountChange": 10000
+	}
+	]
+}

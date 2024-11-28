@@ -1,0 +1,58 @@
+{
+    "comment": " Computed time : 2021-02-05T14:12:26+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2020-08-05T10:04:15+00:00",
+    "legalDisclaimer": "The SONIA benchmark is used subject to the terms of the UK Open Government Licence v.3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) and the Bank of England’s disclaimer for SONIA (set out below)*. The “SONIA” mark is used with the consent of the Bank of England (the benchmark administrator of SONIA), and the use of such mark does not imply or express any approval or endorsement by the Bank of England. “Bank of England” and “SONIA” are registered trade marks of the Bank of England. The Bank of England has no liability for your use of the calculator service herein.\n*Bank of England’s disclaimer for SONIA: SONIA is copyright the Bank of England. The trade marks “Bank of England” and “SONIA” are registered trade marks of the Bank of England. All Rights Reserved. The SONIA benchmark includes the proprietary information of the Bank of England and the data comprising the benchmark may not be copied or distributed except as specifically authorised. The SONIA benchmark is not intended to be relied upon as authoritative or taken in substitution for the exercise of judgement. The SONIA benchmark is not, and should not be construed as, an offer, bid or solicitation in relation to any financial instrument. The Bank of England does not guarantee, and expressly disclaims any liability for, and makes no representations or warranties whether express or implied, as to the currency, accuracy, timeliness, completeness or fitness for any particular purpose of the SONIA benchmark. The Bank of England accepts no liability whatsoever for any loss (including, but not limited to any direct, indirect or consequential loss, whether or not such loss is foreseeable and whether or not the Bank of England has been appraised of the use to which the SONIA benchmark will be put) howsoever arising from the use, the timeliness of delivery or the failure of delivery of the SONIA benchmark.",
+    "interestCalculatorCriteria": {
+        "initialPrincipalBalance": 10000000,
+        "interestPeriodStartDate": "2020-05-11",
+        "interestPeriodEndDate": "2020-06-05",
+        "riskFreeRate": "SONIA",
+        "riskFreeRateFloor": -1,
+        "allInRateFloor": 1,
+        "allInRateCap": 1,
+        "lookBackDays": 4,
+        "lockoutDays": 0,
+        "spread": -1,
+        "spreadAdjustment": -1,
+        "dayCountConvention": "ACT/365",
+        "rateRoundingDecimalPoints": 5,
+        "paymentRounding": "NEAREST",
+        "principalAmountChanges": [
+            {
+                "date": "2020-05-11",
+                "principalAmountChange": -10000000
+            },
+            {
+                "date": "2020-05-22",
+                "principalAmountChange": 100000
+            },
+            {
+                "date": "2020-05-23",
+                "principalAmountChange": 100000
+            },
+            {
+                "date": "2020-05-30",
+                "principalAmountChange": -200000
+            }
+        ],
+        "showDailyDetails": false,
+        "calculateTillDate": "2020-05-30"
+    },
+    "currencyCode": "GBP",
+    "interestSummary": [
+        {
+            "interestPeriodDate": "2020-05-30",
+            "interestPeriodDays": 3,
+            "principalBalance": 0.00,
+            "publishedRiskFreeRate": 0,
+            "rateApplied": 0.00000,
+            "riskFreeRateFloorApplied": false,
+            "allInRateFloorApplied": true,
+            "allInRateCapApplied": false,
+            "calculatedAllInRate": -2.00000,
+            "allInRate": 1.00000,
+            "interestAmount": 0.00,
+            "cummulativeInterestAmount": 41.10
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{ 
+    "initialPrincipalBalance":9999966868.0,
+    "interestPeriodStartDate":"2020-04-30",
+    "interestPeriodEndDate":"2020-05-29",
+    "riskFreeRate":"SONIA",
+    "spread":1,
+    "spreadAdjustment":0.05896,
+    "calculateTillDate":"2020-05-24",
+    "allInRateCap":"1",
+    "legacyRiskFreeRateFloor":0,
+    "observationPeriodShift":"true",
+    "paymentRounding":"NEAREST",
+    "rateRoundingDecimalPoints":6
+ 
+ }

@@ -1,0 +1,9 @@
+{
+  "message": "Internal Server Error: null",
+  "_links": {
+    "self": {
+      "href": "/corporate/lending/alternative-reference-rates/v1/compounded-in-arrears/interest",
+      "templated": false
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{ 
+   "initialPrincipalBalance":10000000.0,
+   "interestPeriodStartDate":"2020-05-02",
+   "interestPeriodEndDate":"2020-06-01",
+   "riskFreeRate":"SOFR",
+   "lookBackDays": "0",
+   "lockoutDays": "7",
+   "spread":-1.23455,
+   "spreadAdjustment":0.00,
+   "showDailyDetails":"true",
+   "rateRoundingDecimalPoints":9,
+   "calculateTillDate": "2020-05-17",
+   "riskFreeRateFloor":"0.23456",
+   "principalAmountChanges":[{"date":"2020-05-02","principalAmountChange":-10000000},{"date":"2020-05-17","principalAmountChange":7056.35},{"date":"2020-06-01","principalAmountChange":756.35}]
+}

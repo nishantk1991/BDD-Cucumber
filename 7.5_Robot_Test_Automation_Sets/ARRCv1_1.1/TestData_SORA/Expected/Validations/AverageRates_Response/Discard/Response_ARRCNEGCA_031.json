@@ -1,0 +1,5 @@
+{
+    "title": "INVALID_OBS_SHIFT_END_DATE",
+    "message": "observationPeriodShift with interestPeriodEndDate being a non-business day is not supported",
+    "status": 400
+}

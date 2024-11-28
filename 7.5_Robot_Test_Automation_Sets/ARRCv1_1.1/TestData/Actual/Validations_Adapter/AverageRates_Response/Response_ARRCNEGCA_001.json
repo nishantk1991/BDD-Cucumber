@@ -1,0 +1,6 @@
+{
+  "timestamp": "2024-11-22T05:33:15.750+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/corporate/lending/alternative-reference-rates/v1/compounded-in-arrears/average-rate"
+}

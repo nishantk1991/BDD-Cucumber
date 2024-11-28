@@ -1,0 +1,11 @@
+{ 
+   "initialPrincipalBalance":15000000.0,
+   "interestPeriodStartDate":"2019-01-21",
+   "interestPeriodEndDate":"2020-04-10",
+   "spread":0.5,
+   "observationPeriodShift":"true",
+   "lookBackDays":-10,
+   "lockoutDays":1,
+   "riskFreeRate":"SOFR"
+
+}

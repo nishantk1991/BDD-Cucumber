@@ -1,0 +1,46 @@
+
+Õ
+trueZTRUSER262+LiqMNPaymentApplicationPaperClipTransaction:SMEB
+eventsMIN_DATAj8?F79EKXð
+í
+	LoanEvent"æ
+Loan Event - ReleasedLNEVT	LoanEvent"8?F79F8Z*2022-02-16 18:24:5122022-02-16 18:24:51:†
+descriptionString*Released
+commentString*
+eventEffectiveDateLiqDate*08-Mar-2018
+	eventUserString*TRUSER26!
+	eventDateLiqDate*16-Feb-2022-
+	eventTime	Timestamp*2022-02-16 18:24:51.0
+transactionRIDString
+transactionTypeString"ä
+Loan Event - CreatedLNEVT	LoanEvent"8?F79EKY*2022-02-16 18:12:0222022-02-16 18:24:51:…
+descriptionString*Created
+commentString*
+eventEffectiveDateLiqDate*12-Mar-2018
+	eventUserString*TRUSER26!
+	eventDateLiqDate*16-Feb-2022-
+	eventTime	Timestamp*2022-02-16 18:12:02.0
+transactionRIDString
+transactionTypeString"î
+Loan Event - ApprovedLNEVT	LoanEvent"8?F79EXY*2022-02-16 18:18:2922022-02-16 18:24:51:Ž
+descriptionString*Approved˜
+commentString*„Approval completed.
+
+Approver: SAMAD U, SABIHA.
+Job Function: Small and Medium Enterprise 1; Ranking: 1.
+Location: New York, NY.*
+eventEffectiveDateLiqDate*12-Mar-2018
+	eventUserString*TRUSER26!
+	eventDateLiqDate*16-Feb-2022-
+	eventTime	Timestamp*2022-02-16 18:18:29.0
+transactionRIDString
+transactionTypeString"ž
+Loan Event - Sent to ApprovalLNEVT	LoanEvent"8?F79EXO*2022-02-16 18:18:2922022-02-16 18:24:51:¶'
+descriptionString*Sent to Approval9
+commentString*&Warnings occurred during validation: N*
+eventEffectiveDateLiqDate*12-Mar-2018
+	eventUserString*TRUSER26!
+	eventDateLiqDate*16-Feb-2022-
+	eventTime	Timestamp*2022-02-16 18:18:29.0
+transactionRIDString
+transactionTypeString

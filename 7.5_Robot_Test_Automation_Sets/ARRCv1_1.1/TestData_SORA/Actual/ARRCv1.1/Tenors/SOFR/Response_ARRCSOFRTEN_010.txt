@@ -1,0 +1,54 @@
+{
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2021-11-17. The most recent published SOFR Averages are available as-of: 2021-11-18. Computed time : 2021-11-19T07:32:55+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-18T00:00:00+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "requestParameters": {
+    "valueDate": "2020-02-29",
+    "riskFreeRate": "SOFR",
+    "rateRoundingDecimalPoints": 2
+  },
+  "calculatedCompoundedInArrearsRatesForTenors": [
+    {
+      "tenor": "7D",
+      "interestPeriodStartDate": "2020-02-22",
+      "interestPeriodEndDate": "2020-02-28",
+      "averageCompoundedRate": 1.58,
+      "publishedRate": false
+    },
+    {
+      "tenor": "30D",
+      "interestPeriodStartDate": "2020-01-30",
+      "interestPeriodEndDate": "2020-02-28",
+      "averageCompoundedRate": 1.59,
+      "publishedRate": false
+    },
+    {
+      "tenor": "60D",
+      "interestPeriodStartDate": "2019-12-31",
+      "interestPeriodEndDate": "2020-02-28",
+      "averageCompoundedRate": 1.57,
+      "publishedRate": false
+    },
+    {
+      "tenor": "90D",
+      "interestPeriodStartDate": "2019-12-01",
+      "interestPeriodEndDate": "2020-02-28",
+      "averageCompoundedRate": 1.56,
+      "publishedRate": false
+    },
+    {
+      "tenor": "180D",
+      "interestPeriodStartDate": "2019-09-02",
+      "interestPeriodEndDate": "2020-02-28",
+      "averageCompoundedRate": 1.72,
+      "publishedRate": false
+    },
+    {
+      "tenor": "360D",
+      "interestPeriodStartDate": "2019-03-06",
+      "interestPeriodEndDate": "2020-02-28",
+      "averageCompoundedRate": 2.07,
+      "publishedRate": false
+    }
+  ]
+}

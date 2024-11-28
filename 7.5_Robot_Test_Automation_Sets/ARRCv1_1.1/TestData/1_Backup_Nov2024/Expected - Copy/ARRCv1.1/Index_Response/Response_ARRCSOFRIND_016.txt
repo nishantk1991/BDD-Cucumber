@@ -1,0 +1,13 @@
+{
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "requestParameters": {
+        "indexStartDate": "2020-03-31",
+        "indexEndDate": "2020-05-01",
+        "riskFreeRate": "SOFR"
+    },
+    "effectiveStartDate": "2020-03-31",
+    "effectiveEndDate": "2020-05-01",
+    "indexAtEffectiveStartDate": 1.04136791,
+    "indexAtEffectiveEndDate": 1.04138498,
+    "averageCompoundedRate": 0.01904
+}

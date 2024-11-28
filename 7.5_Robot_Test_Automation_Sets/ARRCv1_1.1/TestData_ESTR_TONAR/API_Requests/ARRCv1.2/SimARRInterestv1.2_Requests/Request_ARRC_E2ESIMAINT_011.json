@@ -1,0 +1,18 @@
+{ 
+   "initialPrincipalBalance":10000000.0,
+   "interestPeriodStartDate":"2020-05-01",
+   "interestPeriodEndDate":"2020-06-01",
+   "riskFreeRate":"ESTR",
+   "spread":-1.224,
+   "spreadAdjustment":0.2130,
+   "riskFreeRateFloor":0.56788,
+   "lookBackDays": "10",
+   "lockoutDays": "0",
+   "showDailyDetails":"true",
+   "dayCountConvention":"ACT/360",
+   "rateRoundingDecimalPoints":4,
+   "calculateTillDate":"2020-06-01",
+   "paymentRounding":"ACTUAL",
+   "observationPeriodShift":"true",
+   "principalAmountChanges":[{"date":"2020-05-23","principalAmountChange":-6000000},{"date":"2020-06-01","principalAmountChange":-4000000}]
+}

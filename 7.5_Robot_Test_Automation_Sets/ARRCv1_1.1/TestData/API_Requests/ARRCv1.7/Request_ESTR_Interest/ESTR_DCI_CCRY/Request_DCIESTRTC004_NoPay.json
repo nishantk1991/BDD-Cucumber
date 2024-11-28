@@ -1,0 +1,20 @@
+{ 
+    "initialPrincipalBalance":1000000000.0,
+    "interestPeriodStartDate":"2021-04-02",
+    "interestPeriodEndDate":"2026-01-01",
+    "calculateTillDate":"2021-10-24",
+    "riskFreeRate":"ESTR",
+    "spreadAdjustment":0.003450,
+    "legacyRiskFreeRateFloor":-0.5634,
+    "lookBackDays": "96",
+    "lockoutDays": "0",
+    "showDailyDetails":"true",
+    "rateRoundingDecimalPoints":9,
+    "dayCountConvention":"ACT/360",
+    "observationPeriodShift":"true",
+    "paymentRounding":"ACTUAL",
+    "ccrRoundingApplies":true,
+    "ccrRoundingPrecision":9
+ }
+    
+   

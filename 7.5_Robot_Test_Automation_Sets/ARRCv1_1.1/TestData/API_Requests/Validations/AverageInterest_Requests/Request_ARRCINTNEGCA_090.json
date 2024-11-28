@@ -1,0 +1,16 @@
+{ 
+    "initialPrincipalBalance":100000,
+    "interestPeriodStartDate":"2020-05-15",
+    "interestPeriodEndDate":"2024-05-22",
+    "calculateTillDate":"2024-05-22",
+    "spread":0.523,
+    "spreadAdjustment":0.1,
+    "riskFreeRateFloor":"0.012",
+    "lookBackDays":1,
+    "lockoutDays":0,
+    "riskFreeRate":"SOFR",
+    "rateRoundingDecimalPoints":2,
+    "dayCountConvention":"ACT/360",
+    "showDailyDetails":"true",
+     "principalAmountChanges":[{"date":"2024-05-23","principalAmountChange":-100000}]
+ }

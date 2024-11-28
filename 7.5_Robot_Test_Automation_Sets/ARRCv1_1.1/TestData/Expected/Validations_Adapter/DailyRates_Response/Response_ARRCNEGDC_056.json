@@ -1,0 +1,17 @@
+{
+  "message": "Bad Request",
+  "_links": {
+    "self": {
+      "href": "/corporate/lending/alternative-reference-rates/v1/daily-compounding/rates?riskFreeRate=SOFR&rateRoundingDecimalPoints=2&lookBackDays=3&interestPeriodEndDate=2020-05-23&calculateTillDate=2020-05-23",
+      "templated": false
+    }
+  },
+  "_embedded": {
+    "errors": [
+      {
+        "message": "Required QueryValue [interestPeriodStartDate] not specified",
+        "path": "/interestPeriodStartDate"
+      }
+    ]
+  }
+}

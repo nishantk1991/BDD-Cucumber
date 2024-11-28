@@ -1,0 +1,5 @@
+{
+    "title": "NUMERIC_INVALID_FORMAT_SPRD_ADJ",
+    "message": "Spread must not be more than 6 decimal points ",
+    "status": 400
+}

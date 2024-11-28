@@ -1,0 +1,5 @@
+{
+  "title": "CTDT_DATA_UNAVAILABLE",
+  "message": "Rate is not available for the calculateTillDate provided",
+  "status": 400
+}

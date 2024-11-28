@@ -1,0 +1,5 @@
+{
+    "title": "LOCKOUT_INVALID_SIMPLE_ARR",
+    "message": "lockout not applicable when interestPeriodEndDate not provided",
+    "status": 400
+}

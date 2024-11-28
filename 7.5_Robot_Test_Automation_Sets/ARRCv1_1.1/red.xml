@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <relativeTo>WORKSPACE</relativeTo>
+    <variable name="${Root}" value="C:\UTF\UTF\UnifiedTestFramework"/>
+    <referencedLibrary type="PYTHON" name="LoanIQ" path="C:/Python312/Lib/site-packages/Libraries/UFT/ProductSpecific/LoanIQ.py"/>
+    <referencedLibrary type="PYTHON" name="DatabaseLibrary" path="C:/Python312/Lib/site-packages/DatabaseLibrary/__init__.py"/>
+    <referencedLibrary type="PYTHON" name="reprlib" path="C:/Python312/Lib/reprlib.py"/>
+    <referencedLibrary type="PYTHON" name="UFTGeneric" path="C:/Python312/Lib/site-packages/Libraries/UFT/UFTGeneric.py"/>
+    <referencedLibrary type="PYTHON" name="GenericLib" path="C:/Python312/Lib/site-packages/Libraries/Common/GenericLib.py"/>
+    <referencedLibrary type="PYTHON" name="Keyboard" path="C:/Python312/Lib/site-packages/Libraries/Common/Keyboard/__init__.py"/>
+    <referencedLibrary type="PYTHON" name="JsonLibrary" path="C:/Python312/Lib/site-packages/Libraries/Common/JsonLibrary/__init__.py"/>
+    <referencedLibrary type="PYTHON" name="RequestsLibrary" path="C:/Python312/Lib/site-packages/RequestsLibrary/__init__.py"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibraryExtended" path="C:/Python312/Lib/site-packages/Libraries/Selenium"/>
+	<referencedLibrary type="PYTHON" name="GenerateOidcToken" path="C:/Python312/Lib/site-packages/Libraries/REST/FFDCTokenGenerator/GenerateOidcToken.py"/>
+    <referencedLibrary type="PYTHON" name="BaselineComparator" path="C:/Python312/Lib/site-packages/Libraries/Common/BaselineComparator/__init__.py"/>
+	
+	<referencedLibrary type="PYTHON" name="LoanIQProjectKeywords" path="C:/7.5_Robot_Test_Automation_Sets/Library/LoanIQProjectKeywords.py"/>
+	
+    <pythonpath>
+        <path location="C:\UTF\UTF\UnifiedTestFramework"/>
+        <path location="C:\UTF\UTF\UnifiedTestFramework\Libraries\Common"/>
+        <path location="C:\UTF\UTF\UnifiedTestFramework\Libraries\UFT"/>
+        <path location="C:\UTF\UTF\UnifiedTestFramework\Libraries\UFT\ProductSpecific"/>
+    </pythonpath>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+    <isReferencedLibrariesAutoReloadEnabled>true</isReferencedLibrariesAutoReloadEnabled>
+    <isReferencedLibrariesAutoDiscoveringEnabled>true</isReferencedLibrariesAutoDiscoveringEnabled>
+    <isLibrariesAutoDiscoveringSummaryWindowEnabled>false</isLibrariesAutoDiscoveringSummaryWindowEnabled>
+</projectConfiguration>

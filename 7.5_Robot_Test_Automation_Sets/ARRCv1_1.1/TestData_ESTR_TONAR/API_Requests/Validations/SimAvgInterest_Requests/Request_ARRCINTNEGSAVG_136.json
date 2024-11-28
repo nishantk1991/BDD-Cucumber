@@ -1,0 +1,19 @@
+{ 
+   "initialPrincipalBalance":10000000,
+   "interestPeriodStartDate":"2020-01-01",
+   "interestPeriodEndDate":"2020-01-28",
+    "spread":0.523,
+   "spreadAdjustment":0.1,
+   "riskFreeRateFloor":"0.012",
+   "observationPeriodShift":"true",
+   "ccrRoundingApplies":"true",
+   "ccrRoundingPrecision":14,
+   "lookBackDays":0,
+   "legacyRiskFreeRateFloor":"2.3",
+   "lockoutDays":0,
+   "riskFreeRate":"ESTR",
+   "rateRoundingDecimalPoints":2,
+   "dayCountConvention":"ACT/360",
+   "showDailyDetails":"true"
+}
+  

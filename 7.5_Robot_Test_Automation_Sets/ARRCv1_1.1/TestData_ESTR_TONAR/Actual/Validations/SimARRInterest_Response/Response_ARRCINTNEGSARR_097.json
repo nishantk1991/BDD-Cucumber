@@ -1,0 +1,5 @@
+{
+  "title": "CAP_ALLINRATE_OUT_RANGE",
+  "message": "allInRateCap must not be greater than 100% or less than -100%",
+  "status": 400
+}

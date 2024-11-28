@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "PRINC_CHANGE_AFTER_END",
+    "exceptionMessage": "Principal amount change date cannot be after interestPeriodEndDate",
+    "status": "400"
+  }
+}

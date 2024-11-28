@@ -1,0 +1,11 @@
+{ 
+   "initialPrincipalBalance":10000000.00,
+   "interestPeriodStartDate":"2018-12-31",
+   "interestPeriodEndDate":"2019-01-11",
+   "lookBackDays":9,
+   "lockoutDays":3,
+   "spread":0.070,
+   "spreadAdjustment":0.43867,
+   "riskFreeRate":"SONIA",
+   "principalAmountChanges":[{"date":"2019-01-11","principalAmountChange":-88000}]
+}

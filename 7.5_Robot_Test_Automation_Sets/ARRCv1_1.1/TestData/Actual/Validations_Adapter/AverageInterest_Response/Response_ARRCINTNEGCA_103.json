@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "NUMERIC_OUT_RANGE_CAP_ALLINRATE",
+    "exceptionMessage": "allInRateCap must not be more than 6 decimal points",
+    "status": "400"
+  }
+}

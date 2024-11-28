@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/simple-average/rates?spreadAdjustment=-0.00001&legacyRiskFreeRateFloor=0&riskFreeRate=SOFR&interestPeriodStartDate=2020-04-10&interestPeriodEndDate=2020-05-25&calculateTillDate=2020-05-15&observationPeriodShift=true&showDailyDetails=true&lookBackDays=2&dayCountConvention=ACT/360&ccrRoundingPrecision=5&ccrRoundingApplies=true

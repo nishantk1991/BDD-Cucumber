@@ -1,0 +1,21 @@
+{
+    "id": "31e6674c651b785191acfe5",
+    "branch": "00002",
+    "legalName": "LegalName-65792699",
+    "shortName": "SHORTNAME-65792699",
+    "externalId": "54003726",
+    "restricted": true,
+    "specialLoan": false,
+    "majorUnderwriter": false,
+    "treasuryReportingAreaCode": "US",
+    "customerStatus": "SKELETAL",
+    "legalAddress": {
+        "addressLine1": "Address Line 1",
+        "addressLine2": "Address Line 2",
+        "city": "Test City",
+        "zipCode": "123456",
+        "countryCode": "CA",
+        "province": "ALB",
+        "county": "ALB"
+    }
+}

@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/daily-compounding/rates?interestPeriodStartDate=2021-04-01&interestPeriodEndDate=2026-01-09&riskFreeRate=ESTR&calculateTillDate=2021-10-23&spreadAdjustment=0.02345&legacyRiskFreeRateFloor=0.05456&lookBackDays=96&lockoutDays=1&showDailyDetails=true&floorCompoundedRate=true&rateRoundingDecimalPoints=7&dayCountConvention=ACT/365

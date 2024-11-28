@@ -1,0 +1,436 @@
+{
+    "comment": " Computed time : 2021-04-19T06:26:56+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2021-04-16T09:35:53+00:00",
+    "legalDisclaimer": "The TONAR benchmark is used subject to the terms of the UK Open Government License v.3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) and the Bank of England’s disclaimer for TONAR (set out below)*. The “TONAR” mark is used with the consent of the Bank of England (the benchmark administrator of TONAR), and the use of such mark does not imply or express any approval or endorsement by the Bank of England. “Bank of England” and “TONAR” are registered trade marks of the Bank of England. The Bank of England has no liability for your use of the calculator service herein.\n*Bank of England’s disclaimer for TONAR: TONAR is copyright the Bank of England. The trade marks “Bank of England” and “TONAR” are registered trade marks of the Bank of England. All Rights Reserved. The TONAR benchmark includes the proprietary information of the Bank of England and the data comprising the benchmark may not be copied or distributed except as specifically authorised. The TONAR benchmark is not intended to be relied upon as authoritative or taken in substitution for the exercise of judgement. The TONAR benchmark is not, and should not be construed as, an offer, bid or solicitation in relation to any financial instrument. The Bank of England does not guarantee, and expressly disclaims any liability for, and makes no representations or warranties whether express or implied, as to the currency, accuracy, timeliness, completeness or fitness for any particular purpose of the TONAR benchmark. The Bank of England accepts no liability whatsoever for any loss (including, but not limited to any direct, indirect or consequential loss, whether or not such loss is foreseeable and whether or not the Bank of England has been appraised of the use to which the TONAR benchmark will be put) howsoever arising from the use, the timeliness of delivery or the failure of delivery of the TONAR benchmark.",
+    "requestParameters": {
+        "interestPeriodStartDate": "2020-08-31",
+        "interestPeriodEndDate": "2020-11-21",
+        "riskFreeRate": "TONAR",
+        "lockoutDays": "0",
+        "dayCountConvention": "ACT/360",
+        "showDailyDetails": "true",
+        "calculateTillDate": "2020-09-01"
+    },
+    "dailyRateSummary": [
+        {
+            "interestPeriodDate": "2020-11-20",
+            "interestPeriodDays": 2,
+            "publishedRiskFreeRate": 0.0543,
+            "rateApplied": 0.0543,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-19",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0536,
+            "rateApplied": 0.0536,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-18",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0538,
+            "rateApplied": 0.0538,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-17",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0533,
+            "rateApplied": 0.0533,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-16",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0539,
+            "rateApplied": 0.0539,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-13",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 0.0536,
+            "rateApplied": 0.0536,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-12",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0542,
+            "rateApplied": 0.0542,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-11",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0535,
+            "rateApplied": 0.0535,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-10",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0533,
+            "rateApplied": 0.0533,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-09",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0532,
+            "rateApplied": 0.0532,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-06",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 0.0534,
+            "rateApplied": 0.0534,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-05",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0533,
+            "rateApplied": 0.0533,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-04",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0537,
+            "rateApplied": 0.0537,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-03",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0533,
+            "rateApplied": 0.0533,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-11-02",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0539,
+            "rateApplied": 0.0539,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-30",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 0.0547,
+            "rateApplied": 0.0547,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-29",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0543,
+            "rateApplied": 0.0543,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-28",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.054,
+            "rateApplied": 0.0540,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-27",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0542,
+            "rateApplied": 0.0542,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-26",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0541,
+            "rateApplied": 0.0541,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-23",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 0.0538,
+            "rateApplied": 0.0538,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-22",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0543,
+            "rateApplied": 0.0543,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-21",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0536,
+            "rateApplied": 0.0536,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-20",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0533,
+            "rateApplied": 0.0533,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-19",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0535,
+            "rateApplied": 0.0535,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-16",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 0.0533,
+            "rateApplied": 0.0533,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-15",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0534,
+            "rateApplied": 0.0534,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-14",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0538,
+            "rateApplied": 0.0538,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-13",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0531,
+            "rateApplied": 0.0531,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-12",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0542,
+            "rateApplied": 0.0542,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-09",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 0.0538,
+            "rateApplied": 0.0538,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-08",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0539,
+            "rateApplied": 0.0539,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-07",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.054,
+            "rateApplied": 0.0540,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-06",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0537,
+            "rateApplied": 0.0537,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-05",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0539,
+            "rateApplied": 0.0539,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-02",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 0.0539,
+            "rateApplied": 0.0539,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-10-01",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0538,
+            "rateApplied": 0.0538,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-30",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0509,
+            "rateApplied": 0.0509,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-29",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0533,
+            "rateApplied": 0.0533,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-28",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0541,
+            "rateApplied": 0.0541,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-25",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 0.0541,
+            "rateApplied": 0.0541,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-24",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0539,
+            "rateApplied": 0.0539,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-23",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0539,
+            "rateApplied": 0.0539,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-22",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0541,
+            "rateApplied": 0.0541,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-21",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0538,
+            "rateApplied": 0.0538,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-18",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 0.054,
+            "rateApplied": 0.0540,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-17",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0546,
+            "rateApplied": 0.0546,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-16",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0558,
+            "rateApplied": 0.0558,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-15",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0556,
+            "rateApplied": 0.0556,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-14",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0557,
+            "rateApplied": 0.0557,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-11",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 0.0569,
+            "rateApplied": 0.0569,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-10",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0552,
+            "rateApplied": 0.0552,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-09",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.055,
+            "rateApplied": 0.0550,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-08",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0557,
+            "rateApplied": 0.0557,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-07",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0556,
+            "rateApplied": 0.0556,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-04",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 0.056,
+            "rateApplied": 0.0560,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-03",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0561,
+            "rateApplied": 0.0561,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-02",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0547,
+            "rateApplied": 0.0547,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-09-01",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0552,
+            "rateApplied": 0.0552,
+            "riskFreeRateFloorApplied": false
+        },
+        {
+            "interestPeriodDate": "2020-08-31",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0545,
+            "rateApplied": 0.0545,
+            "riskFreeRateFloorApplied": false
+        }
+    ]
+}

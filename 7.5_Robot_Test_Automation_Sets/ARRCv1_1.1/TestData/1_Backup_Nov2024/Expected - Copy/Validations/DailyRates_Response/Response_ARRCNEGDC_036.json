@@ -1,0 +1,5 @@
+{
+    "title": "STDT_GT_THAN_ENDDT",
+    "message": "interestPeriodStartDate cannot be greater than interestPeriodEndDate date",
+    "status": 400
+}

@@ -1,0 +1,12 @@
+{
+  "requestParameters": null,
+  "dailyRateSummary": null,
+  "lastUpdatedFromSource": null,
+  "comment": null,
+  "legalDisclaimer": null,
+  "exception": {
+    "title": "FLOOR_RATE_OUT_RANGE",
+    "exceptionMessage": "riskFreeRateFloor must not be greater than 100% or less than -100%",
+    "status": "400"
+  }
+}

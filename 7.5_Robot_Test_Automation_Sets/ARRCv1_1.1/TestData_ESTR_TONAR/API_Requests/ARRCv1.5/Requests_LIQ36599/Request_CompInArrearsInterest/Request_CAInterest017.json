@@ -1,0 +1,19 @@
+{ 
+   "initialPrincipalBalance":10000000.0,
+   "interestPeriodStartDate":"2020-05-01",
+   "interestPeriodEndDate":"2020-05-30",
+   "calculateTillDate": "2020-05-22",
+   "riskFreeRate":"TONAR",
+   "lookBackDays": "1",
+   "lockoutDays": "5",
+   "riskFreeRateFloor":0.01,
+   "legacyRiskFreeRateFloor":-0.3456,
+   "spreadAdjustment":-2.345,
+   "spread":-0.11345,
+   "allInRateFloor":-0.15,
+   "allInRateCap":1.123,
+   "showDailyDetails":"true",
+   "rateRoundingDecimalPoints":7,
+   "principalAmountChanges":[{"date":"2020-05-18","principalAmountChange":-100000},{"date":"2020-05-21","principalAmountChange":100000},{"date":"2020-05-22","principalAmountChange":-100000},{"date":"2020-05-24","principalAmountChange":-100000}]
+
+}

@@ -1,0 +1,307 @@
+{
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2020-05-19. Computed time : 2022-02-16T05:10:11+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-18T00:00:00+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "interestCalculatorCriteria": {
+    "initialPrincipalBalance": 10000000,
+    "interestPeriodStartDate": "2020-04-27",
+    "interestPeriodEndDate": "2020-05-30",
+    "riskFreeRate": "SOFR",
+    "lookBackDays": 4,
+    "lockoutDays": 8,
+    "observationPeriodShift": false,
+    "spread": 100,
+    "spreadAdjustment": 100,
+    "rateRoundingDecimalPoints": 9,
+    "principalAmountChanges": [
+      {
+        "date": "2020-05-05",
+        "principalAmountChange": -10000000
+      },
+      {
+        "date": "2020-05-30",
+        "principalAmountChange": 489000
+      }
+    ],
+    "showDailyDetails": true,
+    "calculateTillDate": "2020-05-19"
+  },
+  "currencyCode": "USD",
+  "interestSummary": [
+    {
+      "interestPeriodDate": "2020-05-30",
+      "interestPeriodDays": 34,
+      "principalBalance": 489000.0,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.045883276,
+      "allInRate": 200.045883276,
+      "cummulativeInterestAmount": 447263.7
+    },
+    {
+      "interestPeriodDate": "2020-05-29",
+      "interestPeriodDays": 33,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.045883276,
+      "allInRate": 200.045883276,
+      "cummulativeInterestAmount": 444546.41
+    },
+    {
+      "interestPeriodDate": "2020-05-28",
+      "interestPeriodDays": 32,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.04500083,
+      "allInRate": 200.04500083,
+      "cummulativeInterestAmount": 444544.45
+    },
+    {
+      "interestPeriodDate": "2020-05-27",
+      "interestPeriodDays": 31,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.044516912,
+      "allInRate": 200.044516912,
+      "cummulativeInterestAmount": 444543.37
+    },
+    {
+      "interestPeriodDate": "2020-05-26",
+      "interestPeriodDays": 30,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.044000736,
+      "allInRate": 200.044000736,
+      "cummulativeInterestAmount": 444542.22
+    },
+    {
+      "interestPeriodDate": "2020-05-22",
+      "interestPeriodDays": 29,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.043448964,
+      "allInRate": 200.043448964,
+      "cummulativeInterestAmount": 444541.0
+    },
+    {
+      "interestPeriodDate": "2020-05-21",
+      "interestPeriodDays": 25,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.040800527,
+      "allInRate": 200.040800527,
+      "cummulativeInterestAmount": 444535.11
+    },
+    {
+      "interestPeriodDate": "2020-05-20",
+      "interestPeriodDays": 24,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.040000482,
+      "allInRate": 200.040000482,
+      "cummulativeInterestAmount": 444533.33
+    },
+    {
+      "interestPeriodDate": "2020-05-19",
+      "interestPeriodDays": 23,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.039130872,
+      "allInRate": 200.039130872,
+      "cummulativeInterestAmount": 444531.4
+    },
+    {
+      "interestPeriodDate": "2020-05-18",
+      "interestPeriodDays": 22,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.038182212,
+      "allInRate": 200.038182212,
+      "cummulativeInterestAmount": 444529.29
+    },
+    {
+      "interestPeriodDate": "2020-05-15",
+      "interestPeriodDays": 21,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.037143208,
+      "allInRate": 200.037143208,
+      "cummulativeInterestAmount": 444526.98
+    },
+    {
+      "interestPeriodDate": "2020-05-14",
+      "interestPeriodDays": 18,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.033333576,
+      "allInRate": 200.033333576,
+      "cummulativeInterestAmount": 444518.52
+    },
+    {
+      "interestPeriodDate": "2020-05-13",
+      "interestPeriodDays": 17,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.03176491,
+      "allInRate": 200.03176491,
+      "cummulativeInterestAmount": 444515.03
+    },
+    {
+      "interestPeriodDate": "2020-05-12",
+      "interestPeriodDays": 16,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.030625174,
+      "allInRate": 200.030625174,
+      "cummulativeInterestAmount": 444512.5
+    },
+    {
+      "interestPeriodDate": "2020-05-11",
+      "interestPeriodDays": 15,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.029333478,
+      "allInRate": 200.029333478,
+      "cummulativeInterestAmount": 444509.63
+    },
+    {
+      "interestPeriodDate": "2020-05-08",
+      "interestPeriodDays": 14,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.02785726,
+      "allInRate": 200.02785726,
+      "cummulativeInterestAmount": 444506.35
+    },
+    {
+      "interestPeriodDate": "2020-05-07",
+      "interestPeriodDays": 11,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.03,
+      "rateApplied": 0.03,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.021818239,
+      "allInRate": 200.021818239,
+      "cummulativeInterestAmount": 444492.93
+    },
+    {
+      "interestPeriodDate": "2020-05-06",
+      "interestPeriodDays": 10,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.021000046,
+      "allInRate": 200.021000046,
+      "cummulativeInterestAmount": 444491.11
+    },
+    {
+      "interestPeriodDate": "2020-05-05",
+      "interestPeriodDays": 9,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.018888919,
+      "allInRate": 200.018888919,
+      "cummulativeInterestAmount": 444486.42
+    },
+    {
+      "interestPeriodDate": "2020-05-04",
+      "interestPeriodDays": 8,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.020000028,
+      "allInRate": 200.020000028,
+      "cummulativeInterestAmount": 444488.89
+    },
+    {
+      "interestPeriodDate": "2020-05-01",
+      "interestPeriodDays": 7,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 0.03,
+      "rateApplied": 0.03,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.021428598,
+      "allInRate": 200.021428598,
+      "cummulativeInterestAmount": 388930.56
+    },
+    {
+      "interestPeriodDate": "2020-04-30",
+      "interestPeriodDays": 4,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 0.03,
+      "rateApplied": 0.03,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.015000008,
+      "allInRate": 200.015000008,
+      "cummulativeInterestAmount": 222238.89
+    },
+    {
+      "interestPeriodDate": "2020-04-29",
+      "interestPeriodDays": 3,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.010000003,
+      "allInRate": 200.010000003,
+      "cummulativeInterestAmount": 166675.0
+    },
+    {
+      "interestPeriodDate": "2020-04-28",
+      "interestPeriodDays": 2,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.010000001,
+      "allInRate": 200.010000001,
+      "cummulativeInterestAmount": 111116.67
+    },
+    {
+      "interestPeriodDate": "2020-04-27",
+      "interestPeriodDays": 1,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.01,
+      "allInRate": 200.01,
+      "cummulativeInterestAmount": 55558.33
+    }
+  ]
+}

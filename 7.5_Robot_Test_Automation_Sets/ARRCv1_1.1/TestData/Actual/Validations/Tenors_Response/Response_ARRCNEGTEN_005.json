@@ -1,0 +1,20 @@
+{
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2024-11-14. The most recent published SOFR Averages are available as-of: 2024-11-15. Computed time : 2024-11-15T13:57:44+00:00. Computed time is the time stamp when the calculation was completed.  Note : SOFR rate was not published on or for April 7th, 2023 (Friday) by New York Fed, even though April 7th was a business day as per SIFMA (Securities Industry and Financial Markets Association). Given that there was no SOFR rate available for April 7th, 2023 Finastra had added April 7th as a SOFR publishing holiday in the ARR Calculator. However, based on subsequent feedback from our client base, ARR Working Group, and conversations with LSTA/LMA, Finastra has decided to keep April 7th 2023 as a business day, with the SOFR rate used for 7th April, 2023 to be the same value of the rate for preceding business day, Thursday, April 6th, 2023 (which was published on Monday, April 10th, 2023). This change will ensure lookback dates are aligned with the market expectation.Note that choosing this approach has a impact on the compounding calculations - For a given interest period that includes 7th Apr, Cumulative Compounded Rate Calculations done on the ARR Calculator (Calculation Method: Average Compounded in Arrears) will not match with published SOFR Averages or Cumulative Compounded Rate calculated based on published SOFR Index.This change is effective from Monday, June 12th, 2023 and impacts all the rate calculation methods only for SOFR rate. Other RFR rates are not impacted.Please be advised that if you have used ARR Calculator for rate/interest calculations for SOFR Loans whose interest/lookback/observation period includes 7 April 2023, you may want to relook at the rate/interest calculations if this change impacts those loans.",
+  "lastUpdatedFromSource": "2024-11-14T13:40:07+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "requestParameters": {
+    "valueDate": "2024-04-25",
+    "riskFreeRate": "SOFR",
+    "rateRoundingDecimalPoints": 12,
+    "tenor": "360D"
+  },
+  "calculatedCompoundedInArrearsRatesForTenors": [
+    {
+      "tenor": "360D",
+      "interestPeriodStartDate": "2023-05-01",
+      "interestPeriodEndDate": "2024-04-24",
+      "averageCompoundedRate": 5.389765849416,
+      "publishedRate": false
+    }
+  ]
+}

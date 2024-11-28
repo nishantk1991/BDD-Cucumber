@@ -1,0 +1,24 @@
+{
+    "comment": " Computed time : 2021-04-16T13:35:30+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2021-04-16T13:05:21+00:00",
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "requestParameters": {
+        "interestPeriodStartDate": "2020-04-05",
+        "interestPeriodEndDate": "2020-04-20",
+        "riskFreeRate": "SOFR",
+        "lookBackDays": "0",
+        "lockoutDays": "0",
+        "dayCountConvention": "ACT/360",
+        "showDailyDetails": "false",
+        "calculateTillDate": "2020-04-11"
+    },
+    "dailyRateSummary": [
+        {
+            "interestPeriodDate": "2020-04-20",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.02,
+            "rateApplied": 0.02,
+            "riskFreeRateFloorApplied": false
+        }
+    ]
+}

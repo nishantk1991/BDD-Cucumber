@@ -1,0 +1,12 @@
+{
+  "requestParameters": null,
+  "dailyRateSummary": null,
+  "lastUpdatedFromSource": null,
+  "comment": null,
+  "legalDisclaimer": null,
+  "exception": {
+    "title": null,
+    "exceptionMessage": "Missing the required parameter 'calculateTillDate'.",
+    "status": "400"
+  }
+}

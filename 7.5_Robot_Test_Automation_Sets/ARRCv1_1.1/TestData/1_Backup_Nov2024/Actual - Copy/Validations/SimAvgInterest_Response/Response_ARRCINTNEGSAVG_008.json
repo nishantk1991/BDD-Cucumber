@@ -1,0 +1,5 @@
+{
+  "title": "ENDDT_NULL",
+  "message": "interestPeriodEndDate is required",
+  "status": 400
+}

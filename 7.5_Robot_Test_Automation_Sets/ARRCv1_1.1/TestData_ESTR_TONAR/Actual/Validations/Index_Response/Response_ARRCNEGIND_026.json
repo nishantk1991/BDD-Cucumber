@@ -1,0 +1,5 @@
+{
+  "title": "NO_INDEX_REPO_FOR_END",
+  "message": "Index is not available for the riskFreeRate provided",
+  "status": 400
+}

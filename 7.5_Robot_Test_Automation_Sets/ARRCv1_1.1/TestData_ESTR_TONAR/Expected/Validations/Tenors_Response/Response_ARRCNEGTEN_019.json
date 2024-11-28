@@ -1,0 +1,20 @@
+{
+    "comment": " Computed time : 2021-04-09T09:26:45+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2021-04-08T13:39:41+00:00",
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "requestParameters": {
+        "valueDate": "2020-04-12",
+        "riskFreeRate": "ESTR",
+        "rateRoundingDecimalPoints": "5",
+        "tenor": "30D"
+    },
+    "calculatedCompoundedInArrearsRatesForTenors": [
+        {
+            "tenor": "30D",
+            "interestPeriodStartDate": "2020-03-13",
+            "interestPeriodEndDate": "2020-04-11",
+            "averageCompoundedRate": 0.15300,
+            "publishedRate": false
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "comment": " Computed time : 2021-05-19T08:54:15+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2021-05-18T13:39:41+00:00",
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "requestParameters": {
+        "interestPeriodStartDate": "2019-11-15",
+        "interestPeriodEndDate": "2019-11-29",
+        "riskFreeRate": "SOFR",
+        "lookBackDays": 1,
+        "lockoutDays": 0,
+        "observationPeriodShift": true,
+        "dayCountConvention": "ACT/ACT",
+        "rateRoundingDecimalPoints": 6,
+        "showDailyDetails": true
+    },
+    "dailyRateSummary": [
+        {
+            "interestPeriodDate": "2019-11-29",
+            "interestPeriodDays": 1,
+            "observationPeriodDate": "2019-11-27",
+            "observationPeriodDays": 2,
+            "publishedRiskFreeRate": 1.55,
+            "rateApplied": 1.55,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 0.984998530917,
+            "dailyCompoundedRate": 1.526748
+        },
+        {
+            "interestPeriodDate": "2019-11-27",
+            "interestPeriodDays": 2,
+            "observationPeriodDate": "2019-11-26",
+            "observationPeriodDays": 1,
+            "publishedRiskFreeRate": 1.54,
+            "rateApplied": 1.54,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.011620163269,
+            "dailyCompoundedRate": 1.557895
+        },
+        {
+            "interestPeriodDate": "2019-11-26",
+            "interestPeriodDays": 1,
+            "observationPeriodDate": "2019-11-25",
+            "observationPeriodDays": 1,
+            "publishedRiskFreeRate": 1.56,
+            "rateApplied": 1.56,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000475982047,
+            "dailyCompoundedRate": 1.560743
+        },
+        {
+            "interestPeriodDate": "2019-11-25",
+            "interestPeriodDays": 1,
+            "observationPeriodDate": "2019-11-22",
+            "observationPeriodDays": 3,
+            "publishedRiskFreeRate": 1.58,
+            "rateApplied": 1.58,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.002350827641,
+            "dailyCompoundedRate": 1.583714
+        },
+        {
+            "interestPeriodDate": "2019-11-22",
+            "interestPeriodDays": 3,
+            "observationPeriodDate": "2019-11-21",
+            "observationPeriodDays": 1,
+            "publishedRiskFreeRate": 1.58,
+            "rateApplied": 1.58,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 0.999663389316,
+            "dailyCompoundedRate": 1.579468
+        },
+        {
+            "interestPeriodDate": "2019-11-21",
+            "interestPeriodDays": 1,
+            "observationPeriodDate": "2019-11-20",
+            "observationPeriodDays": 1,
+            "publishedRiskFreeRate": 1.57,
+            "rateApplied": 1.57,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000259748442,
+            "dailyCompoundedRate": 1.570408
+        },
+        {
+            "interestPeriodDate": "2019-11-20",
+            "interestPeriodDays": 1,
+            "observationPeriodDate": "2019-11-19",
+            "observationPeriodDays": 1,
+            "publishedRiskFreeRate": 1.57,
+            "rateApplied": 1.57,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000216725422,
+            "dailyCompoundedRate": 1.570340
+        },
+        {
+            "interestPeriodDate": "2019-11-19",
+            "interestPeriodDays": 1,
+            "observationPeriodDate": "2019-11-18",
+            "observationPeriodDays": 1,
+            "publishedRiskFreeRate": 1.56,
+            "rateApplied": 1.56,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000173978260,
+            "dailyCompoundedRate": 1.560271
+        },
+        {
+            "interestPeriodDate": "2019-11-18",
+            "interestPeriodDays": 1,
+            "observationPeriodDate": "2019-11-15",
+            "observationPeriodDays": 3,
+            "publishedRiskFreeRate": 1.59,
+            "rateApplied": 1.59,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.012708479366,
+            "dailyCompoundedRate": 1.610206
+        },
+        {
+            "interestPeriodDate": "2019-11-15",
+            "interestPeriodDays": 3,
+            "observationPeriodDate": "2019-11-14",
+            "observationPeriodDays": 1,
+            "publishedRiskFreeRate": 1.58,
+            "rateApplied": 1.58,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000000000000,
+            "dailyCompoundedRate": 1.580000
+        }
+    ]
+}

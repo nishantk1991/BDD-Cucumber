@@ -1,0 +1,12 @@
+{
+  "requestParameters": null,
+  "dailyRateSummary": null,
+  "lastUpdatedFromSource": null,
+  "comment": null,
+  "legalDisclaimer": null,
+  "exception": {
+    "title": "CTDT_GT_THAN_ENDDT",
+    "exceptionMessage": "calculateTillDate cannot be greater than interestPeriodEndDate date",
+    "status": "400"
+  }
+}

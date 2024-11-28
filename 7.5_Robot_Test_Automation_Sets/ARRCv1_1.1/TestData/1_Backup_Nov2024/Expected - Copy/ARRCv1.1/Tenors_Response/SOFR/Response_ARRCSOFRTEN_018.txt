@@ -1,0 +1,20 @@
+{
+    "comment": "  Computed time : 2020-05-28T06:25:04Z",
+    "lastUpdatedFromSource": " Last updated repository time is 2020-05-27T07:50:48.691Z",
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "requestParameters": {
+        "valueDate": "2020-04-13",
+        "riskFreeRate": "SOFR",
+        "rateRoundingDecimalPoints": 11,
+        "tenor": "90D"
+    },
+    "calculatedCompoundedInArrearsRatesForTenors": [
+        {
+            "tenor": "90D",
+            "interestPeriodStartDate": "2020-01-14",
+            "interestPeriodEndDate": "2020-04-12",
+            "averageCompoundedRate": 1.03930000000,
+            "publishedRate": true
+        }
+    ]
+}

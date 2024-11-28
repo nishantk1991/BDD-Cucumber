@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/daily-compounding/rates?interestPeriodStartDate=2020-02-02&interestPeriodEndDate=2020-02-29&riskFreeRate=SONIA&lookBackDays=5&rateRoundingDecimalPoints=10&observationPeriodShift=false&lockoutDays=7&showDailyDetails=true&dayCountConvention=ACT/365

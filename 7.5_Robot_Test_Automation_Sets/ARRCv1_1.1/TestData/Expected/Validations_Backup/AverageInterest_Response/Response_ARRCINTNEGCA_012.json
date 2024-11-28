@@ -1,0 +1,6 @@
+{
+	
+	"status": 400,
+	"title": "REPO_DATA_UNAVAILABLE",
+	"message": "Rate is not available for the given interest period date range. SOFR rate is not available for 2021-08-18."
+}

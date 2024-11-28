@@ -1,0 +1,18 @@
+{ 
+   "initialPrincipalBalance":10000000.0,
+   "interestPeriodStartDate":"2020-02-03",
+   "interestPeriodEndDate":"2020-02-29",
+   "calculateTillDate": "2020-02-25",
+   "riskFreeRate":"SOFR",
+   "lookBackDays": "2",
+   "lockoutDays": "10",
+   "legacyRiskFreeRateFloor":1.58674,
+   "spread":-1,
+   "allInRateFloor":-0.0245,
+   "allInRateCap":"0.03124",
+    "showDailyDetails":"true",
+   "dayCountConvention":"ACT/365",
+   "rateRoundingDecimalPoints":5,
+   "principalAmountChanges":[{"date":"2020-02-28","principalAmountChange":-9999.43},{"date":"2020-02-29","principalAmountChange":56899.23}]
+
+}

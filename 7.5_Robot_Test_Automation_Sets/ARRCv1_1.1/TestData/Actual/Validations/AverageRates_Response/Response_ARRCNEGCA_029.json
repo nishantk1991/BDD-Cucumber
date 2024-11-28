@@ -1,0 +1,12 @@
+{
+  "requestParameters": null,
+  "dailyRateSummary": null,
+  "lastUpdatedFromSource": null,
+  "comment": null,
+  "legalDisclaimer": null,
+  "exception": {
+    "title": "INVALID_OBS_SHIFT",
+    "exceptionMessage": "observationPeriodShift with lockOutdays having non zero values is not supported",
+    "status": "400"
+  }
+}

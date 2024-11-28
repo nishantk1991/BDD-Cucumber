@@ -1,0 +1,260 @@
+{
+  "requestParameters": {
+    "interestPeriodStartDate": "2020-01-01",
+    "interestPeriodEndDate": "2020-02-02",
+    "riskFreeRate": "SOFR",
+    "lookBackDays": "0",
+    "observationPeriodShift": "true",
+    "dayCountConvention": "ACT/360",
+    "rateRoundingDecimalPoints": "5",
+    "showDailyDetails": "true",
+    "calculateTillDate": "2020-02-02"
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2020-01-31",
+      "interestPeriodDays": "3",
+      "observationPeriodDate": "2020-01-31",
+      "observationPeriodDays": "3",
+      "publishedRiskFreeRate": "1.6",
+      "rateApplied": "1.6",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.001287995843",
+      "dailyCompoundedRate": "1.60206"
+    },
+    {
+      "interestPeriodDate": "2020-01-30",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-30",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.58",
+      "rateApplied": "1.58",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.001244052354",
+      "dailyCompoundedRate": "1.58197"
+    },
+    {
+      "interestPeriodDate": "2020-01-29",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-29",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.53",
+      "rateApplied": "1.53",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.001201501291",
+      "dailyCompoundedRate": "1.53184"
+    },
+    {
+      "interestPeriodDate": "2020-01-28",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-28",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.53",
+      "rateApplied": "1.53",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.001158952035",
+      "dailyCompoundedRate": "1.53177"
+    },
+    {
+      "interestPeriodDate": "2020-01-27",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-27",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.53",
+      "rateApplied": "1.53",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.001116404588",
+      "dailyCompoundedRate": "1.53171"
+    },
+    {
+      "interestPeriodDate": "2020-01-24",
+      "interestPeriodDays": "3",
+      "observationPeriodDate": "2020-01-24",
+      "observationPeriodDays": "3",
+      "publishedRiskFreeRate": "1.53",
+      "rateApplied": "1.53",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000988778519",
+      "dailyCompoundedRate": "1.53151"
+    },
+    {
+      "interestPeriodDate": "2020-01-23",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-23",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.54",
+      "rateApplied": "1.54",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000945960275",
+      "dailyCompoundedRate": "1.54146"
+    },
+    {
+      "interestPeriodDate": "2020-01-22",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-22",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.54",
+      "rateApplied": "1.54",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000903143863",
+      "dailyCompoundedRate": "1.54139"
+    },
+    {
+      "interestPeriodDate": "2020-01-21",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-21",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.54",
+      "rateApplied": "1.54",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000860329282",
+      "dailyCompoundedRate": "1.54132"
+    },
+    {
+      "interestPeriodDate": "2020-01-17",
+      "interestPeriodDays": "4",
+      "observationPeriodDate": "2020-01-17",
+      "observationPeriodDays": "4",
+      "publishedRiskFreeRate": "1.54",
+      "rateApplied": "1.54",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000689100258",
+      "dailyCompoundedRate": "1.54106"
+    },
+    {
+      "interestPeriodDate": "2020-01-16",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-16",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.55",
+      "rateApplied": "1.55",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000646016888",
+      "dailyCompoundedRate": "1.55100"
+    },
+    {
+      "interestPeriodDate": "2020-01-15",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-15",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.56",
+      "rateApplied": "1.56",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000602657439",
+      "dailyCompoundedRate": "1.56094"
+    },
+    {
+      "interestPeriodDate": "2020-01-14",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-14",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.55",
+      "rateApplied": "1.55",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000559577791",
+      "dailyCompoundedRate": "1.55087"
+    },
+    {
+      "interestPeriodDate": "2020-01-13",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-13",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.54",
+      "rateApplied": "1.54",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000516777907",
+      "dailyCompoundedRate": "1.54080"
+    },
+    {
+      "interestPeriodDate": "2020-01-10",
+      "interestPeriodDays": "3",
+      "observationPeriodDate": "2020-01-10",
+      "observationPeriodDays": "3",
+      "publishedRiskFreeRate": "1.55",
+      "rateApplied": "1.55",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000387561180",
+      "dailyCompoundedRate": "1.55060"
+    },
+    {
+      "interestPeriodDate": "2020-01-09",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-09",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.55",
+      "rateApplied": "1.55",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000344490792",
+      "dailyCompoundedRate": "1.55053"
+    },
+    {
+      "interestPeriodDate": "2020-01-08",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-08",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.55",
+      "rateApplied": "1.55",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000301422259",
+      "dailyCompoundedRate": "1.55047"
+    },
+    {
+      "interestPeriodDate": "2020-01-07",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-07",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.56",
+      "rateApplied": "1.56",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000258077742",
+      "dailyCompoundedRate": "1.56040"
+    },
+    {
+      "interestPeriodDate": "2020-01-06",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-06",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.55",
+      "rateApplied": "1.55",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000215012929",
+      "dailyCompoundedRate": "1.55033"
+    },
+    {
+      "interestPeriodDate": "2020-01-03",
+      "interestPeriodDays": "3",
+      "observationPeriodDate": "2020-01-03",
+      "observationPeriodDays": "3",
+      "publishedRiskFreeRate": "1.55",
+      "rateApplied": "1.55",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000085835175",
+      "dailyCompoundedRate": "1.55013"
+    },
+    {
+      "interestPeriodDate": "2020-01-02",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2020-01-02",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.54",
+      "rateApplied": "1.54",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000043055556",
+      "dailyCompoundedRate": "1.54007"
+    },
+    {
+      "interestPeriodDate": "2020-01-01",
+      "interestPeriodDays": "1",
+      "observationPeriodDate": "2019-12-31",
+      "observationPeriodDays": "1",
+      "publishedRiskFreeRate": "1.55",
+      "rateApplied": "1.55",
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": "1.000000000000",
+      "dailyCompoundedRate": "1.55000"
+    }
+  ],
+  "lastUpdatedFromSource": "2024-11-21T13:25:07+00:00",
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2024-11-20. Computed time : 2024-11-22T05:44:26+00:00. Computed time is the time stamp when the calculation was completed.  Note  : SOFR rate was not published on or for April 7th, 2023 (Friday) by New York Fed, even though April 7th was a business day as per SIFMA (Securities Industry and Financial Markets Association). Given that there was no SOFR rate available for April 7th, 2023 Finastra had added April 7th as a SOFR publishing holiday in the ARR Calculator. However, based on subsequent feedback from our client base, ARR Working Group, and conversations with LSTA/LMA, Finastra has decided to keep April 7th 2023 as a business day, with the SOFR rate used for 7th April, 2023 to be the same value of the rate for preceding business day, Thursday, April 6th, 2023 (which was published on Monday, April 10th, 2023). This change will ensure lookback dates are aligned with the market expectation.Note that choosing this approach has a impact on the compounding calculations - For a given interest period that includes 7th Apr, Cumulative Compounded Rate Calculations done on the ARR Calculator (Calculation Method: Average Compounded in Arrears) will not match with published SOFR Averages or Cumulative Compounded Rate calculated based on published SOFR Index.This change is effective from Monday, June 12th, 2023 and impacts all the rate calculation methods only for SOFR rate. Other RFR rates are not impacted.Please be advised that if you have used ARR Calculator for rate/interest calculations for SOFR Loans whose interest/lookback/observation period includes 7 April 2023, you may want to relook at the rate/interest calculations if this change impacts those loans.",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use"
+}

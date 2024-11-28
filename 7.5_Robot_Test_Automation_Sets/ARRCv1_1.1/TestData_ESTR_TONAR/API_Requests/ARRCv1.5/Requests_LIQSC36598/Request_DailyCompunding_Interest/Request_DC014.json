@@ -1,0 +1,15 @@
+{ 
+   "initialPrincipalBalance":1000000000.0,
+   "interestPeriodStartDate":"2020-02-29",
+   "interestPeriodEndDate":"2020-05-24",
+   "calculateTillDate": "2020-05-23",
+   "riskFreeRate":"ESTR",
+   "lookBackDays": "0",
+   "lockoutDays": "4",
+   "spread":2.345,
+   "dayCountConvention":"ACT/360",
+   "showDailyDetails":"true",
+   "rateRoundingDecimalPoints":10,
+    "ccrRoundingApplies":"true",
+   "ccrRoundingPrecision":6
+}

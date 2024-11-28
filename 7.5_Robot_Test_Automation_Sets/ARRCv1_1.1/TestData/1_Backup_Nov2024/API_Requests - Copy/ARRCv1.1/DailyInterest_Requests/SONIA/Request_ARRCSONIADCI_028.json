@@ -1,0 +1,16 @@
+{ 
+   "initialPrincipalBalance":10000000.00,
+   "interestPeriodStartDate":"2019-05-31",
+   "interestPeriodEndDate":"2020-01-02",
+   "observationPeriodShift":"true",
+   "lookBackDays":8,
+   "lockoutDays":0,
+   "paymentRounding":"DOWN",
+   "rateRoundingDecimalPoints":9,
+   "spread":0.345466,
+   "spreadAdjustment":0.16,
+   "riskFreeRate":"SONIA",
+   "showDailyDetails":"true",
+   "dayCountConvention":"ACT/365",
+   "principalAmountChanges":[{"date":"2019-12-24","principalAmountChange":-9876.84},{"date":"2019-12-24","principalAmountChange":9928.17},{"date":"2020-01-02","principalAmountChange":9876.84},{"date":"2020-01-02","principalAmountChange":-9928.17}]
+}

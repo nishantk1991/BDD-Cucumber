@@ -1,0 +1,5 @@
+{
+    "title": "INVALID_OBS_SHIFT",
+    "message": "observationPeriodShift with lockOutdays having non zero values is not supported",
+    "status": 400
+}

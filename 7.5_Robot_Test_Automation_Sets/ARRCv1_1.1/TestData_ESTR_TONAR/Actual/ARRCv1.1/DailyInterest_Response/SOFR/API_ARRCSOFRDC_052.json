@@ -1,0 +1,124 @@
+{
+  "comment": " Computed time : 2021-05-21T15:57:23+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-05-21T13:05:20+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "interestCalculatorCriteria": {
+    "initialPrincipalBalance": 10000000,
+    "interestPeriodStartDate": "2019-06-24",
+    "interestPeriodEndDate": "2019-07-01",
+    "riskFreeRate": "SOFR",
+    "lookBackDays": 6,
+    "lockoutDays": 6,
+    "observationPeriodShift": false,
+    "spread": 1.51,
+    "spreadAdjustment": 0.5,
+    "dayCountConvention": "ACT/360",
+    "rateRoundingDecimalPoints": 12,
+    "paymentRounding": "ACTUAL",
+    "principalAmountChanges": [
+      {
+        "date": "2019-06-29",
+        "principalAmountChange": -200
+      },
+      {
+        "date": "2019-06-29",
+        "principalAmountChange": 300
+      }
+    ],
+    "showDailyDetails": true
+  },
+  "currencyCode": "USD",
+  "interestSummary": [
+    {
+      "interestPeriodDate": "2019-07-01",
+      "interestPeriodDays": 1,
+      "principalBalance": 10000100.0,
+      "publishedRiskFreeRate": 2.35,
+      "rateApplied": 2.35,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000457021152,
+      "dailyCompoundedRate": 2.351073999707,
+      "allInRate": 4.361073999707,
+      "interestAmount": 1211.42,
+      "cummulativeInterestAmount": 9689.99
+    },
+    {
+      "interestPeriodDate": "2019-06-29",
+      "interestPeriodDays": 2,
+      "principalBalance": 10000100.0,
+      "publishedRiskFreeRate": 2.35,
+      "rateApplied": 2.35,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000261136679,
+      "dailyCompoundedRate": 2.350613671196,
+      "allInRate": 4.360613671196,
+      "interestAmount": 2422.59,
+      "cummulativeInterestAmount": 8478.57
+    },
+    {
+      "interestPeriodDate": "2019-06-28",
+      "interestPeriodDays": 1,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 2.35,
+      "rateApplied": 2.35,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000261136679,
+      "dailyCompoundedRate": 2.350613671196,
+      "allInRate": 4.360613671196,
+      "interestAmount": 1211.28,
+      "cummulativeInterestAmount": 6055.98
+    },
+    {
+      "interestPeriodDate": "2019-06-27",
+      "interestPeriodDays": 1,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 2.35,
+      "rateApplied": 2.35,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000195846117,
+      "dailyCompoundedRate": 2.350460238375,
+      "allInRate": 4.360460238375,
+      "interestAmount": 1211.24,
+      "cummulativeInterestAmount": 4844.7
+    },
+    {
+      "interestPeriodDate": "2019-06-26",
+      "interestPeriodDays": 1,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 2.35,
+      "rateApplied": 2.35,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000130559817,
+      "dailyCompoundedRate": 2.350306815569,
+      "allInRate": 4.360306815569,
+      "interestAmount": 1211.2,
+      "cummulativeInterestAmount": 3633.46
+    },
+    {
+      "interestPeriodDate": "2019-06-25",
+      "interestPeriodDays": 1,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 2.35,
+      "rateApplied": 2.35,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000065277778,
+      "dailyCompoundedRate": 2.350153402778,
+      "allInRate": 4.360153402778,
+      "interestAmount": 1211.15,
+      "cummulativeInterestAmount": 2422.26
+    },
+    {
+      "interestPeriodDate": "2019-06-24",
+      "interestPeriodDays": 1,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 2.35,
+      "rateApplied": 2.35,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": 2.35,
+      "allInRate": 4.36,
+      "interestAmount": 1211.11,
+      "cummulativeInterestAmount": 1211.11
+    }
+  ]
+}

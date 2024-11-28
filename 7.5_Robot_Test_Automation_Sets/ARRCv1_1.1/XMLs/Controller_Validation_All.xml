@@ -1,0 +1,793 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<robotTest>
+  <testSuite name="AverageInterest_Neg.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\Validations\AverageInterest_Neg.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_001- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_002- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_003- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_004- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_005- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_006- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_007- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_008- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_009- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_010- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_011- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_012- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_013- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_014- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_015- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_016- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_017- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_018- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_019- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_020- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_021- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_022- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_023- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_029- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_030- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_031- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_032- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_033- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_034- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_035- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_036- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_037- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_038- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_039- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_040- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_041- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_045- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_046- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_047- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_048- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_050- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_051- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_052- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_053- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_054- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_055- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_058- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_059- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_060- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_061- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_063- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_064- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_065- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_066- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_067- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_068- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_069- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_070- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_071- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_072- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_073- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_074- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_076- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_078- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_080- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_081- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_082- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_083- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_084- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_085- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_086- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_087- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_088- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_089- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_090- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_091- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_093- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_094- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_095- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_096- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_097- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_098- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_099- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_100- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_101- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_102- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_103- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_104- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_105- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_106- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_107- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_108- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_126- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_127- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_128- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_129- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_130- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_131- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_132- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_133- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_134- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGCA_135- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+  </testSuite>
+  <testSuite name="AverageRates_Neg.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\Validations\AverageRates_Neg.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_ARRCNEGCA_001_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_002_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_003_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_004_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_005_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_006_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_007_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_008_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_009_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_010_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_011_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_012_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_013_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_014_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_015_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_016_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_017_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_018_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_019_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_020_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_021_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_022_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_023_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_024_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_025_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_026_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_027_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_028_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_029_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_035_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_036_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_037_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_039_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_040_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_041_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_042_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_043_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_044_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_045_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_046_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_047_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_048_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_049_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_050_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_052_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_054_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_055_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_056_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_057_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_058_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_059_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_060_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_061_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_062_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_063_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_064_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_065_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_083_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_084_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_085_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_086_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_087_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_088_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_089_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_090_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_091_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGCA_092_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+  </testSuite>
+  <testSuite name="DailyInterest_Neg.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\Validations\DailyInterest_Neg.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_001- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_002- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_003- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_004- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_005- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_006- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_007- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_008- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_009- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_010- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_011- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_012- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_013- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_014- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_015- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_016- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_017- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_018- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_019- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_020- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_021- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_022- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_023- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_029- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_030- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_031- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_032- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_033- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_034- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_035- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_036- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_037- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_038- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_039- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_040- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_041- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_045- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_046- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_047- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_048- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_050- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_051- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_052- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_053- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_054- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_055- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_058- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_059- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_060- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_061- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_063- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_064- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_065- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_066- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_067- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_068- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_069- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_070- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_071- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_072- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_073- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_074- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_076- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_078- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_080- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_081- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_082- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_083- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_084- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_085- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_086- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_087- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_088- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_089- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_090- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_091- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_093- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_094- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_095- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_096- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_097- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_098- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_099- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_100- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_101- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_102- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_103- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_104- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_105- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_106- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_107- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_108- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_126- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_127- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_128- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_129- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_130- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_131- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_132- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_133- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_134- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_135- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_136- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_137- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_138- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGDC_139- Validation / Negative Scenarios for Average Compounding Interest" toRun="yes"/>
+  </testSuite>
+  <testSuite name="DailyRates_Neg.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\Validations\DailyRates_Neg.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_ARRCNEGDC_001_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_002_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_003_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_004_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_005_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_006_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_007_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_008_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_009_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_010_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_011_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_012_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_013_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_014_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_015_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_016_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_017_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_018_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_019_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_020_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_021_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_022_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_023_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_024_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_025_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_026_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_027_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_028_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_029_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_035_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_036_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_037_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_039_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_040_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_041_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_042_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_043_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_044_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_045_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_046_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_047_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_048_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_049_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_050_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_052_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_054_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_055_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_056_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_057_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_058_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_059_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_060_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_061_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_062_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_063_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_064_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_065_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_083_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_084_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_085_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_086_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_087_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_088_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_089_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_090_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_091_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_092_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_093_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_094_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_095_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGDC_096_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+  </testSuite>
+  <testSuite name="Index_Neg.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\Validations\Index_Neg.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_ARRCNEGIND_001_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_002_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_003_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_004_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_005_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_006_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_007_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_008_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_009_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_010_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_011_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_012_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_013_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_014_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_015_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_016_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_017_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_018_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_019_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_020_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_021_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_022_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_023_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_024_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_025_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_026_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_027_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_028_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_029_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_030_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_031_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_032_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_033_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_034_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_035_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_036_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_037_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_038_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_039_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGIND_040_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SimARRInterest_Neg.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\Validations\SimARRInterest_Neg.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_001- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_002- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_003- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_004- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_005- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_006- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_007- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_008- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_009- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_010- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_011- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_012- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_013- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_014- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_015- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_016- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_017- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_018- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_019- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_020- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_021- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_022- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_029- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_030- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_031- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_032- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_033- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_034- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_035- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_036- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_037- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_038- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_039- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_040- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_041- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_045- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_046- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_047- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_048- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_050- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_051- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_052- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_053- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_054- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_055- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_058- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_059- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_060- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_061- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_063- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_064- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_065- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_066- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_067- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_068- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_069- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_070- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_071- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_072- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_073- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_074- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_076- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_078- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_080- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_081- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_082- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_083- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_084- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_085- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_086- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_087- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_088- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_089- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_090- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_091- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_093- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_094- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_095- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_096- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_097- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_098- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_099- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_100- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_101- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_102- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_103- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_104- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_105- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_106- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_107- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_108- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_126- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_127- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_128- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_129- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_130- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_131- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_132- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_133- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_134- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSARR_135- Validation / Negative Scenarios for Simple ARR Interest" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SimARRRates_Neg.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\Validations\SimARRRates_Neg.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_ARRCNEGSARR_001_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_002_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_003_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_004_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_005_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_006_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_007_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_008_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_009_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_010_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_011_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_012_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_013_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_014_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_015_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_016_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_017_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_018_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_019_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_020_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_021_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_022_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_025_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_026_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_029_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_035_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_036_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_037_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_039_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_040_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_041_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_042_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_043_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_044_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_045_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_046_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_047_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_048_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_049_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_050_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_052_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_054_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_055_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_060_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_061_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_063_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_065_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_066_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_067_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_068_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_069_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_070_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_071_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_072_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_073_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_074_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_075_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_076_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_094_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_095_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_096_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_097_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_098_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_099_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_100_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_101_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_102_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_103_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSARR_104_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SimAvgInterest_Neg.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\Validations\SimAvgInterest_Neg.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_001- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_002- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_003- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_004- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_005- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_006- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_007- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_008- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_009- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_010- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_011- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_012- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_013- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_014- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_015- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_016- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_017- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_018- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_019- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_020- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_021- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_022- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_023- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_029- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_030- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_031- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_032- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_033- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_034- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_035- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_036- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_037- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_038- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_039- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_040- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_041- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_045- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_046- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_047- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_048- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_050- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_051- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_052- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_053- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_054- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_055- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_058- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_059- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_060- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_061- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_063- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_064- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_065- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_066- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_067- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_068- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_069- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_070- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_071- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_072- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_073- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_074- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_076- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_078- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_080- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_081- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_082- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_083- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_084- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_085- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_086- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_087- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_088- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_089- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_090- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_091- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_093- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_094- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_095- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_096- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_097- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_098- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_099- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_100- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_101- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_102- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_103- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_104- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_105- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_106- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_107- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_108- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_126- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_127- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_128- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_129- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_130- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_131- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_132- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_133- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_134- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ARRCINTNEGSAVG_135- Validation / Negative Scenarios for Simple Average Interest" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SimAvgRates_Neg.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\Validations\SimAvgRates_Neg.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_ARRCNEGSAVG_001_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_002_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_003_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_004_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_005_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_006_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_007_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_008_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_009_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_010_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_011_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_012_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_013_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_014_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_015_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_016_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_017_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_018_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_019_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_020_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_021_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_022_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_023_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_024_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_025_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_026_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_027_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_028_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_029_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_035_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_036_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_037_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_039_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_040_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_041_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_042_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_043_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_044_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_045_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_046_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_047_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_048_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_049_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_050_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_052_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_054_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_055_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_056_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_057_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_058_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_059_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_060_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_061_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_062_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_063_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_064_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_065_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_083_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_084_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_085_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_086_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_087_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_088_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_089_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_090_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_091_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGSAVG_092_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+  </testSuite>
+  <testSuite name="Tenors_Neg.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\Validations\Tenors_Neg.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_ARRCNEGTEN_001_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_002_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_003_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_004_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_005_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_006_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_007_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_008_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_009_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_010_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_011_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_012_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_013_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_014_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_015_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_016_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_017_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_018_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_019_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_020_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_021_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_022_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_023_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_024_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_025_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_026_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_027_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_028_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_029_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_030_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_031_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_032_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_033_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_034_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_035_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_036_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_037_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_038_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_039_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_040_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_041_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_042_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_043_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_044_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+    <testCase testcaseName="GET_ARRCNEGTEN_045_VALIDATE CORRECT ERROR MESSAGES / RESPONSE IS RECEIVED FOR THE TEST SCENARIO" toRun="yes"/>
+  </testSuite>
+</robotTest>

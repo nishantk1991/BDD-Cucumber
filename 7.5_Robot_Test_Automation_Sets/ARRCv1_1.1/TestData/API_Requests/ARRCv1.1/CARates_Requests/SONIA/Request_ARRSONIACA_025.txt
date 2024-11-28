@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/compounded-in-arrears/average-rate?riskFreeRate=SONIA&rateRoundingDecimalPoints=9&lookBackDays=10&interestPeriodStartDate=2019-01-01&interestPeriodEndDate=2019-04-30&lockoutDays=9&dayCountConvention=ACT/ACT&observationPeriodShift=false&showDailyDetails=true

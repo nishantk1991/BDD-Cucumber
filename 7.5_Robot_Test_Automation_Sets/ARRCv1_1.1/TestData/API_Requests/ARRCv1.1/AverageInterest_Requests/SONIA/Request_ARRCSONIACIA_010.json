@@ -1,0 +1,16 @@
+{ 
+   "initialPrincipalBalance":10000000.00,
+   "interestPeriodStartDate":"2019-07-01",
+   "interestPeriodEndDate":"2019-07-29",
+   "observationPeriodShift":"true",
+   "lookBackDays":7,
+   "lockoutDays":0,
+   "spread":2.194565,
+   "rateRoundingDecimalPoints":10,
+   "spreadAdjustment":0.69,
+   "paymentRounding":"NEAREST",
+   "riskFreeRate":"SONIA",
+   "showDailyDetails":"true",
+   "dayCountConvention":"ACT/365",
+   "principalAmountChanges":[{"date":"2019-07-29","principalAmountChange":-10000000.00}]
+}

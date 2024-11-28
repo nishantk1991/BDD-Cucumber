@@ -1,0 +1,15 @@
+{
+	"comment": " Computed time :",
+	"lastUpdatedFromSource": "",
+	"legalDisclaimer": "This is generated automatically.",
+	"": {
+		
+	},
+	"": [
+		{
+			"status": "400",
+			"title": "REPO_DATA_UNAVAILABLE",
+			"message": "Rate is not available for the given interest period date range"
+		}
+	]
+}

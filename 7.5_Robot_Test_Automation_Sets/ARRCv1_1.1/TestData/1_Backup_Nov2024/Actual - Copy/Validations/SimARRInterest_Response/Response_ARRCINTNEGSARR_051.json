@@ -1,0 +1,5 @@
+{
+  "title": "INITIAL_PRINCIPAL_BALANCE_NEGATIVE_OR_NULL",
+  "message": "initialPrincipalBalance cannot be null or less than or equal to 0",
+  "status": 400
+}

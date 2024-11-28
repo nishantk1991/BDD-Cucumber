@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<robotTest>
+  <testSuite name="ESTR_CADCInterest.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\ESTR\ESTR_CADCInterest.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="POST_VALIDATE ESTR_CA_Pay_TC001 (reference for adapter)" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ESTR_CA_Pay_TC001" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE ESTR_DCRN_Pay_TC002" toRun="yes"/>
+  </testSuite>
+  <testSuite name="ESTR_CADCRates.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\ESTR\ESTR_CADCRates.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_VALIDATE_ESTR_CARates001_Real data test" toRun="yes"/>
+    <testCase testcaseName="GET_VALIDATE_ESTR_CARates002_Real data test" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SOFR_CADCInterest.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\SOFR\SOFR_CADCInterest.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="POST_VALIDATE SOFR_CA_NoPay_TC001- - Payment scenarios - Real time" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE SOFR_CA_NoPay_TC003- - Payment scenarios - Real time" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SOFR_CADCRates.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\SOFR\SOFR_CADCRates.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_VALIDATE_SOFR_CARates001_Real data test" toRun="yes"/>
+    <testCase testcaseName="GET_VALIDATE_SOFR_CARates002_Real data test" toRun="yes"/>
+    <testCase testcaseName="GET_VALIDATE_SOFR_CARates003_Real data test" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SONIA_AvgInterest.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\SONIA\SONIA_AvgInterest.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="POST_VALIDATE SONIA_CA_NoPay_TC001- - Non Payment scenarios - Real time" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE SONIA_CA_IntPay_TC002- Payment scenarios - Realtime" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE SONIA_CA_IntPay_TC003- Payment scenarios - Realtime" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SONIA_AvgRates.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\SONIA\SONIA_AvgRates.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_VALIDATE_SONIA_CARates001_Real data test" toRun="yes"/>
+    <testCase testcaseName="GET_VALIDATE_SONIA_CARates003_Real data test" toRun="yes"/>
+    <testCase testcaseName="GET_VALIDATE_SONIA_CARates002_Real data test" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SONIA_DCInterest_CCR=N.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\SONIA\SONIA_DCInterest_CCR=N.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="POST_VALIDATE SONIA_DC_CCR=N_NoPay_TC004- - Non Payment scenarios - Real time" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE SONIA_DC_CCR=N_IntPay_TC005- Payment scenarios - Realtime" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SONIA_DCRates_CCR=N.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\SONIA\SONIA_DCRates_CCR=N.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_VALIDATE_SONIA_DC_CCRN_Rates004_Real data test" toRun="yes"/>
+    <testCase testcaseName="GET_VALIDATE_SONIA_DC_CCRN_Rates005_Real data test" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SORA_AvgInterest.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\SORA\SORA_AvgInterest.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="POST_VALIDATE SORA_CA_NoPay_TC002- - Non Payment scenarios - Real time" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE SORA_CA_NoPay_TC003- - Non Payment scenarios - Real time" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE SORA_CA_IntPay_TC001- Payment scenarios - Realtime" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SORA_AvgRates.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\SORA\SORA_AvgRates.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_VALIDATE_SORA_CARates001_Real data test" toRun="yes"/>
+    <testCase testcaseName="GET_VALIDATE_SORA_CARates003_Real data test" toRun="yes"/>
+    <testCase testcaseName="GET_VALIDATE_SORA_CARates002_Real data test" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SORA_DCInterest_CCR=N.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\SORA\SORA_DCInterest_CCR=N.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="POST_VALIDATE SORA_DC_CCR=N_IntPay_TC005- Payment scenarios - Realtime" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE SORA_DC_CCR=N_IntPay_TC004- Payment scenarios - Realtime" toRun="yes"/>
+  </testSuite>
+  <testSuite name="SORA_DCRates_CCR=N.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\SORA\SORA_DCRates_CCR=N.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_VALIDATE_SORA_DC_CCRN_Rates004_Real data test" toRun="yes"/>
+    <testCase testcaseName="GET_VALIDATE_SORA_DC_CCRN_Rates005_Real data test" toRun="yes"/>
+  </testSuite>
+  <testSuite name="TONAR_AvgInterest.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\TONAR\TONAR_AvgInterest.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="POST_VALIDATE TONAR_CA_NoPay_TC002- - Non Payment scenarios - Real time" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE TONAR_CA_IntPay_TC001- Payment scenarios - Realtime" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE TONAR_CA_IntPay_TC003- Payment scenarios - Realtime" toRun="yes"/>
+  </testSuite>
+  <testSuite name="TONAR_AvgRates.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\TONAR\TONAR_AvgRates.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_VALIDATE_TONAR_CARates001_Real data test" toRun="yes"/>
+    <testCase testcaseName="GET_VALIDATE_TONAR_CARates002_Real data test" toRun="yes"/>
+    <testCase testcaseName="GET_VALIDATE_TONAR_CARates003_Real data test" toRun="yes"/>
+  </testSuite>
+  <testSuite name="TONAR_DCInterest_CCR=N.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\TONAR\TONAR_DCInterest_CCR=N.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="POST_VALIDATE TONAR_DC_CCR=N_IntPay_TC005- Payment scenarios - Realtime" toRun="yes"/>
+    <testCase testcaseName="POST_VALIDATE TONAR_DC_CCR=N_IntPay_TC004- Payment scenarios - Realtime" toRun="yes"/>
+  </testSuite>
+  <testSuite name="TONAR_DCRates_CCR=N.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\TONAR\TONAR_DCRates_CCR=N.robot" tag="" runAllTestcases="" toRun="yes">
+    <testCase testcaseName="GET_VALIDATE_TONAR_DC_CCRN_Rates005_Real data test" toRun="yes"/>
+    <testCase testcaseName="GET_VALIDATE_TONAR_DC_CCRN_Rates004_Real data test" toRun="yes"/>
+  </testSuite>
+  <!-- <testSuite name="SARON_CADCInterest.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\SARON\SARON_CADCInterest.robot" tag="" runAllTestcases="" toRun="yes"> -->
+    <!-- <testCase testcaseName="POST_VALIDATE SARON_CA_NoPay_TC001- - Non Payment scenarios - Real time" toRun="yes"/> -->
+    <!-- <testCase testcaseName="POST_VALIDATE SARON_CA_NoPay_TC002- - Payment scenarios - Real time" toRun="yes"/> -->
+  <!-- </testSuite> -->
+  <!-- <testSuite name="SARON_CADCRates.robot" path="C:\7.5_Robot_Test_Automation_Sets\ARRCv1_1.1\TestCases\ARRCv1.7\LegacyFloorCompounded\SARON\SARON_CADCRates.robot" tag="" runAllTestcases="" toRun="yes"> -->
+    <!-- <testCase testcaseName="GET_VALIDATE_SARON_CARates001_Real data test" toRun="yes"/> -->
+    <!-- <testCase testcaseName="GET_VALIDATE_SARON_CARates002_Real data test" toRun="yes"/> -->
+  <!-- </testSuite>   -->
+</robotTest>

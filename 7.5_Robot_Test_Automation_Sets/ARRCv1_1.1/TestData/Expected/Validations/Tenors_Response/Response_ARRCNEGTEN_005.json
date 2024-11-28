@@ -1,0 +1,5 @@
+{
+    "title": "VLDT_GT_THAN_CURRENTDT",
+    "message": "valueDate cannot be greater than current date",
+    "status": 400
+}

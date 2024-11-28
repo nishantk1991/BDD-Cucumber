@@ -1,0 +1,5 @@
+{
+    "title": "TENOR_INVALID",
+    "message": "Invalid value passed for tenor",
+    "status": 400
+}

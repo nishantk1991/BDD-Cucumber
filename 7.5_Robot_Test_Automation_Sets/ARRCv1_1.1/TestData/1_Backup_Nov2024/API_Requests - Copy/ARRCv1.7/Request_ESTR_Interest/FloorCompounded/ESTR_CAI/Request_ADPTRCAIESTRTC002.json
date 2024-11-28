@@ -1,0 +1,31 @@
+{
+	
+	"initialPrincipalBalance": 10000000.0,
+	"interestPeriodStartDate": "2021-01-01",
+	"interestPeriodEndDate": "2022-01-01",
+	"riskFreeRate": "ESTR",
+	"riskFreeRateFloor": -0.9515,
+	"spread": -0.456650,
+	"lookBackDays": 94,
+	"lockoutDays": 52,
+	"showDailyDetails": true,
+	"spreadAdjustment": 0.013,
+	"floorCompoundedRate": true,
+	"rateRoundingDecimalPoints": 6,
+	"paymentRounding": "DOWN",
+  "principalAmountChanges": [
+
+	{
+		"date": "2021-01-01",
+		"principalAmountChange": -10000000
+	},
+	{
+		"date": "2021-01-05",
+		"principalAmountChange": 10000000
+	},
+	{
+		"date": "2021-04-02",
+		"principalAmountChange": -343445.56
+	}
+	]
+}

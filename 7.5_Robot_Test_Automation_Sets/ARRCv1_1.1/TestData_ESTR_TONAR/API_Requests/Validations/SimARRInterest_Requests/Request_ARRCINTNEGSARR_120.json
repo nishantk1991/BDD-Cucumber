@@ -1,0 +1,17 @@
+{ 
+   "initialPrincipalBalance":10000000.0,
+   "interestPeriodStartDate":"2020-08-29",
+   "interestPeriodEndDate":"2020-08-30",
+   "riskFreeRate":"ESTR",
+   "spread":-0.0123,
+   "spreadAdjustment":-0.01100,
+   "allInRateFloor":3.4,
+   "allInRateCap":5.6565,
+   "lookBackDays": "1",
+   "lockoutDays": "1",
+   "showDailyDetails":"true",
+   "rateRoundingDecimalPoints":3,
+   "calculateTillDate":"2020-08-30",
+   "paymentRounding":"DOWN",
+   "principalAmountChanges":[{"date":"2020-08-29","principalAmountChange":-300000}]
+}

@@ -1,0 +1,20 @@
+{ 
+   "initialPrincipalBalance":1000000000.0,
+   "interestPeriodStartDate":"2021-04-02",
+   "interestPeriodEndDate":"2026-01-01",
+   "calculateTillDate":"2021-10-03",
+   "riskFreeRate":"TONAR",
+   "spreadAdjustment":0.003450,
+   "legacyRiskFreeRateFloor":-0.054560,
+   "lookBackDays": "92",
+   "lockoutDays": "0",
+   "showDailyDetails":"true",
+   "rateRoundingDecimalPoints":9,
+   "ccrRoundingApplies":true,
+    "ccrRoundingPrecision":6,
+   "dayCountConvention":"ACT/365",
+   "observationPeriodShift":"true",
+   "paymentRounding":"ACTUAL"
+}
+   
+  

@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "INVALID_RISK_FREE_RATE",
+    "exceptionMessage": "Invalid value passed for riskFreeRate",
+    "status": "400"
+  }
+}

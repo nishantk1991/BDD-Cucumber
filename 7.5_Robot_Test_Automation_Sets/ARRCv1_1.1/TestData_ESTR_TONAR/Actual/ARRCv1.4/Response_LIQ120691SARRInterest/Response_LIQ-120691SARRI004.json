@@ -1,0 +1,5 @@
+{
+  "title": "INVALID_RISK_FREE_RATE",
+  "message": "Invalid value passed for riskFreeRate",
+  "status": 400
+}

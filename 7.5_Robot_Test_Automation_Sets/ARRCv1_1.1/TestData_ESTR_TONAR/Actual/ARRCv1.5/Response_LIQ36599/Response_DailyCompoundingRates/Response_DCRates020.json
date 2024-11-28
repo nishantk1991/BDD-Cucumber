@@ -1,0 +1,29 @@
+{
+  "comment": " The most recent published TONAR RFR rate is available as-of: 2020-05-22. Computed time : 2021-11-23T06:45:21+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-10-29T00:00:00+00:00",
+  "legalDisclaimer": "Use of TONAR is subject to the Bank of Japan's Terms of Use ; see https://www.boj.or.jp/en/statistics/outline/exp/data/exmutan2.pdf.",
+  "requestParameters": {
+    "interestPeriodStartDate": "2020-05-16",
+    "interestPeriodEndDate": "2020-06-05",
+    "riskFreeRate": "TONAR",
+    "lookBackDays": 2,
+    "lockoutDays": 1,
+    "rateRoundingDecimalPoints": 4,
+    "legacyRiskFreeRateFloor": -0.06719,
+    "spreadAdjustment": 0,
+    "calculateTillDate": "2020-05-17"
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2020-05-16",
+      "interestPeriodDays": 2,
+      "publishedRiskFreeRate": -0.0672,
+      "rateApplied": -0.06719,
+      "riskFreeRateFloorApplied": false,
+      "derivedRiskFreeRateFloor": -0.06719,
+      "derivedRiskFreeRateFloorApplied": true,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": -0.0672
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "title": "NO_INDEX_REPO_FOR_START",
+  "message": "indexstartdate is a non-businness day. Hence Index is not available",
+  "status": 400
+}

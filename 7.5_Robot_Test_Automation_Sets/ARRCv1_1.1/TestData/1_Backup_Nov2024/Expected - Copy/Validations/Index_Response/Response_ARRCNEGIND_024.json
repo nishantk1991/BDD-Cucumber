@@ -1,0 +1,6 @@
+{
+	
+	"status": 400,
+	"title": "NO_INDEX_REPO_FOR_RFR",
+	"message": "Index is not available for the riskFreeRate provided"
+}

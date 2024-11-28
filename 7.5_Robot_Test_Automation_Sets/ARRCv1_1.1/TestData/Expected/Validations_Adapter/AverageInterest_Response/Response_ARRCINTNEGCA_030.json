@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "LOCKOUT_DAYS_OUT_OF_RANGE",
+    "exceptionMessage": "LockOutDays must be between  0 and 99",
+    "status": "400"
+  }
+}

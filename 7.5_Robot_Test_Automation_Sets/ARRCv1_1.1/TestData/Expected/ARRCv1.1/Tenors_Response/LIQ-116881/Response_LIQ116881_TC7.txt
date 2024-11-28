@@ -1,0 +1,54 @@
+{
+    "comment": " Computed time : 2020-09-21T12:20:06+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2020-09-18T13:30:10+00:00",
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "requestParameters": {
+        "valueDate": "2019-04-30",
+        "riskFreeRate": "SOFR",
+        "rateRoundingDecimalPoints": 12
+    },
+    "calculatedCompoundedInArrearsRatesForTenors": [
+        {
+            "tenor": "7D",
+            "interestPeriodStartDate": "2019-04-23",
+            "interestPeriodEndDate": "2019-04-29",
+            "averageCompoundedRate": 2.459003134435,
+            "publishedRate": false
+        },
+        {
+            "tenor": "30D",
+            "interestPeriodStartDate": "2019-03-31",
+            "interestPeriodEndDate": "2019-04-29",
+            "averageCompoundedRate": 2.472707820434,
+            "publishedRate": false
+        },
+        {
+            "tenor": "60D",
+            "interestPeriodStartDate": "2019-03-01",
+            "interestPeriodEndDate": "2019-04-29",
+            "averageCompoundedRate": 2.451159009181,
+            "publishedRate": false
+        },
+        {
+            "tenor": "90D",
+            "interestPeriodStartDate": "2019-01-30",
+            "interestPeriodEndDate": "2019-04-29",
+            "averageCompoundedRate": 2.442818728047,
+            "publishedRate": false
+        },
+        {
+            "tenor": "180D",
+            "interestPeriodStartDate": "2018-11-01",
+            "interestPeriodEndDate": "2019-04-29",
+            "averageCompoundedRate": 2.404397523185,
+            "publishedRate": false
+        },
+        {
+            "tenor": "360D",
+            "interestPeriodStartDate": "2018-05-05",
+            "interestPeriodEndDate": "2019-04-29",
+            "averageCompoundedRate": 2.184865688920,
+            "publishedRate": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+	
+	"initialPrincipalBalance": 15000000.0,
+	"interestPeriodStartDate": "2019-05-05",
+	"interestPeriodEndDate": "2024-05-02",
+	"spreadAdjustment": 1.5,
+	"spread": 0.5,
+	"paymentRounding": "UP",
+	"riskFreeRate": "SOFR"
+}

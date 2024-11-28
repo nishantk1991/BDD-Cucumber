@@ -1,0 +1,5 @@
+{
+  "title": "STDT_GT_THAN_CTDT",
+  "message": "interestPeriodStartDate cannot be greater than calculateTillDate",
+  "status": 400
+}

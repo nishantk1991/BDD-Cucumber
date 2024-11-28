@@ -1,0 +1,17 @@
+{ 
+   "initialPrincipalBalance":10000000.0,
+   "interestPeriodStartDate":"2020-12-25",
+   "interestPeriodEndDate":"2024-05-29",
+   "calculateTillDate":"2021-11-17",
+   "riskFreeRate":"SARON",
+   "riskFreeRateFloor":-0.724121,
+   "spread":2.323310,
+   "spreadAdjustment":-1,
+   "floorCompoundedRate":"true",
+   "lookBackDays": "99",
+   "lockoutDays": "0",
+   "showDailyDetails":"true",
+   "rateRoundingDecimalPoints":10,
+   "observationPeriodShift":"true",
+   "dayCountConvention":"ACT/360"
+}

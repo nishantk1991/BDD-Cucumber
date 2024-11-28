@@ -1,0 +1,5 @@
+{
+  "title": "STDT_DATA_UNAVAILABLE",
+  "message": "Rate is not available for the interestPeriodStartDate provided. The most recent published SOFR rate is available from: 2018-04-02.",
+  "status": 400
+}

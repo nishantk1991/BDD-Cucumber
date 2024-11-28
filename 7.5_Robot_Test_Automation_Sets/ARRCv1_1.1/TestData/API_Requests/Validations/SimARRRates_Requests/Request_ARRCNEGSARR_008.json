@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/simple-arr/rates?riskFreeRate=SOFR&rateRoundingDecimalPoints=5&lookBackDays=4&lockoutDays=1&interestPeriodStartDate=2019-02-01&interestPeriodEndDate=2019-02-29&observationPeriodShift=false

@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "CAP_ALLINRATE_OUT_RANGE",
+    "exceptionMessage": "allInRateCap must not be greater than 100% or less than -100%",
+    "status": "400"
+  }
+}

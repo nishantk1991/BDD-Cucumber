@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/simple-average/rates?riskFreeRate=SORA&rateRoundingDecimalPoints=12&lookBackDays=4&interestPeriodStartDate=2020-04-27&lockoutDays=2&dayCountConvention=ACT/365&showDailyDetails=true&calculateTillDate=2020-05-22&interestPeriodEndDate=2020-05-23&riskFreeRateFloor=5

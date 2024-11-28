@@ -1,0 +1,5 @@
+{
+    "title": "NUMERIC_OUT_RANGE_LEGACY_FLOOR_RATE",
+    "message": "legacyRiskFreeRateFloor must not be more than 6 decimal points",
+    "status": 400
+}

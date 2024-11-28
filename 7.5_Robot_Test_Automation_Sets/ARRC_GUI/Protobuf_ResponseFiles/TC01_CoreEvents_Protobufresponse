@@ -1,0 +1,55 @@
+
+§
+true×
+zCF48A7BE3A946163FE71839F3ABD6166F56896E042C0631C8E0BECFD4BC0631F830BEE983ABD087DEE7A8F9C3FB91C028B0DF6F543C57D1D8803F6F540TRUSER262+LiqMNPaymentApplicationPaperClipTransaction:LIQWB
+eventsMIN_DATAj8?F79EKXÄ
+Á
+	LoanEvent+LiqMNPaymentApplicationPaperClipTransactionEvent"Ž
+Loan Event - ReleasedLNEVT	LoanEvent"8?F79F8Z*2022-02-16 18:24:5122022-02-16 18:24:51:®2
+descriptionString*Released2Description:NBN 
+commentString2Comment:NBNF
+eventEffectiveDateLiqDate*08-Mar-20182Event Effective Date:NBN4
+	eventUserString*TRUSER262Event User Text:NBN3
+	eventDateLiqDate*16-Feb-20222
+Event Date:NBN?
+	eventTime	Timestamp*2022-02-16 18:24:51.02
+Event Time:NBN/
+transactionRIDString2Transaction RID:NBN1
+transactionTypeString2Transaction Type:NBN"Œ
+Loan Event - CreatedLNEVT	LoanEvent"8?F79EKY*2022-02-16 18:12:0222022-02-16 18:24:51:­1
+descriptionString*Created2Description:NBN 
+commentString2Comment:NBNF
+eventEffectiveDateLiqDate*12-Mar-20182Event Effective Date:NBN4
+	eventUserString*TRUSER262Event User Text:NBN3
+	eventDateLiqDate*16-Feb-20222
+Event Date:NBN?
+	eventTime	Timestamp*2022-02-16 18:12:02.02
+Event Time:NBN/
+transactionRIDString2Transaction RID:NBN1
+transactionTypeString2Transaction Type:NBN"–
+Loan Event - ApprovedLNEVT	LoanEvent"8?F79EXY*2022-02-16 18:18:2922022-02-16 18:24:51:¶2
+descriptionString*Approved2Description:NBN§
+commentString*„Approval completed.
+
+Approver: SAMAD U, SABIHA.
+Job Function: Small and Medium Enterprise 1; Ranking: 1.
+Location: New York, NY.2Comment:NBNF
+eventEffectiveDateLiqDate*12-Mar-20182Event Effective Date:NBN4
+	eventUserString*TRUSER262Event User Text:NBN3
+	eventDateLiqDate*16-Feb-20222
+Event Date:NBN?
+	eventTime	Timestamp*2022-02-16 18:18:29.02
+Event Time:NBN/
+transactionRIDString2Transaction RID:NBN1
+transactionTypeString2Transaction Type:NBN"Æ
+Loan Event - Sent to ApprovalLNEVT	LoanEvent"8?F79EXO*2022-02-16 18:18:2922022-02-16 18:24:51:Þ:
+descriptionString*Sent to Approval2Description:NBNH
+commentString*&Warnings occurred during validation: N2Comment:NBNF
+eventEffectiveDateLiqDate*12-Mar-20182Event Effective Date:NBN4
+	eventUserString*TRUSER262Event User Text:NBN3
+	eventDateLiqDate*16-Feb-20222
+Event Date:NBN?
+	eventTime	Timestamp*2022-02-16 18:18:29.02
+Event Time:NBN/
+transactionRIDString2Transaction RID:NBN1
+transactionTypeString2Transaction Type:NBN

@@ -1,0 +1,55 @@
+{
+  "comment": " The most recent published ESTR RFR rate is available as-of: 2020-05-19. Computed time : 2021-11-22T10:23:09+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-10-29T00:00:00+00:00",
+  "legalDisclaimer": "Use of euro short-term rate (€STR) is subject to the ECB’s €STR disclaimer under https://www.ecb.europa.eu/stats/financial_markets_and_interest_rates/euro_short-term_rate/html/index.en.html#disclaimer.",
+  "interestCalculatorCriteria": {
+    "initialPrincipalBalance": 10000000,
+    "interestPeriodStartDate": "2020-02-01",
+    "interestPeriodEndDate": "2020-05-29",
+    "riskFreeRate": "ESTR",
+    "riskFreeRateFloor": 0,
+    "lookBackDays": 0,
+    "lockoutDays": 7,
+    "observationPeriodShift": false,
+    "spread": 0.0023,
+    "spreadAdjustment": 0.04567,
+    "dayCountConvention": "ACT/360",
+    "rateRoundingDecimalPoints": 9,
+    "paymentRounding": "UP",
+    "principalAmountChanges": [
+      {
+        "date": "2020-03-20",
+        "principalAmountChange": -9876.84
+      },
+      {
+        "date": "2020-03-25",
+        "principalAmountChange": 100000
+      },
+      {
+        "date": "2020-03-20",
+        "principalAmountChange": 9876.84
+      },
+      {
+        "date": "2020-03-25",
+        "principalAmountChange": -100000
+      }
+    ],
+    "calculateTillDate": "2020-05-21"
+  },
+  "currencyCode": "EUR",
+  "interestSummary": [
+    {
+      "interestPeriodDate": "2020-05-29",
+      "interestPeriodDays": 1,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.001869170899,
+      "dailyCompoundedRate": 0.040074767,
+      "allInRate": 0.088044767,
+      "interestAmount": 24.46,
+      "cummulativeInterestAmount": 20288.52
+    }
+  ]
+}

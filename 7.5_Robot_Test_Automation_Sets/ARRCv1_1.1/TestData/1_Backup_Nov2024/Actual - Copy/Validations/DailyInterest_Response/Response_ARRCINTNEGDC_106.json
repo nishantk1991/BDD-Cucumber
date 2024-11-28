@@ -1,0 +1,5 @@
+{
+  "title": "FLOOR_GT_THAN_CAP",
+  "message": "All in rate floor cannot be greater than all in rate cap",
+  "status": 400
+}

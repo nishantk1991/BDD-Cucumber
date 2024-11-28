@@ -1,0 +1,98 @@
+{
+  "comment": " The most recent published SONIA RFR rate is available as-of: 2021-11-17. Computed time : 2021-11-19T07:30:40+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-18T00:00:00+00:00",
+  "legalDisclaimer": "SONIA and SONIA Compounded Index are copyright the Bank of England. The trade marks Bank of England and SONIA are registered trade marks of the Bank of England. All Rights Reserved. The SONIA benchmark and SONIA Compounded Index include the proprietary information of the Bank of England and the data comprising the benchmark and SONIA Compounded Index may not be copied or distributed except as specifically authorised. The SONIA benchmark and SONIA Compounded Index are not intended to be relied upon as authoritative or taken in substitution for the exercise of judgement and do not constitute investment advice. The SONIA benchmark and SONIA Compounded Index are not, and should not be construed as, an offer, bid or solicitation in relation to any financial instrument. The Bank of England does not guarantee, and expressly disclaims any liability for, and makes no representations or warranties whether express or implied, as to the currency, accuracy, timeliness, completeness or fitness for any particular purpose of the SONIA benchmark and SONIA Compounded Index. The Bank of England accepts no liability whatsoever for any loss (including, but not limited to any direct, indirect or consequential loss, whether or not such loss is foreseeable and whether or not the Bank of England has been appraised of the use to which the SONIA benchmark or SONIA Compounded Index will be put) howsoever arising from the use, the timeliness of delivery or the failure of delivery of the SONIA benchmark or SONIA Compounded Index.",
+  "requestParameters": {
+    "interestPeriodStartDate": "2018-12-31",
+    "interestPeriodEndDate": "2019-01-11",
+    "riskFreeRate": "SONIA",
+    "lookBackDays": 9,
+    "lockoutDays": 3,
+    "observationPeriodShift": false,
+    "rateRoundingDecimalPoints": 6,
+    "showDailyDetails": true
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2019-01-11",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7054,
+      "rateApplied": 0.7054,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000212043606,
+      "dailyCompoundedRate": 0.70555
+    },
+    {
+      "interestPeriodDate": "2019-01-10",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7054,
+      "rateApplied": 0.7054,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000192713854,
+      "dailyCompoundedRate": 0.705536
+    },
+    {
+      "interestPeriodDate": "2019-01-09",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7054,
+      "rateApplied": 0.7054,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000173384476,
+      "dailyCompoundedRate": 0.705522
+    },
+    {
+      "interestPeriodDate": "2019-01-08",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7054,
+      "rateApplied": 0.7054,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000154055471,
+      "dailyCompoundedRate": 0.705509
+    },
+    {
+      "interestPeriodDate": "2019-01-07",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7032,
+      "rateApplied": 0.7032,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000134787121,
+      "dailyCompoundedRate": 0.703295
+    },
+    {
+      "interestPeriodDate": "2019-01-04",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0.7039,
+      "rateApplied": 0.7039,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000076927876,
+      "dailyCompoundedRate": 0.703954
+    },
+    {
+      "interestPeriodDate": "2019-01-03",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7019,
+      "rateApplied": 0.7019,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000057696629,
+      "dailyCompoundedRate": 0.70194
+    },
+    {
+      "interestPeriodDate": "2019-01-02",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0.7003,
+      "rateApplied": 0.7003,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000038509589,
+      "dailyCompoundedRate": 0.700327
+    },
+    {
+      "interestPeriodDate": "2018-12-31",
+      "interestPeriodDays": 2,
+      "publishedRiskFreeRate": 0.7028,
+      "rateApplied": 0.7028,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": 0.7028
+    }
+  ]
+}

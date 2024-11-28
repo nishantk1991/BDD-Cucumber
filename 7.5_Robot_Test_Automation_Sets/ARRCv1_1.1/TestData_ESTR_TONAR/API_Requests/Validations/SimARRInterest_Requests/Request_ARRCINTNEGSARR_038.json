@@ -1,0 +1,12 @@
+{ 
+   "initialPrincipalBalance":15000000.0,
+   "interestPeriodStartDate":"2019-04-24",
+   "interestPeriodEndDate":"2020-04-13",
+   "spread":0.52323211,
+   "spreadAdjustment":0.001,
+   "observationPeriodShift":"true",
+   "lookBackDays":10,
+   "lockoutDays":0,
+   "riskFreeRate":"ESTR",
+   "rateRoundingDecimalPoints":6
+}

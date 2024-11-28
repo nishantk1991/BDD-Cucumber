@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/compounded-in-arrears/average-rate?interestPeriodStartDate=2021-01-01&interestPeriodEndDate=2022-01-01&riskFreeRate=SORA&riskFreeRateFloor=0.0012&spread=-0.456650&spreadAdjustment=-0.01&lookBackDays=99&lockoutDays=55&showDailyDetails=true&floorCompoundedRate=true&rateRoundingDecimalPoints=6&dayCountConvention=ACT/365

@@ -1,0 +1,34 @@
+{
+	
+	"initialPrincipalBalance": 9788884545.0,
+	"interestPeriodStartDate": "2021-04-02",
+	"interestPeriodEndDate": "2022-02-18",
+	"calculateTillDate": "2022-02-18",
+	"riskFreeRate": "SORA",
+	"spread": 0.34430,
+	"lookBackDays": 99,
+	"lockoutDays": 79,
+	"showDailyDetails": true,
+	"spreadAdjustment": -0.06435,
+	"legacyRiskFreeRateFloor": 0.1929,
+	"floorCompoundedRate": true,
+	"ccrRoundingApplies": false,
+	"rateRoundingDecimalPoints": 9,
+	"dayCountConvention": "ACT/360",
+	"paymentRounding": "DOWN",
+  "principalAmountChanges": [
+
+	{
+		"date": "2021-04-02",
+		"principalAmountChange": -56666.87
+	},
+	{
+		"date": "2021-04-17",
+		"principalAmountChange": 2000000
+	},
+	{
+		"date": "2021-04-27",
+		"principalAmountChange": -65656565
+	}
+	]
+}

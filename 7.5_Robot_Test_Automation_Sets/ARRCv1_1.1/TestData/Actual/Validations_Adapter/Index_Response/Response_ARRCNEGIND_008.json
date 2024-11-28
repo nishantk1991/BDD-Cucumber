@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "NO_INDEX_REPO_FOR_START",
+    "exceptionMessage": "indexstartdate is a non-businness day. Hence Index is not available",
+    "status": "400"
+  }
+}

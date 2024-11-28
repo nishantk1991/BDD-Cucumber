@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/compounded-in-arrears/average-rate?lockoutDays=2&interestPeriodStartDate=2020-04-27&interestPeriodEndDate=2020-05-30&riskFreeRate=ESTR&lookBackDays=4&rateRoundingDecimalPoints=7&calculateTillDate=2020-05-24&showDailyDetails=true&riskFreeRateFloor=5.00

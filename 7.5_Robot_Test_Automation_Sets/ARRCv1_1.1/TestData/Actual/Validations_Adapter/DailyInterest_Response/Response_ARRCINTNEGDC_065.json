@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "INVALID_DATE_FORMAT",
+    "exceptionMessage": "Invalid date or date format for calculateTillDate",
+    "status": "400"
+  }
+}

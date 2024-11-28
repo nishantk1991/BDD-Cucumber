@@ -1,0 +1,64 @@
+{
+  "comment": " The most recent published SONIA RFR rate is available as-of: 2020-05-22. Computed time : 2022-02-16T06:32:05+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-02T00:00:00+00:00",
+  "legalDisclaimer": "SONIA and SONIA Compounded Index are copyright the Bank of England. The trade marks Bank of England and SONIA are registered trade marks of the Bank of England. All Rights Reserved. The SONIA benchmark and SONIA Compounded Index include the proprietary information of the Bank of England and the data comprising the benchmark and SONIA Compounded Index may not be copied or distributed except as specifically authorised. The SONIA benchmark and SONIA Compounded Index are not intended to be relied upon as authoritative or taken in substitution for the exercise of judgement and do not constitute investment advice. The SONIA benchmark and SONIA Compounded Index are not, and should not be construed as, an offer, bid or solicitation in relation to any financial instrument. The Bank of England does not guarantee, and expressly disclaims any liability for, and makes no representations or warranties whether express or implied, as to the currency, accuracy, timeliness, completeness or fitness for any particular purpose of the SONIA benchmark and SONIA Compounded Index. The Bank of England accepts no liability whatsoever for any loss (including, but not limited to any direct, indirect or consequential loss, whether or not such loss is foreseeable and whether or not the Bank of England has been appraised of the use to which the SONIA benchmark or SONIA Compounded Index will be put) howsoever arising from the use, the timeliness of delivery or the failure of delivery of the SONIA benchmark or SONIA Compounded Index.",
+  "interestCalculatorCriteria": {
+    "initialPrincipalBalance": 1000000000,
+    "interestPeriodStartDate": "2020-05-16",
+    "interestPeriodEndDate": "2020-06-05",
+    "riskFreeRate": "SONIA",
+    "lookBackDays": 2,
+    "lockoutDays": 1,
+    "spread": 0.56788,
+    "spreadAdjustment": 0,
+    "rateRoundingDecimalPoints": 12,
+    "legacyRiskFreeRateFloor": -0.06719,
+    "ccrRoundingApplies": true,
+    "ccrRoundingPrecision": 6,
+    "principalAmountChanges": [
+      {
+        "date": "2020-05-16",
+        "principalAmountChange": -600000000
+      },
+      {
+        "date": "2020-05-17",
+        "principalAmountChange": -400000000
+      }
+    ],
+    "showDailyDetails": true,
+    "calculateTillDate": "2020-05-17"
+  },
+  "currencyCode": "GBP",
+  "interestSummary": [
+    {
+      "interestPeriodDate": "2020-05-17",
+      "interestPeriodDays": 2,
+      "principalBalance": 0.0,
+      "publishedRiskFreeRate": -0.0672,
+      "rateApplied": -0.06719,
+      "riskFreeRateFloorApplied": false,
+      "derivedRiskFreeRateFloor": -0.06719,
+      "derivedRiskFreeRateFloorApplied": true,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": -0.06719,
+      "allInRate": 0.50069,
+      "interestAmount": 0.0,
+      "cummulativeInterestAmount": 5487.01
+    },
+    {
+      "interestPeriodDate": "2020-05-16",
+      "interestPeriodDays": 2,
+      "principalBalance": 400000000.0,
+      "publishedRiskFreeRate": -0.0672,
+      "rateApplied": -0.06719,
+      "riskFreeRateFloorApplied": false,
+      "derivedRiskFreeRateFloor": -0.06719,
+      "derivedRiskFreeRateFloorApplied": true,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": -0.06719,
+      "allInRate": 0.50069,
+      "interestAmount": 5487.01,
+      "cummulativeInterestAmount": 5487.01
+    }
+  ]
+}

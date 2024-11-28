@@ -1,0 +1,17 @@
+{
+  "message": "Bad Request",
+  "_links": {
+    "self": {
+      "href": "/corporate/lending/alternative-reference-rates/v1/daily-compounding/interest",
+      "templated": false
+    }
+  },
+  "_embedded": {
+    "errors": [
+      {
+        "message": "Failed to convert argument [interestCalculatorInputCriteria] for value [null] due to: Cannot deserialize value of type `java.lang.Boolean` from String \"tsddrue\": only \"true\" or \"false\" recognized\n at [Source: UNKNOWN; byte offset: #UNKNOWN] (through reference chain: com.finastra.arrc.client.model.DailyCompoundedInterestCalculatorCriteria[\"ccrRoundingApplies\"])",
+        "path": "/interestCalculatorInputCriteria"
+      }
+    ]
+  }
+}

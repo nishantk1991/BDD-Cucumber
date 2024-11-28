@@ -1,0 +1,33 @@
+{
+    "comment": " Computed time : 2021-04-26T11:20:44+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2021-04-23T13:39:41+00:00",
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "interestCalculatorCriteria": {
+        "initialPrincipalBalance": "100000",
+        "interestPeriodStartDate": "2020-08-29",
+        "interestPeriodEndDate": "2020-08-29",
+        "riskFreeRate": "SOFR",
+        "riskFreeRateFloor": "0.012",
+        "lookBackDays": "6",
+        "lockoutDays": "0",
+        "spread": "0.523",
+        "spreadAdjustment": "0.1",
+        "dayCountConvention": "ACT/360",
+        "rateRoundingDecimalPoints": "2",
+        "showDailyDetails": "true"
+    },
+    "currencyCode": "USD",
+    "interestSummary": [
+        {
+            "interestPeriodDate": "2020-08-29",
+            "interestPeriodDays": 1,
+            "principalBalance": 100000.00,
+            "publishedRiskFreeRate": 0.07,
+            "rateApplied": 0.07,
+            "riskFreeRateFloorApplied": false,
+            "allInRate": "0.69",
+            "interestAmount": 1.92,
+            "cummulativeInterestAmount": 1.92
+        }
+    ]
+}

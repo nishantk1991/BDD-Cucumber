@@ -1,0 +1,54 @@
+{
+    "comment": "  Computed time : 2020-05-28T06:21:42Z",
+    "lastUpdatedFromSource": " Last updated repository time is 2020-05-27T07:50:48.691Z",
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "requestParameters": {
+        "valueDate": "2020-03-09",
+        "riskFreeRate": "SOFR",
+        "rateRoundingDecimalPoints": 5
+    },
+    "calculatedCompoundedInArrearsRatesForTenors": [
+        {
+            "tenor": "7D",
+            "interestPeriodStartDate": "2020-03-02",
+            "interestPeriodEndDate": "2020-03-08",
+            "averageCompoundedRate": 1.26869,
+            "publishedRate": false
+        },
+        {
+            "tenor": "30D",
+            "interestPeriodStartDate": "2020-02-08",
+            "interestPeriodEndDate": "2020-03-08",
+            "averageCompoundedRate": 1.51155,
+            "publishedRate": true
+        },
+        {
+            "tenor": "60D",
+            "interestPeriodStartDate": "2020-01-09",
+            "interestPeriodEndDate": "2020-03-08",
+            "averageCompoundedRate": 1.53539,
+            "publishedRate": false
+        },
+        {
+            "tenor": "90D",
+            "interestPeriodStartDate": "2019-12-10",
+            "interestPeriodEndDate": "2020-03-08",
+            "averageCompoundedRate": 1.53866,
+            "publishedRate": true
+        },
+        {
+            "tenor": "180D",
+            "interestPeriodStartDate": "2019-09-11",
+            "interestPeriodEndDate": "2020-03-08",
+            "averageCompoundedRate": 1.68162,
+            "publishedRate": true
+        },
+        {
+            "tenor": "360D",
+            "interestPeriodStartDate": "2019-03-15",
+            "interestPeriodEndDate": "2020-03-08",
+            "averageCompoundedRate": 2.04306,
+            "publishedRate": false
+        }
+    ]
+}

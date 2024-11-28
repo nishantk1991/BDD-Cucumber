@@ -1,0 +1,22 @@
+{
+     "showDailyDetails": true,
+     "interestPeriodStartDate": "2018-06-30",
+     "interestPeriodEndDate": "2019-01-01",
+     "riskFreeRate": "SOFR",
+     "lookBackDays": 5,
+     "lockoutDays": 1,
+     "observationPeriodShift": false,
+     "rateRoundingDecimalPoints": 12,
+     "dayCountConvention": "ACT/360",
+     "initialPrincipalBalance": 10000000,
+     "spread": 0.41,
+     "spreadAdjustment": 0.09,
+     "paymentRounding": "ACTUAL",
+      "principalAmountChanges": [
+      {
+         "date": "2018-09-01",
+         "principalAmountChange": -10000000
+      
+    
+     }]
+     }

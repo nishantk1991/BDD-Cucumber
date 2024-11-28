@@ -1,0 +1,19 @@
+{
+    "branch": "00002",
+    "legalName": "LegalName-{{random}}",
+    "shortName": "ShortName-{{random}}",
+    "externalId": "{{extid}}",
+    "restricted": true,
+    "specialLoan": false,
+    "majorUnderwriter": false,
+    "treasuryReportingAreaCode": "US",
+    "legalAddress": {
+        "addressLine1": "Address Line 1",
+        "addressLine2": "Address Line 2",
+        "city": "Test City",
+        "zipCode": "123456",
+        "countryCode": "CA",
+        "province": "ALB",
+        "county": "ALB"
+    }
+}

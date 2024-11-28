@@ -1,0 +1,12 @@
+{ 
+   "interestPeriodStartDate":"2019-04-24",
+   "interestPeriodEndDate":"2020-04-13",
+   "spread":0.523,
+   "spreadAdjustment":0.1,
+   "observationPeriodShift":"true",
+   "lookBackDays":10,
+   "lockoutDays":0,
+   "riskFreeRate":"ESTR",
+   "rateRoundingDecimalPoints":2,
+   "dayCountConvention":"ACT/360"
+}

@@ -1,0 +1,282 @@
+{
+  "comment": " The most recent published TONAR RFR rate is available as-of: 2020-05-22. Computed time : 2021-11-22T11:41:42+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-10-29T00:00:00+00:00",
+  "legalDisclaimer": "Use of TONAR is subject to the Bank of Japan's Terms of Use ; see https://www.boj.or.jp/en/statistics/outline/exp/data/exmutan2.pdf.",
+  "requestParameters": {
+    "interestPeriodStartDate": "2020-04-10",
+    "interestPeriodEndDate": "2020-05-30",
+    "riskFreeRate": "TONAR",
+    "riskFreeRateFloor": -0.05,
+    "lookBackDays": 5,
+    "lockoutDays": 3,
+    "dayCountConvention": "ACT/365",
+    "rateRoundingDecimalPoints": 10,
+    "showDailyDetails": true
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2020-05-29",
+      "interestPeriodDays": 51,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0417423027
+    },
+    {
+      "interestPeriodDate": "2020-05-28",
+      "interestPeriodDays": 49,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0434460701
+    },
+    {
+      "interestPeriodDate": "2020-05-27",
+      "interestPeriodDays": 48,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0443511966
+    },
+    {
+      "interestPeriodDate": "2020-05-26",
+      "interestPeriodDays": 47,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0452948391
+    },
+    {
+      "interestPeriodDate": "2020-05-22",
+      "interestPeriodDays": 46,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0462795095
+    },
+    {
+      "interestPeriodDate": "2020-05-21",
+      "interestPeriodDays": 42,
+      "publishedRiskFreeRate": -0.0672,
+      "rateApplied": -0.05,
+      "riskFreeRateFloorApplied": true,
+      "averageCompoundedRate": 0.0506870818
+    },
+    {
+      "interestPeriodDate": "2020-05-20",
+      "interestPeriodDays": 41,
+      "publishedRiskFreeRate": -0.0684,
+      "rateApplied": -0.05,
+      "riskFreeRateFloorApplied": true,
+      "averageCompoundedRate": 0.0531429371
+    },
+    {
+      "interestPeriodDate": "2020-05-19",
+      "interestPeriodDays": 40,
+      "publishedRiskFreeRate": -0.232,
+      "rateApplied": -0.05,
+      "riskFreeRateFloorApplied": true,
+      "averageCompoundedRate": 0.0557215869
+    },
+    {
+      "interestPeriodDate": "2020-05-18",
+      "interestPeriodDays": 39,
+      "publishedRiskFreeRate": 0.11,
+      "rateApplied": 0.11,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0584324768
+    },
+    {
+      "interestPeriodDate": "2020-05-15",
+      "interestPeriodDays": 38,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0570752647
+    },
+    {
+      "interestPeriodDate": "2020-05-14",
+      "interestPeriodDays": 35,
+      "publishedRiskFreeRate": 0.0111,
+      "rateApplied": 0.0111,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0619674303
+    },
+    {
+      "interestPeriodDate": "2020-05-13",
+      "interestPeriodDays": 34,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0634635119
+    },
+    {
+      "interestPeriodDate": "2020-05-12",
+      "interestPeriodDays": 33,
+      "publishedRiskFreeRate": 0.0659,
+      "rateApplied": 0.0659,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0653866486
+    },
+    {
+      "interestPeriodDate": "2020-05-11",
+      "interestPeriodDays": 32,
+      "publishedRiskFreeRate": 0.0658,
+      "rateApplied": 0.0658,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0653704883
+    },
+    {
+      "interestPeriodDate": "2020-05-07",
+      "interestPeriodDays": 31,
+      "publishedRiskFreeRate": 0.0666,
+      "rateApplied": 0.0666,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0653565153
+    },
+    {
+      "interestPeriodDate": "2020-05-06",
+      "interestPeriodDays": 27,
+      "publishedRiskFreeRate": 0.0673,
+      "rateApplied": 0.0673,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0651718197
+    },
+    {
+      "interestPeriodDate": "2020-05-05",
+      "interestPeriodDays": 26,
+      "publishedRiskFreeRate": 0.0665,
+      "rateApplied": 0.0665,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0650898466
+    },
+    {
+      "interestPeriodDate": "2020-05-04",
+      "interestPeriodDays": 25,
+      "publishedRiskFreeRate": 0.0652,
+      "rateApplied": 0.0652,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.065033322
+    },
+    {
+      "interestPeriodDate": "2020-05-01",
+      "interestPeriodDays": 24,
+      "publishedRiskFreeRate": 0.0662,
+      "rateApplied": 0.0662,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0650262609
+    },
+    {
+      "interestPeriodDate": "2020-04-30",
+      "interestPeriodDays": 21,
+      "publishedRiskFreeRate": 0.0673,
+      "rateApplied": 0.0673,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.064858231
+    },
+    {
+      "interestPeriodDate": "2020-04-29",
+      "interestPeriodDays": 20,
+      "publishedRiskFreeRate": 0.0683,
+      "rateApplied": 0.0683,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0647360232
+    },
+    {
+      "interestPeriodDate": "2020-04-28",
+      "interestPeriodDays": 19,
+      "publishedRiskFreeRate": 0.0672,
+      "rateApplied": 0.0672,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0645483246
+    },
+    {
+      "interestPeriodDate": "2020-04-27",
+      "interestPeriodDays": 18,
+      "publishedRiskFreeRate": 0.0661,
+      "rateApplied": 0.0661,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0644008908
+    },
+    {
+      "interestPeriodDate": "2020-04-24",
+      "interestPeriodDays": 17,
+      "publishedRiskFreeRate": 0.0643,
+      "rateApplied": 0.0643,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0643008267
+    },
+    {
+      "interestPeriodDate": "2020-04-23",
+      "interestPeriodDays": 14,
+      "publishedRiskFreeRate": 0.0632,
+      "rateApplied": 0.0632,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0643006641
+    },
+    {
+      "interestPeriodDate": "2020-04-22",
+      "interestPeriodDays": 13,
+      "publishedRiskFreeRate": 0.0634,
+      "rateApplied": 0.0634,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.064385219
+    },
+    {
+      "interestPeriodDate": "2020-04-21",
+      "interestPeriodDays": 12,
+      "publishedRiskFreeRate": 0.0635,
+      "rateApplied": 0.0635,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0644672086
+    },
+    {
+      "interestPeriodDate": "2020-04-20",
+      "interestPeriodDays": 11,
+      "publishedRiskFreeRate": 0.066,
+      "rateApplied": 0.066,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0645550244
+    },
+    {
+      "interestPeriodDate": "2020-04-17",
+      "interestPeriodDays": 10,
+      "publishedRiskFreeRate": 0.0641,
+      "rateApplied": 0.0641,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0644104104
+    },
+    {
+      "interestPeriodDate": "2020-04-16",
+      "interestPeriodDays": 7,
+      "publishedRiskFreeRate": 0.0661,
+      "rateApplied": 0.0661,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0645431033
+    },
+    {
+      "interestPeriodDate": "2020-04-15",
+      "interestPeriodDays": 6,
+      "publishedRiskFreeRate": 0.0657,
+      "rateApplied": 0.0657,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0642835041
+    },
+    {
+      "interestPeriodDate": "2020-04-14",
+      "interestPeriodDays": 5,
+      "publishedRiskFreeRate": 0.064,
+      "rateApplied": 0.064,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.0640000898
+    },
+    {
+      "interestPeriodDate": "2020-04-10",
+      "interestPeriodDays": 4,
+      "publishedRiskFreeRate": 0.064,
+      "rateApplied": 0.064,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 0.064
+    }
+  ]
+}

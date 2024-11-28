@@ -1,0 +1,193 @@
+{
+    "comment": " Computed time : 2020-11-02T07:04:58+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2020-08-05T10:04:15+00:00",
+    "legalDisclaimer": "The TONAR benchmark is used subject to the terms of the UK Open Government Licence v.3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) and the Bank of England’s disclaimer for TONAR (set out below)*. The “TONAR” mark is used with the consent of the Bank of England (the benchmark administrator of TONAR), and the use of such mark does not imply or express any approval or endorsement by the Bank of England. “Bank of England” and “TONAR” are registered trade marks of the Bank of England. The Bank of England has no liability for your use of the calculator service herein.\n*Bank of England’s disclaimer for TONAR: TONAR is copyright the Bank of England. The trade marks “Bank of England” and “TONAR” are registered trade marks of the Bank of England. All Rights Reserved. The TONAR benchmark includes the proprietary information of the Bank of England and the data comprising the benchmark may not be copied or distributed except as specifically authorised. The TONAR benchmark is not intended to be relied upon as authoritative or taken in substitution for the exercise of judgement. The TONAR benchmark is not, and should not be construed as, an offer, bid or solicitation in relation to any financial instrument. The Bank of England does not guarantee, and expressly disclaims any liability for, and makes no representations or warranties whether express or implied, as to the currency, accuracy, timeliness, completeness or fitness for any particular purpose of the TONAR benchmark. The Bank of England accepts no liability whatsoever for any loss (including, but not limited to any direct, indirect or consequential loss, whether or not such loss is foreseeable and whether or not the Bank of England has been appraised of the use to which the TONAR benchmark will be put) howsoever arising from the use, the timeliness of delivery or the failure of delivery of the TONAR benchmark.",
+    "interestCalculatorCriteria": {
+        "initialPrincipalBalance": 10000000,
+        "interestPeriodStartDate": "2020-05-08",
+        "interestPeriodEndDate": "2020-06-06",
+        "riskFreeRate": "TONAR",
+        "allInRateFloor": -2.6,
+        "allInRateCap": -2.3,
+        "lookBackDays": 1,
+        "lockoutDays": 1,
+        "observationPeriodShift": false,
+        "spread": -0.11345,
+        "spreadAdjustment": -2.345,
+        "dayCountConvention": "ACT/365",
+        "rateRoundingDecimalPoints": 9,
+        "principalAmountChanges": [
+            {
+                "date": "2020-05-11",
+                "principalAmountChange": -10000000
+            },
+            {
+                "date": "2020-05-22",
+                "principalAmountChange": 100000
+            },
+            {
+                "date": "2020-06-05",
+                "principalAmountChange": -100000
+            }
+        ],
+        "showDailyDetails": true,
+        "calculateTillDate": "2020-05-25"
+    },
+    "currencyCode": "JPY",
+    "interestSummary": [
+        {
+            "interestPeriodDate": "2020-05-22",
+            "interestPeriodDays": 18,
+            "principalBalance": 100000.00,
+            "publishedRiskFreeRate": -0.0684,
+            "rateApplied": -0.0684,
+            "riskFreeRateFloorApplied": false,
+            "allInRateFloorApplied": false,
+            "allInRateCapApplied": false,
+            "averageCompoundedRate": -0.036977582,
+            "calculatedAllInRate": -2.495427582,
+            "allInRate": -2.495427582,
+            "cummulativeInterestAmount": -2078.38
+        },
+        {
+            "interestPeriodDate": "2020-05-21",
+            "interestPeriodDays": 14,
+            "principalBalance": 0.00,
+            "publishedRiskFreeRate": 0,
+            "rateApplied": 0,
+            "riskFreeRateFloorApplied": false,
+            "allInRateFloorApplied": false,
+            "allInRateCapApplied": false,
+            "averageCompoundedRate": -0.027999958,
+            "calculatedAllInRate": -2.486449958,
+            "allInRate": -2.486449958,
+            "cummulativeInterestAmount": -2043.66
+        },
+        {
+            "interestPeriodDate": "2020-05-20",
+            "interestPeriodDays": 13,
+            "principalBalance": 0.00,
+            "publishedRiskFreeRate": 0,
+            "rateApplied": 0,
+            "riskFreeRateFloorApplied": false,
+            "allInRateFloorApplied": false,
+            "allInRateCapApplied": false,
+            "averageCompoundedRate": -0.030153801,
+            "calculatedAllInRate": -2.488603801,
+            "allInRate": -2.488603801,
+            "cummulativeInterestAmount": -2045.43
+        },
+        {
+            "interestPeriodDate": "2020-05-19",
+            "interestPeriodDays": 12,
+            "principalBalance": 0.00,
+            "publishedRiskFreeRate": 0,
+            "rateApplied": 0,
+            "riskFreeRateFloorApplied": false,
+            "allInRateFloorApplied": false,
+            "allInRateCapApplied": false,
+            "averageCompoundedRate": -0.032666618,
+            "calculatedAllInRate": -2.491116618,
+            "allInRate": -2.491116618,
+            "cummulativeInterestAmount": -2047.49
+        },
+        {
+            "interestPeriodDate": "2020-05-18",
+            "interestPeriodDays": 11,
+            "principalBalance": 0.00,
+            "publishedRiskFreeRate": 0,
+            "rateApplied": 0,
+            "riskFreeRateFloorApplied": false,
+            "allInRateFloorApplied": false,
+            "allInRateCapApplied": false,
+            "averageCompoundedRate": -0.035636311,
+            "calculatedAllInRate": -2.494086311,
+            "allInRate": -2.494086311,
+            "cummulativeInterestAmount": -2049.93
+        },
+        {
+            "interestPeriodDate": "2020-05-15",
+            "interestPeriodDays": 10,
+            "principalBalance": 0.00,
+            "publishedRiskFreeRate": -0.0672,
+            "rateApplied": -0.0672,
+            "riskFreeRateFloorApplied": false,
+            "allInRateFloorApplied": false,
+            "allInRateCapApplied": false,
+            "averageCompoundedRate": -0.039199942,
+            "calculatedAllInRate": -2.497649942,
+            "allInRate": -2.497649942,
+            "cummulativeInterestAmount": -2052.86
+        },
+        {
+            "interestPeriodDate": "2020-05-14",
+            "interestPeriodDays": 7,
+            "principalBalance": 0.00,
+            "publishedRiskFreeRate": -0.0684,
+            "rateApplied": -0.0684,
+            "riskFreeRateFloorApplied": false,
+            "allInRateFloorApplied": false,
+            "allInRateCapApplied": false,
+            "averageCompoundedRate": -0.027200067,
+            "calculatedAllInRate": -2.485650067,
+            "allInRate": -2.485650067,
+            "cummulativeInterestAmount": -2043.00
+        },
+        {
+            "interestPeriodDate": "2020-05-13",
+            "interestPeriodDays": 6,
+            "principalBalance": 0.00,
+            "publishedRiskFreeRate": -0.232,
+            "rateApplied": -0.232,
+            "riskFreeRateFloorApplied": false,
+            "allInRateFloorApplied": false,
+            "allInRateCapApplied": false,
+            "averageCompoundedRate": -0.020333450,
+            "calculatedAllInRate": -2.478783450,
+            "allInRate": -2.478783450,
+            "cummulativeInterestAmount": -2037.36
+        },
+        {
+            "interestPeriodDate": "2020-05-12",
+            "interestPeriodDays": 5,
+            "principalBalance": 0.00,
+            "publishedRiskFreeRate": 0.11,
+            "rateApplied": 0.11,
+            "riskFreeRateFloorApplied": false,
+            "allInRateFloorApplied": false,
+            "allInRateCapApplied": false,
+            "averageCompoundedRate": 0.022000000,
+            "calculatedAllInRate": -2.436450000,
+            "allInRate": -2.436450000,
+            "cummulativeInterestAmount": -2002.56
+        },
+        {
+            "interestPeriodDate": "2020-05-11",
+            "interestPeriodDays": 4,
+            "principalBalance": 0.00,
+            "publishedRiskFreeRate": 0,
+            "rateApplied": 0,
+            "riskFreeRateFloorApplied": false,
+            "allInRateFloorApplied": false,
+            "allInRateCapApplied": false,
+            "averageCompoundedRate": 0.000000000,
+            "calculatedAllInRate": -2.458450000,
+            "allInRate": -2.458450000,
+            "cummulativeInterestAmount": -2020.64
+        },
+        {
+            "interestPeriodDate": "2020-05-08",
+            "interestPeriodDays": 3,
+            "principalBalance": 10000000.00,
+            "publishedRiskFreeRate": 0,
+            "rateApplied": 0,
+            "riskFreeRateFloorApplied": false,
+            "allInRateFloorApplied": false,
+            "allInRateCapApplied": false,
+            "averageCompoundedRate": 0.000000000,
+            "calculatedAllInRate": -2.458450000,
+            "allInRate": -2.458450000,
+            "cummulativeInterestAmount": -2020.64
+        }
+    ]
+}

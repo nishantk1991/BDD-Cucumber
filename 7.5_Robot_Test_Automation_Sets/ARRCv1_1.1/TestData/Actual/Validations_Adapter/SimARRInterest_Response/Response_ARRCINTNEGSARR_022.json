@@ -1,0 +1,6 @@
+{
+  "exception": {
+    "exceptionMessage": "Invalid  value passed for showDailyDetails.",
+    "status": "400"
+  }
+}

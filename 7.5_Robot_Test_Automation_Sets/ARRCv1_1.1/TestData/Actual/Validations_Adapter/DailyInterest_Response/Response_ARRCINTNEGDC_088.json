@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "PRINC_BALANCE_LESS_ZERO",
+    "exceptionMessage": "principalAmountChange must not make the Principal Balance negative",
+    "status": "400"
+  }
+}

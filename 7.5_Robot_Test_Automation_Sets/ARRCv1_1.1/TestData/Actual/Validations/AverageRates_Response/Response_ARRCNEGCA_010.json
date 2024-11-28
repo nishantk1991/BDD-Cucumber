@@ -1,0 +1,12 @@
+{
+  "requestParameters": null,
+  "dailyRateSummary": null,
+  "lastUpdatedFromSource": null,
+  "comment": null,
+  "legalDisclaimer": null,
+  "exception": {
+    "title": "ENDDT_DATA_UNAVAILABLE",
+    "exceptionMessage": "Rate is not available for the interestPeriodEndDate provided. The most recent published SONIA rate is available as-of: 2024-11-18.",
+    "status": "400"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "comment": " Computed time : 2021-05-21T15:55:46+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-05-21T13:05:20+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "requestParameters": {
+    "interestPeriodStartDate": "2020-01-31",
+    "interestPeriodEndDate": "2020-02-08",
+    "riskFreeRate": "SOFR",
+    "lookBackDays": 9,
+    "lockoutDays": 4,
+    "observationPeriodShift": false,
+    "dayCountConvention": "ACT/360",
+    "rateRoundingDecimalPoints": 9,
+    "showDailyDetails": true
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2020-02-07",
+      "interestPeriodDays": 9,
+      "publishedRiskFreeRate": 1.54,
+      "rateApplied": 1.54,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.54023425
+    },
+    {
+      "interestPeriodDate": "2020-02-06",
+      "interestPeriodDays": 7,
+      "publishedRiskFreeRate": 1.54,
+      "rateApplied": 1.54,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.540169409
+    },
+    {
+      "interestPeriodDate": "2020-02-05",
+      "interestPeriodDays": 6,
+      "publishedRiskFreeRate": 1.54,
+      "rateApplied": 1.54,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.54013176
+    },
+    {
+      "interestPeriodDate": "2020-02-04",
+      "interestPeriodDays": 5,
+      "publishedRiskFreeRate": 1.54,
+      "rateApplied": 1.54,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.540092231
+    },
+    {
+      "interestPeriodDate": "2020-02-03",
+      "interestPeriodDays": 4,
+      "publishedRiskFreeRate": 1.54,
+      "rateApplied": 1.54,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.540049408
+    },
+    {
+      "interestPeriodDate": "2020-01-31",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 1.54,
+      "rateApplied": 1.54,
+      "riskFreeRateFloorApplied": false,
+      "averageCompoundedRate": 1.54
+    }
+  ]
+}

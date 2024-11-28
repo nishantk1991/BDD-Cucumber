@@ -1,0 +1,17 @@
+{
+  "message": "Bad Request",
+  "_links": {
+    "self": {
+      "href": "/corporate/lending/alternative-reference-rates/v1/compounded-in-arrears/tenors/average-rates?riskFreeRate=SOFR&rateRoundingDecimalPoints=10&tenor=30D",
+      "templated": false
+    }
+  },
+  "_embedded": {
+    "errors": [
+      {
+        "message": "Required QueryValue [valueDate] not specified",
+        "path": "/valueDate"
+      }
+    ]
+  }
+}

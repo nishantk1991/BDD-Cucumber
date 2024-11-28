@@ -1,0 +1,5 @@
+{
+    "title": "INDEX_ST_EQ_END",
+    "message": "indexStartDate and indexEndDate cannot be the same",
+    "status": 400
+}

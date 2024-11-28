@@ -1,0 +1,98 @@
+{
+  "comment": " The most recent published ESTR RFR rate is available as-of: 2020-05-19. Computed time : 2021-11-22T11:36:19+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-10-29T00:00:00+00:00",
+  "legalDisclaimer": "Use of euro short-term rate (€STR) is subject to the ECB’s €STR disclaimer under https://www.ecb.europa.eu/stats/financial_markets_and_interest_rates/euro_short-term_rate/html/index.en.html#disclaimer.",
+  "requestParameters": {
+    "interestPeriodStartDate": "2019-12-19",
+    "interestPeriodEndDate": "2020-01-02",
+    "riskFreeRate": "ESTR",
+    "lookBackDays": 5,
+    "lockoutDays": 2,
+    "rateRoundingDecimalPoints": 12,
+    "showDailyDetails": true,
+    "calculateTillDate": "2020-01-01"
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2020-01-02",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": -0.01,
+      "rateApplied": -0.01,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 0.999993888899,
+      "dailyCompoundedRate": -0.009999938889
+    },
+    {
+      "interestPeriodDate": "2019-12-31",
+      "interestPeriodDays": 2,
+      "publishedRiskFreeRate": -0.01,
+      "rateApplied": -0.01,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 0.999994444451,
+      "dailyCompoundedRate": -0.009999944445
+    },
+    {
+      "interestPeriodDate": "2019-12-30",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": -0.01,
+      "rateApplied": -0.01,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 0.999994722228,
+      "dailyCompoundedRate": -0.009999947222
+    },
+    {
+      "interestPeriodDate": "2019-12-27",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": -0.05,
+      "rateApplied": -0.05,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 0.999998888889,
+      "dailyCompoundedRate": -0.049999944444
+    },
+    {
+      "interestPeriodDate": "2019-12-26",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": -0.04,
+      "rateApplied": -0.04,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": -0.04
+    },
+    {
+      "interestPeriodDate": "2019-12-24",
+      "interestPeriodDays": 2,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": 0.0
+    },
+    {
+      "interestPeriodDate": "2019-12-23",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": 0.0
+    },
+    {
+      "interestPeriodDate": "2019-12-20",
+      "interestPeriodDays": 3,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": 0.0
+    },
+    {
+      "interestPeriodDate": "2019-12-19",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": 0,
+      "rateApplied": 0,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": 0.0
+    }
+  ]
+}

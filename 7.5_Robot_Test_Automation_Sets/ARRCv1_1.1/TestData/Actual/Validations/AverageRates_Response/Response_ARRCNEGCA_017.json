@@ -1,0 +1,12 @@
+{
+  "requestParameters": null,
+  "dailyRateSummary": null,
+  "lastUpdatedFromSource": null,
+  "comment": null,
+  "legalDisclaimer": null,
+  "exception": {
+    "title": "LOOKBACK_DAYS_OUT_OF_RANGE",
+    "exceptionMessage": "LookBackDays must be between 0 and 99",
+    "status": "400"
+  }
+}

@@ -1,0 +1,19 @@
+{ 
+   "initialPrincipalBalance":10000000.0,
+   "interestPeriodStartDate":"2020-12-25",
+   "interestPeriodEndDate":"2026-05-29",
+   "calculateTillDate":"2021-10-11",
+   "riskFreeRate":"SOFR",
+   "riskFreeRateFloor":0.07,
+   "spread":2.323310,
+   "spreadAdjustment":-1,
+   "legacyRiskFreeRateFloor":0.0112,
+   "lookBackDays": "97",
+   "lockoutDays": "0",
+   "showDailyDetails":"true",
+   "ccrRoundingApplies":true,
+   "ccrRoundingPrecision":10,
+   "rateRoundingDecimalPoints":10,
+   "observationPeriodShift":"true",
+   "dayCountConvention":"ACT/360"
+}

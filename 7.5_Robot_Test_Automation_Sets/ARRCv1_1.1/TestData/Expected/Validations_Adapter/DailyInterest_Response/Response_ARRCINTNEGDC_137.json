@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "CCR_ROUNDING_DPS_OUT_OF_RANGE",
+    "exceptionMessage": "ccrRoundingPrecision must be between 1 to 10",
+    "status": "400"
+  }
+}

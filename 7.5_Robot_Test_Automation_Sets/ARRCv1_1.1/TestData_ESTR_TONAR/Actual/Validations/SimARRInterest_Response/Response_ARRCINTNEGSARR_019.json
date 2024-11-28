@@ -1,0 +1,5 @@
+{
+  "title": "OBS_SHIFT_INVALID",
+  "message": "Invalid value passed for observationPeriodShift",
+  "status": 400
+}

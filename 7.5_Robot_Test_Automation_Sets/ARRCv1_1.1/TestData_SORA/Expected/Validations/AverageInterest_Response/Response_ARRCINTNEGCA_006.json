@@ -1,0 +1,5 @@
+{
+    "title": "STDT_DATA_UNAVAILABLE",
+    "message": "Rate is not available for the interestPeriodStartDate provided",
+    "status": 400
+}

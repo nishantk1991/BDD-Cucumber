@@ -1,0 +1,17 @@
+{
+  "message": "Bad Request",
+  "_links": {
+    "self": {
+      "href": "/corporate/lending/alternative-reference-rates/v1/compounded-in-arrears/average-rate?riskFreeRate=SOFR&rateRoundingDecimalPoints=2&lookBackDays=3&interestPeriodStartDate=2020-05-01",
+      "templated": false
+    }
+  },
+  "_embedded": {
+    "errors": [
+      {
+        "message": "Required QueryValue [interestPeriodEndDate] not specified",
+        "path": "/interestPeriodEndDate"
+      }
+    ]
+  }
+}

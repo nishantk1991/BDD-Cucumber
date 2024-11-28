@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/compounded-in-arrears/tenors/average-rates?valueDate=2019-11-19&rateRoundingDecimalPoints=12&riskFreeRate=SOFR&tenor=180D

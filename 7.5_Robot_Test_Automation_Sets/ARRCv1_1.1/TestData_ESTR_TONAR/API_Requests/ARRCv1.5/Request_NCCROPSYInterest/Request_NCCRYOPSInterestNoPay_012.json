@@ -1,0 +1,18 @@
+{ 
+    "initialPrincipalBalance":10000000.0,
+    "interestPeriodStartDate":"2020-04-10",
+    "interestPeriodEndDate":"2020-05-29",
+    "riskFreeRate":"TONAR",
+    "spread":-0.042234,
+    "spreadAdjustment":0.083430,
+    "lookBackDays": "1",
+    "lockoutDays": "0",
+    "showDailyDetails":"true",
+    "dayCountConvention":"ACT/365",
+    "rateRoundingDecimalPoints":12,
+    "calculateTillDate":"2020-05-17",
+    "paymentRounding":"UP",
+    "observationPeriodShift":"true",
+     "ccrRoundingApplies":"true",
+    "ccrRoundingPrecision":1
+ }

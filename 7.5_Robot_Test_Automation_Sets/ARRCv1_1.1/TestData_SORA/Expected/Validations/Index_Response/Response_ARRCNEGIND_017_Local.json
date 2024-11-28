@@ -1,0 +1,5 @@
+{
+    "title": "REQUIRED_FIELD",
+    "message": "The indexEndDate is required ",
+    "status": 400
+}

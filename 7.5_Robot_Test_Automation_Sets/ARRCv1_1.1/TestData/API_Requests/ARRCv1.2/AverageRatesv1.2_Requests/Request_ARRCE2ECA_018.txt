@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/compounded-in-arrears/average-rate?lockoutDays=0&interestPeriodStartDate=2020-05-01&interestPeriodEndDate=2020-06-01&riskFreeRate=SOFR&lookBackDays=8&rateRoundingDecimalPoints=6&observationPeriodShift=true&dayCountConvention=ACT/360&calculateTillDate=2020-06-01&riskFreeRateFloor=0

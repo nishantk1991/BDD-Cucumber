@@ -1,0 +1,53 @@
+{
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2020-05-19. Computed time : 2022-02-16T05:23:13+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-18T00:00:00+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "interestCalculatorCriteria": {
+    "initialPrincipalBalance": 10000000,
+    "interestPeriodStartDate": "2020-02-01",
+    "interestPeriodEndDate": "2020-05-29",
+    "riskFreeRate": "SOFR",
+    "riskFreeRateFloor": 0,
+    "lookBackDays": 0,
+    "lockoutDays": 7,
+    "spread": 0.0023,
+    "spreadAdjustment": 0.04567,
+    "dayCountConvention": "ACT/360",
+    "rateRoundingDecimalPoints": 3,
+    "paymentRounding": "UP",
+    "principalAmountChanges": [
+      {
+        "date": "2020-03-20",
+        "principalAmountChange": -9876.84
+      },
+      {
+        "date": "2020-03-25",
+        "principalAmountChange": 100000
+      },
+      {
+        "date": "2020-03-20",
+        "principalAmountChange": 9876.84
+      },
+      {
+        "date": "2020-03-25",
+        "principalAmountChange": -100000
+      }
+    ],
+    "showDailyDetails": false,
+    "calculateTillDate": "2020-05-21"
+  },
+  "currencyCode": "USD",
+  "interestSummary": [
+    {
+      "interestPeriodDate": "2020-05-29",
+      "interestPeriodDays": 1,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "allInRate": 0.088,
+      "interestAmount": 24.45,
+      "cummulativeInterestAmount": 20272.78
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/simple-average/rates?riskFreeRate=SOFR&rateRoundingDecimalPoints=10&lookBackDays=7&interestPeriodStartDate=2020-05-11&showDailyDetails=true&calculateTillDate=2020-05-26&interestPeriodEndDate=2020-05-29&riskFreeRateFloor=0.025&observationPeriodShift=true

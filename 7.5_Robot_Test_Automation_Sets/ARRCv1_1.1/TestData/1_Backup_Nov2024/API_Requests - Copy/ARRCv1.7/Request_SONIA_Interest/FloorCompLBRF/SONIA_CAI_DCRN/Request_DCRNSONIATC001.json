@@ -1,0 +1,19 @@
+{
+	
+	"initialPrincipalBalance": 1000000000,
+	"interestPeriodStartDate": "2021-04-02",
+	"interestPeriodEndDate": "2026-01-01",
+	"calculateTillDate": "2021-10-03",
+	"riskFreeRate": "SONIA",
+	"spread": 0,
+	"lookBackDays": 92,
+	"lockoutDays": 0,
+	"showDailyDetails": true,
+	"spreadAdjustment": 0.00345,
+	"legacyRiskFreeRateFloor": 0.05267,
+	"floorCompoundedRate": true,
+	"ccrRoundingApplies": false,
+	"rateRoundingDecimalPoints": 9,
+	"dayCountConvention": "ACT/365",
+	"paymentRounding": "ACTUAL"
+}

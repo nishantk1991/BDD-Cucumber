@@ -1,0 +1,15 @@
+{ 
+   "initialPrincipalBalance":10000000.00,
+   "interestPeriodStartDate":"2020-02-29",
+   "interestPeriodEndDate":"2020-03-31",
+   "observationPeriodShift":"false",
+   "lookBackDays":2,
+   "lockoutDays":10,
+   "paymentRounding":"UP",
+   "spread":1.0100,
+   "spreadAdjustment":60.590000,
+   "riskFreeRate":"SONIA",
+   "showDailyDetails":"true",
+   "dayCountConvention":"ACT/360",
+   "principalAmountChanges":[{"date":"2020-02-29","principalAmountChange":-10000000},{"date":"2020-03-06","principalAmountChange":56000}]
+}

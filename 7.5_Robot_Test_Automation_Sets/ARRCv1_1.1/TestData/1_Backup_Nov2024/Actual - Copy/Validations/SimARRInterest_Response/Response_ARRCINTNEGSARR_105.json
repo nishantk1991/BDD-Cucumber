@@ -1,0 +1,5 @@
+{
+  "title": "NUMERIC_INVALID_FORMAT_AIR_CAP",
+  "message": "Invalid value passed for allInRateCap",
+  "status": 400
+}

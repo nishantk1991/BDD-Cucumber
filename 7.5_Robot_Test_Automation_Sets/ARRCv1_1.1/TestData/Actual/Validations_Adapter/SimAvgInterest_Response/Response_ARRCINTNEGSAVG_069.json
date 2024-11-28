@@ -1,0 +1,6 @@
+{
+  "exception": {
+    "exceptionMessage": "The parameter 'calculateTillDate' is not in correct YYYY-MM-DD format.",
+    "status": "400"
+  }
+}

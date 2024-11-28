@@ -1,0 +1,139 @@
+{
+    "comment": " Computed time : 2021-03-05T05:50:44+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2020-08-05T10:04:15+00:00",
+    "legalDisclaimer": "The TONAR benchmark is used subject to the terms of the UK Open Government Licence v.3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) and the Bank of England’s disclaimer for TONAR (set out below)*. The “TONAR” mark is used with the consent of the Bank of England (the benchmark administrator of TONAR), and the use of such mark does not imply or express any approval or endorsement by the Bank of England. “Bank of England” and “TONAR” are registered trade marks of the Bank of England. The Bank of England has no liability for your use of the calculator service herein.\n*Bank of England’s disclaimer for TONAR: TONAR is copyright the Bank of England. The trade marks “Bank of England” and “TONAR” are registered trade marks of the Bank of England. All Rights Reserved. The TONAR benchmark includes the proprietary information of the Bank of England and the data comprising the benchmark may not be copied or distributed except as specifically authorised. The TONAR benchmark is not intended to be relied upon as authoritative or taken in substitution for the exercise of judgement. The TONAR benchmark is not, and should not be construed as, an offer, bid or solicitation in relation to any financial instrument. The Bank of England does not guarantee, and expressly disclaims any liability for, and makes no representations or warranties whether express or implied, as to the currency, accuracy, timeliness, completeness or fitness for any particular purpose of the TONAR benchmark. The Bank of England accepts no liability whatsoever for any loss (including, but not limited to any direct, indirect or consequential loss, whether or not such loss is foreseeable and whether or not the Bank of England has been appraised of the use to which the TONAR benchmark will be put) howsoever arising from the use, the timeliness of delivery or the failure of delivery of the TONAR benchmark.",
+    "requestParameters": {
+        "interestPeriodStartDate": "2020-05-03",
+        "interestPeriodEndDate": "2020-05-30",
+        "riskFreeRate": "TONAR",
+        "lookBackDays": 3,
+        "lockoutDays": 0,
+        "dayCountConvention": "ACT/365",
+        "rateRoundingDecimalPoints": 7,
+        "spreadAdjustment": -1.51546,
+        "showDailyDetails": true,
+        "calculateTillDate": "2020-05-22"
+    },
+    "dailyRateSummary": [
+        {
+            "interestPeriodDate": "2020-05-22",
+            "interestPeriodDays": 23,
+            "publishedRiskFreeRate": 0,
+            "rateApplied": 0,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": -0.0078217
+        },
+        {
+            "interestPeriodDate": "2020-05-21",
+            "interestPeriodDays": 19,
+            "publishedRiskFreeRate": 0,
+            "rateApplied": 0,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": -0.0094684
+        },
+        {
+            "interestPeriodDate": "2020-05-20",
+            "interestPeriodDays": 18,
+            "publishedRiskFreeRate": 0,
+            "rateApplied": 0,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": -0.0099944
+        },
+        {
+            "interestPeriodDate": "2020-05-19",
+            "interestPeriodDays": 17,
+            "publishedRiskFreeRate": -0.0672,
+            "rateApplied": -0.0672,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": -0.0105824
+        },
+        {
+            "interestPeriodDate": "2020-05-18",
+            "interestPeriodDays": 16,
+            "publishedRiskFreeRate": -0.0684,
+            "rateApplied": -0.0684,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": -0.0070438
+        },
+        {
+            "interestPeriodDate": "2020-05-15",
+            "interestPeriodDays": 15,
+            "publishedRiskFreeRate": -0.232,
+            "rateApplied": -0.232,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": -0.0029533
+        },
+        {
+            "interestPeriodDate": "2020-05-14",
+            "interestPeriodDays": 12,
+            "publishedRiskFreeRate": 0.11,
+            "rateApplied": 0.11,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.0543083
+        },
+        {
+            "interestPeriodDate": "2020-05-13",
+            "interestPeriodDays": 11,
+            "publishedRiskFreeRate": 0,
+            "rateApplied": 0,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.0492455
+        },
+        {
+            "interestPeriodDate": "2020-05-12",
+            "interestPeriodDays": 10,
+            "publishedRiskFreeRate": 0.0111,
+            "rateApplied": 0.0111,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.0541700
+        },
+        {
+            "interestPeriodDate": "2020-05-11",
+            "interestPeriodDays": 9,
+            "publishedRiskFreeRate": 0,
+            "rateApplied": 0,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.0589556
+        },
+        {
+            "interestPeriodDate": "2020-05-07",
+            "interestPeriodDays": 8,
+            "publishedRiskFreeRate": 0.0659,
+            "rateApplied": 0.0659,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.0663250
+        },
+        {
+            "interestPeriodDate": "2020-05-06",
+            "interestPeriodDays": 4,
+            "publishedRiskFreeRate": 0.0658,
+            "rateApplied": 0.0658,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.0667500
+        },
+        {
+            "interestPeriodDate": "2020-05-05",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 0.0666,
+            "rateApplied": 0.0666,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.0670667
+        },
+        {
+            "interestPeriodDate": "2020-05-04",
+            "interestPeriodDays": 2,
+            "publishedRiskFreeRate": 0.0673,
+            "rateApplied": 0.0673,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.0673000
+        },
+        {
+            "interestPeriodDate": "2020-05-03",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 0.0673,
+            "rateApplied": 0.0673,
+            "riskFreeRateFloorApplied": false,
+            "simpleAverageRate": 0.0673000
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "title": "CCR_ROUNDING_PRECISION_INVALID",
+    "message": "Invalid value passed for ccrRoundingPrecision ",
+    "status": 400
+}

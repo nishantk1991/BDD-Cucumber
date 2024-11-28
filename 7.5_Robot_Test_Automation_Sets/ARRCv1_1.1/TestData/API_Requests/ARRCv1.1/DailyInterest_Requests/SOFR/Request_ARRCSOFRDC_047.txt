@@ -1,0 +1,16 @@
+{
+     "showDailyDetails": true,
+     "interestPeriodStartDate": "2020-04-17",
+     "interestPeriodEndDate": "2020-04-19",
+     "riskFreeRate": "SOFR",
+     "lookBackDays": 8,
+     "lockoutDays": 10,
+     "observationPeriodShift": false,
+     "rateRoundingDecimalPoints": 10,
+     "dayCountConvention": "ACT/365",
+     "initialPrincipalBalance": 10000000,
+     "spread": 0.09,
+     "spreadAdjustment": 0.41,
+     "paymentRounding": "ACTUAL"
+      
+   }		

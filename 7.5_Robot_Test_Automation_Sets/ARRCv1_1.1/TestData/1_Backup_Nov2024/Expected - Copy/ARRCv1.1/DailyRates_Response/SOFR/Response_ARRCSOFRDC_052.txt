@@ -1,0 +1,72 @@
+{
+    "comment": " Computed time : 2021-05-19T08:53:44+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2021-05-18T13:39:41+00:00",
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "requestParameters": {
+        "interestPeriodStartDate": "2019-06-24",
+        "interestPeriodEndDate": "2019-07-01",
+        "riskFreeRate": "SOFR",
+        "lookBackDays": 6,
+        "lockoutDays": 1,
+        "observationPeriodShift": false,
+        "dayCountConvention": "ACT/360",
+        "rateRoundingDecimalPoints": 6,
+        "showDailyDetails": true
+    },
+    "dailyRateSummary": [
+        {
+            "interestPeriodDate": "2019-07-01",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 2.36,
+            "rateApplied": 2.36,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000460911461,
+            "dailyCompoundedRate": 2.361088
+        },
+        {
+            "interestPeriodDate": "2019-06-28",
+            "interestPeriodDays": 3,
+            "publishedRiskFreeRate": 2.36,
+            "rateApplied": 2.36,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000264192836,
+            "dailyCompoundedRate": 2.360623
+        },
+        {
+            "interestPeriodDate": "2019-06-27",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 2.36,
+            "rateApplied": 2.36,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000198624259,
+            "dailyCompoundedRate": 2.360469
+        },
+        {
+            "interestPeriodDate": "2019-06-26",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 2.39,
+            "rateApplied": 2.39,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000132226592,
+            "dailyCompoundedRate": 2.390316
+        },
+        {
+            "interestPeriodDate": "2019-06-25",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 2.41,
+            "rateApplied": 2.41,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000065277778,
+            "dailyCompoundedRate": 2.410157
+        },
+        {
+            "interestPeriodDate": "2019-06-24",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": 2.35,
+            "rateApplied": 2.35,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 1.000000000000,
+            "dailyCompoundedRate": 2.350000
+        }
+    ]
+}

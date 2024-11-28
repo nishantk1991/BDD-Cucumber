@@ -1,0 +1,5 @@
+{
+  "title": "SHOW_DAILY_INVALID",
+  "message": "Invalid value passed for showDailyDetails",
+  "status": 400
+}

@@ -1,0 +1,25 @@
+{
+  "comment": " Computed time : 2021-05-21T16:01:45+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-05-21T13:05:20+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "requestParameters": {
+    "valueDate": "2018-05-07",
+    "riskFreeRate": "SOFR"
+  },
+  "calculatedCompoundedInArrearsRatesForTenors": [
+    {
+      "tenor": "7D",
+      "interestPeriodStartDate": "2018-04-30",
+      "interestPeriodEndDate": "2018-05-06",
+      "averageCompoundedRate": 1.74022,
+      "publishedRate": false
+    },
+    {
+      "tenor": "30D",
+      "interestPeriodStartDate": "2018-04-07",
+      "interestPeriodEndDate": "2018-05-06",
+      "averageCompoundedRate": 1.73451,
+      "publishedRate": false
+    }
+  ]
+}

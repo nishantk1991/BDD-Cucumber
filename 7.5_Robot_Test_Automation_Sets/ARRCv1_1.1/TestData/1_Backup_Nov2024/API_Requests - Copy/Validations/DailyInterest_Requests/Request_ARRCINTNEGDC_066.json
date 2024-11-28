@@ -1,0 +1,26 @@
+{
+	
+	"rateRoundingDecimalPoints": 2,
+	"lookBackDays": 2,
+	"lockoutDays": 0,
+	"dayCountConvention": "ACT/360",
+	"observationPeriodShift": false,
+	"showDailyDetails": true,
+	"initialPrincipalBalance": 100000,
+	"interestPeriodStartDate": "2020-05-21",
+	"interestPeriodEndDate": "2026-05-30",
+	"spreadAdjustment": 0.1,
+	"spread": 0.523,
+	"riskFreeRate": "SOFR",
+  "principalAmountChanges": [
+
+	{
+		"date": "2020-05-21",
+		"principalAmountChange": -100000
+	},
+	{
+		"date": "2020-05-30",
+		"principalAmountChange": 100000
+	}
+	]
+}

@@ -1,0 +1,4 @@
+OPen CMD and run :
+
+protobuf_cli_qa.bat 7.6.4.0 requestData C:\7.5_Robot_Test_Automation_Sets\Module_Service_RESTAPI_Automation_CIT\TestData\Bi
+lPayment_Requests_JsonFiles 01_A_POST_ScheduleActivity.json C:\temp

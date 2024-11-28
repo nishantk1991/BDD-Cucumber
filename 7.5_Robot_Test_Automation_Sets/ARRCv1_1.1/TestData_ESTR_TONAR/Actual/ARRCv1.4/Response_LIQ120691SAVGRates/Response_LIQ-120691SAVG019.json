@@ -1,0 +1,178 @@
+{
+  "comment": " Computed time : 2021-02-05T11:21:42+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2020-08-05T09:45:12+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "requestParameters": {
+    "interestPeriodStartDate": "2020-05-01",
+    "interestPeriodEndDate": "2020-06-01",
+    "riskFreeRate": "SOFR",
+    "lookBackDays": "4",
+    "observationPeriodShift": "true",
+    "dayCountConvention": "ACT/365",
+    "rateRoundingDecimalPoints": "10",
+    "showDailyDetails": "true",
+    "calculateTillDate": "2020-05-25"
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2020-05-22",
+      "interestPeriodDays": 25,
+      "observationPeriodDate": "2020-05-18",
+      "observationPeriodDays": 22,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0422727273"
+    },
+    {
+      "interestPeriodDate": "2020-05-21",
+      "interestPeriodDays": 21,
+      "observationPeriodDate": "2020-05-15",
+      "observationPeriodDays": 21,
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0423809524"
+    },
+    {
+      "interestPeriodDate": "2020-05-20",
+      "interestPeriodDays": 20,
+      "observationPeriodDate": "2020-05-14",
+      "observationPeriodDays": 18,
+      "publishedRiskFreeRate": 0.02,
+      "rateApplied": 0.02,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0411111111"
+    },
+    {
+      "interestPeriodDate": "2020-05-19",
+      "interestPeriodDays": 19,
+      "observationPeriodDate": "2020-05-13",
+      "observationPeriodDays": 17,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0423529412"
+    },
+    {
+      "interestPeriodDate": "2020-05-18",
+      "interestPeriodDays": 18,
+      "observationPeriodDate": "2020-05-12",
+      "observationPeriodDays": 16,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0425000000"
+    },
+    {
+      "interestPeriodDate": "2020-05-15",
+      "interestPeriodDays": 17,
+      "observationPeriodDate": "2020-05-11",
+      "observationPeriodDays": 15,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0413333333"
+    },
+    {
+      "interestPeriodDate": "2020-05-14",
+      "interestPeriodDays": 14,
+      "observationPeriodDate": "2020-05-08",
+      "observationPeriodDays": 14,
+      "publishedRiskFreeRate": 0.06,
+      "rateApplied": 0.06,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0400000000"
+    },
+    {
+      "interestPeriodDate": "2020-05-13",
+      "interestPeriodDays": 13,
+      "observationPeriodDate": "2020-05-07",
+      "observationPeriodDays": 11,
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0345454545"
+    },
+    {
+      "interestPeriodDate": "2020-05-12",
+      "interestPeriodDays": 12,
+      "observationPeriodDate": "2020-05-06",
+      "observationPeriodDays": 10,
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0330000000"
+    },
+    {
+      "interestPeriodDate": "2020-05-11",
+      "interestPeriodDays": 11,
+      "observationPeriodDate": "2020-05-05",
+      "observationPeriodDays": 9,
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0311111111"
+    },
+    {
+      "interestPeriodDate": "2020-05-08",
+      "interestPeriodDays": 10,
+      "observationPeriodDate": "2020-05-04",
+      "observationPeriodDays": 8,
+      "publishedRiskFreeRate": 0.05,
+      "rateApplied": 0.05,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0287500000"
+    },
+    {
+      "interestPeriodDate": "2020-05-07",
+      "interestPeriodDays": 7,
+      "observationPeriodDate": "2020-05-01",
+      "observationPeriodDays": 7,
+      "publishedRiskFreeRate": 0.03,
+      "rateApplied": 0.03,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0257142857"
+    },
+    {
+      "interestPeriodDate": "2020-05-06",
+      "interestPeriodDays": 6,
+      "observationPeriodDate": "2020-04-30",
+      "observationPeriodDays": 4,
+      "publishedRiskFreeRate": 0.04,
+      "rateApplied": 0.04,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0225000000"
+    },
+    {
+      "interestPeriodDate": "2020-05-05",
+      "interestPeriodDays": 5,
+      "observationPeriodDate": "2020-04-29",
+      "observationPeriodDays": 3,
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0166666667"
+    },
+    {
+      "interestPeriodDate": "2020-05-04",
+      "interestPeriodDays": 4,
+      "observationPeriodDate": "2020-04-28",
+      "observationPeriodDays": 2,
+      "publishedRiskFreeRate": 0.01,
+      "rateApplied": 0.01,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0200000000"
+    },
+    {
+      "interestPeriodDate": "2020-05-01",
+      "interestPeriodDays": 3,
+      "observationPeriodDate": "2020-04-27",
+      "observationPeriodDays": 1,
+      "publishedRiskFreeRate": 0.03,
+      "rateApplied": 0.03,
+      "riskFreeRateFloorApplied": false,
+      "simpleAverageRate": "0.0300000000"
+    }
+  ]
+}

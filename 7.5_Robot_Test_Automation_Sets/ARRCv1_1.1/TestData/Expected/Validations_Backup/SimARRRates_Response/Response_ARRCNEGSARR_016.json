@@ -1,0 +1,6 @@
+{
+	
+	"status": 400,
+	"title": "RATE_ROUNDING_INVALID",
+	"message": "Invalid value passed for rateRoundingDecimalPoints "
+}

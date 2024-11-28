@@ -1,0 +1,16 @@
+{
+  "comment": " The most recent published SOFR Index is available as-of: 2021-11-18. Computed time : 2021-11-19T07:31:45+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-18T00:00:00+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "requestParameters": {
+    "indexStartDate": "2020-03-17",
+    "indexEndDate": "2020-04-11",
+    "riskFreeRate": "SOFR",
+    "rateRoundingDecimalPoints": 7
+  },
+  "effectiveStartDate": "2020-03-17",
+  "effectiveEndDate": "2020-04-11",
+  "indexAtEffectiveStartDate": 1.04134159,
+  "indexAtEffectiveEndDate": 1.04137109,
+  "averageCompoundedRate": 0.0407935
+}

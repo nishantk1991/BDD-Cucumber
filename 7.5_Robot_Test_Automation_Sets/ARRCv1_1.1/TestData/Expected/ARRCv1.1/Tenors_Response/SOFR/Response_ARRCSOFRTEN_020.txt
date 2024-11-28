@@ -1,0 +1,18 @@
+{
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "requestParameters": {
+        "valueDate": "2019-11-19",
+        "riskFreeRate": "SOFR",
+        "rateRoundingDecimalPoints": 12,
+        "tenor": "180D"
+    },
+    "calculatedCompoundedInArrearsRatesForTenors": [
+        {
+            "tenor": "180D",
+            "interestPeriodStartDate": "2019-05-23",
+            "interestPeriodEndDate": "2019-11-18",
+            "averageCompoundedRate": 2.163656630901,
+            "publishedRate": false
+        }
+    ]
+}

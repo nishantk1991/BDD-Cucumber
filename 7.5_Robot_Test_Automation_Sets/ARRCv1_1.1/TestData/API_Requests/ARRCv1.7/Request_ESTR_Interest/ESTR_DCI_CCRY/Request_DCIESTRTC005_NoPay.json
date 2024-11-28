@@ -1,0 +1,16 @@
+{
+	
+	"initialPrincipalBalance": 9788884545.0,
+	"interestPeriodStartDate": "2021-04-02",
+	"interestPeriodEndDate": "2022-02-04",
+	"calculateTillDate": "2022-02-04",
+	"riskFreeRate": "ESTR",
+	"spread": 0.344,
+	"spreadAdjustment": -0.064,
+	"lookBackDays": 98,
+	"lockoutDays": 74,
+	"showDailyDetails": true,
+	"ccrRoundingApplies": true,
+	"dayCountConvention": "ACT/365",
+	"paymentRounding": "DOWN"
+}

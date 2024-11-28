@@ -1,0 +1,5 @@
+{
+    "title": "PRINC_BALANCE_LESS_ZERO",
+    "message": "principalAmountChange must not make the Principal Balance negative",
+    "status": 400
+}

@@ -1,0 +1,12 @@
+{
+    "id": "31f31b41857c624872bd55c",
+    "branch": "00001",
+    "legalName": "legalName",
+    "shortName": "SHORTNAME-",
+    "externalId": "AA2BCDD89",
+    "restricted": false,
+    "specialLoan": false,
+    "majorUnderwriter": true,
+    "treasuryReportingAreaCode": "IND",
+    "customerStatus": "SKELETAL --- 123"
+}

@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/simple-arr/rates?spreadAdjustment=0.12345&legacyRiskFreeRateFloor=-0.02289&riskFreeRate=ESTR&rateRoundingDecimalPoints=6&interestPeriodStartDate=2020-02-01&interestPeriodEndDate=2020-05-31&calculateTillDate=2020-05-31&showDailyDetails=true&lookBackDays=6&lockoutDays=3&dayCountConvention=ACT/365

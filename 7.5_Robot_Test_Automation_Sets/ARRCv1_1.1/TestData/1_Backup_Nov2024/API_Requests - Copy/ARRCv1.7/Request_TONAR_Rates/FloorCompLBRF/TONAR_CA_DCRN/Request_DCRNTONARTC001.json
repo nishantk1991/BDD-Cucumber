@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/daily-compounding/rates?interestPeriodStartDate=2021-04-02&interestPeriodEndDate=2026-04-01&calculateTillDate=2021-10-03&riskFreeRate=TONAR&legacyRiskFreeRateFloor=-0.001&spreadAdjustment=0.0259&lookBackDays=54&lockoutDays=24&showDailyDetails=true&rateRoundingDecimalPoints=7&floorCompoundedRate=true&dayCountConvention=ACT/365

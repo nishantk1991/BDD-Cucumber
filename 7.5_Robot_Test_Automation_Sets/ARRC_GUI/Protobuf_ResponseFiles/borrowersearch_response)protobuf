@@ -1,0 +1,104 @@
+
+ê
+true-TRUSER26:SMEB
+NoneMIN_DATAhjCUST_SME²
+¥
+Customer"Í
+Customer - CUST_SME2CUSCustomer";*F7Z86K*2022-03-02 17:25:31:†
+objectIdString*;*F7Z86K
+nameString*	CUST_SME2
+idString*;*F7Z86K
+bankString*IQFS
+branchString
+countryString*US"
+customerDescriptionString*DBA
+customerStatusString*SKEL9
+
+departmentString*#FRONL - Americas Cap Mrkt - Lending 
+departmentSubtypeString*DEP?
+legalAddressString*'abc
+New York, NY 878787
+United States4
+expenseCodeString*000100 - Corporate Lending NA
+
+externalIdString*;*F7Z86K
+fullnameString*	Cust_SME2
+languageString
+	shortnameString*	CUST_SME25
+"invoicePaymentApplicationLogicRuleString*IPFLERN#
+immediateParentString*;*F7Z86K
+	legalCodeString
+masterAccountCodeString&
+outstandingsLimitAmountMoney*0.00#
+outstandingsLimitCurrencyString9
+
+primarySICString*#0011 - US / Individuals (Compustat)
+prospectCodeString
+sicCountryCodeString*US#
+tradingParentIDString*;*F7Z86K'
+treasuryReportingAreaCodeString*US"
+ultimateParentString*;*F7Z86K
+	vatNumberString#
+beneficiaryIndicatorBoolean*No!
+borrowerIndicatorBoolean*Yes
+brokerIndicatorString*N
+craIndicatorBoolean*No!
+guarantorIndicatorBoolean*No!
+investorIndicatorBoolean*Yes>
+/isRaiseErrorForExceedingOutstandingsLimitAmountBoolean*No
+isVatSubjectBoolean*Yes#
+ls2CustomerIndicatorBoolean*No(
+majorUnderwriterIndicatorBoolean*No"
+restrictedIndicatorBoolean*No&
+simpleCustomerIndicatorBoolean*No#
+specialLoanIndicatorBoolean*No/
+ thirdPartyRecipientOnlyIndicatorBoolean*No"È
+Customer - CUST_SME1CUSCustomer"R9F4OKBK*2022-02-23 15:39:11:
+objectIdString*R9F4OKBK
+nameString*	CUST_SME1
+idString*R9F4OKBK
+bankString*IQFS
+branchString
+countryString*US"
+customerDescriptionString*DCO
+customerStatusString*SKEL9
+
+departmentString*#FRONL - Americas Cap Mrkt - Lending 
+departmentSubtypeString*DEP?
+legalAddressString*'uyt
+new york, NY 887799
+United States/
+expenseCodeString*112511 - SS Expense Code
+
+externalIdString*R9F4OKBK
+fullnameString*	CUST_SME1
+languageString
+	shortnameString*	CUST_SME15
+"invoicePaymentApplicationLogicRuleString*IPFLERN#
+immediateParentString*R9F4OKBK
+	legalCodeString
+masterAccountCodeString&
+outstandingsLimitAmountMoney*0.00#
+outstandingsLimitCurrencyString9
+
+primarySICString*#0011 - US / Individuals (Compustat)
+prospectCodeString
+sicCountryCodeString*US#
+tradingParentIDString*R9F4OKBK'
+treasuryReportingAreaCodeString*US"
+ultimateParentString*R9F4OKBK
+	vatNumberString#
+beneficiaryIndicatorBoolean*No!
+borrowerIndicatorBoolean*Yes
+brokerIndicatorString*N
+craIndicatorBoolean*No!
+guarantorIndicatorBoolean*No!
+investorIndicatorBoolean*Yes>
+/isRaiseErrorForExceedingOutstandingsLimitAmountBoolean*No
+isVatSubjectBoolean*Yes#
+ls2CustomerIndicatorBoolean*No(
+majorUnderwriterIndicatorBoolean*No"
+restrictedIndicatorBoolean*No&
+simpleCustomerIndicatorBoolean*No#
+specialLoanIndicatorBoolean*No/
+ thirdPartyRecipientOnlyIndicatorBoolean*No (

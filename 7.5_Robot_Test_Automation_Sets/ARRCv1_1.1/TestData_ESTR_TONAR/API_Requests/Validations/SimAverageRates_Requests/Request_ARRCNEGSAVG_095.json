@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/simple-average/rates?observationPeriodShift=true&riskFreeRate=ESTR&dayCountConvention=ACT/360&lookBackDays=0&interestPeriodStartDate=2020-01-01&interestPeriodEndDate=2020-02-02&calculateTillDate=2020-02-02&legacyRiskFreeRateFloor=0.2&ccrRoundingPrecision=&ccrRoundingApplies=True

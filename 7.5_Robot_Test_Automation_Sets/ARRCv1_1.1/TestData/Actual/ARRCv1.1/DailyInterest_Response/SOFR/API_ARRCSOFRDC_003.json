@@ -1,0 +1,59 @@
+{
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2021-11-17. Computed time : 2021-11-19T07:27:44+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-18T00:00:00+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "interestCalculatorCriteria": {
+    "initialPrincipalBalance": 10000000,
+    "interestPeriodStartDate": "2019-02-28",
+    "interestPeriodEndDate": "2019-03-01",
+    "riskFreeRate": "SOFR",
+    "lookBackDays": 2,
+    "lockoutDays": 2,
+    "observationPeriodShift": false,
+    "spread": 0.98,
+    "spreadAdjustment": 0.48,
+    "dayCountConvention": "ACT/360",
+    "rateRoundingDecimalPoints": 10,
+    "paymentRounding": "ACTUAL",
+    "principalAmountChanges": [
+      {
+        "date": "2019-03-01",
+        "principalAmountChange": -350.87
+      },
+      {
+        "date": "2019-03-01",
+        "principalAmountChange": 350.87
+      }
+    ],
+    "showDailyDetails": true
+  },
+  "currencyCode": "USD",
+  "interestSummary": [
+    {
+      "interestPeriodDate": "2019-03-01",
+      "interestPeriodDays": 1,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 2.38,
+      "rateApplied": 2.38,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000066111111,
+      "dailyCompoundedRate": 2.3801573444,
+      "allInRate": 3.8401573444,
+      "interestAmount": 1066.71,
+      "cummulativeInterestAmount": 2133.38
+    },
+    {
+      "interestPeriodDate": "2019-02-28",
+      "interestPeriodDays": 1,
+      "principalBalance": 10000000.0,
+      "publishedRiskFreeRate": 2.38,
+      "rateApplied": 2.38,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": 2.38,
+      "allInRate": 3.84,
+      "interestAmount": 1066.67,
+      "cummulativeInterestAmount": 1066.67
+    }
+  ]
+}

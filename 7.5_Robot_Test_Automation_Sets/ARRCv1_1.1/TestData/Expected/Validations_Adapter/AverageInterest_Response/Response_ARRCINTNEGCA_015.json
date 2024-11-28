@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "PAYMENT_RND_INVALID",
+    "exceptionMessage": "Invalid value passed for paymentRounding ",
+    "status": "400"
+  }
+}

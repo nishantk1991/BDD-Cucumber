@@ -1,0 +1,5 @@
+{
+  "title": "REPO_DATA_UNAVAILABLE",
+  "message": "Rate is not available for the given interest period date range",
+  "status": 400
+}

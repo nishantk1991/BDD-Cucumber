@@ -1,0 +1,27 @@
+{
+  "comment": " The most recent published ESTR RFR rate is available as-of: 2021-11-18. Computed time : 2021-11-22T05:13:08+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-19T00:00:00+00:00",
+  "legalDisclaimer": "Use of euro short-term rate (€STR) is subject to the ECB’s €STR disclaimer under https://www.ecb.europa.eu/stats/financial_markets_and_interest_rates/euro_short-term_rate/html/index.en.html#disclaimer.",
+  "requestParameters": {
+    "interestPeriodStartDate": "2021-04-02",
+    "interestPeriodEndDate": "2022-02-04",
+    "riskFreeRate": "ESTR",
+    "lookBackDays": 98,
+    "lockoutDays": 74,
+    "dayCountConvention": "ACT/365",
+    "spreadAdjustment": -0.06435,
+    "showDailyDetails": false,
+    "calculateTillDate": "2022-02-04"
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2022-02-04",
+      "interestPeriodDays": 1,
+      "publishedRiskFreeRate": -0.564,
+      "rateApplied": -0.564,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 0.995259831596,
+      "dailyCompoundedRate": -0.5613
+    }
+  ]
+}

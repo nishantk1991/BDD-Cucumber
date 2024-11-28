@@ -1,0 +1,20 @@
+{
+  "comment": " The most recent published SONIA RFR rate is available as-of: 2022-03-24. The most recent published SONIA Averages are available as-of: N/A. Computed time : 2022-03-25T11:58:11+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2022-03-25T09:30:41+00:00",
+  "legalDisclaimer": "SONIA and SONIA Compounded Index are copyright the Bank of England. The trade marks Bank of England and SONIA are registered trade marks of the Bank of England. All Rights Reserved. The SONIA benchmark and SONIA Compounded Index include the proprietary information of the Bank of England and the data comprising the benchmark and SONIA Compounded Index may not be copied or distributed except as specifically authorised. The SONIA benchmark and SONIA Compounded Index are not intended to be relied upon as authoritative or taken in substitution for the exercise of judgement and do not constitute investment advice. The SONIA benchmark and SONIA Compounded Index are not, and should not be construed as, an offer, bid or solicitation in relation to any financial instrument. The Bank of England does not guarantee, and expressly disclaims any liability for, and makes no representations or warranties whether express or implied, as to the currency, accuracy, timeliness, completeness or fitness for any particular purpose of the SONIA benchmark and SONIA Compounded Index. The Bank of England accepts no liability whatsoever for any loss (including, but not limited to any direct, indirect or consequential loss, whether or not such loss is foreseeable and whether or not the Bank of England has been appraised of the use to which the SONIA benchmark or SONIA Compounded Index will be put) howsoever arising from the use, the timeliness of delivery or the failure of delivery of the SONIA benchmark or SONIA Compounded Index.",
+  "requestParameters": {
+    "valueDate": "2019-04-24",
+    "riskFreeRate": "SONIA",
+    "rateRoundingDecimalPoints": 7,
+    "tenor": "30D"
+  },
+  "calculatedCompoundedInArrearsRatesForTenors": [
+    {
+      "tenor": "30D",
+      "interestPeriodStartDate": "2019-03-25",
+      "interestPeriodEndDate": "2019-04-23",
+      "averageCompoundedRate": 0.7071366,
+      "publishedRate": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+    "comment": " Computed time : 2020-08-25T05:20:46+00:00. Computed time is the time stamp when the calculation was completed.",
+    "lastUpdatedFromSource": "2020-08-05T09:45:12+00:00",
+    "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+    "requestParameters": {
+        "interestPeriodEndDate": "2020-06-01",
+        "riskFreeRate": "ESTR",
+        "riskFreeRateFloor": 0.050001,
+        "lookBackDays": 5,
+        "lockoutDays": 0,
+        "rateRoundingDecimalPoints": 6,
+        "showDailyDetails": true,
+        "calculateTillDate": "2020-05-25"
+    },
+    "dailyRateSummary": [
+        {
+            "interestPeriodDate": "2020-05-22",
+            "interestPeriodDays": 4,
+            "publishedRiskFreeRate": 0.05,
+            "rateApplied": 0.050001,
+            "riskFreeRateFloorApplied": true
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "title": "PRINC_CHANGE_BEFORE_START",
+    "message": "Principal change date cannot be before interestPeriodStartDate",
+    "status": 400
+}

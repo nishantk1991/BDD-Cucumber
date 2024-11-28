@@ -1,0 +1,27 @@
+{
+    "comment": " Computed time : 2021-06-28T05:53:04+00:00. Computed time is the time stamp when the calculation was completed.",
+    "legalDisclaimer": "estr disclaimer",
+    "requestParameters": {
+        "interestPeriodStartDate": "2021-04-02",
+        "interestPeriodEndDate": "2022-02-04",
+        "riskFreeRate": "ESTR",
+        "lookBackDays": 98,
+        "lockoutDays": 74,
+        "dayCountConvention": "ACT/365",
+        "spreadAdjustment": -0.06435,
+        "ccrRoundingApplies": true,
+        "showDailyDetails": false,
+        "calculateTillDate": "2022-02-04"
+    },
+    "dailyRateSummary": [
+        {
+            "interestPeriodDate": "2022-02-04",
+            "interestPeriodDays": 1,
+            "publishedRiskFreeRate": -0.564,
+            "rateApplied": -0.564,
+            "riskFreeRateFloorApplied": false,
+            "compoundingFactor": 0.995921985816,
+            "dailyCompoundedRate": -0.561700000000
+        }
+    ]
+}

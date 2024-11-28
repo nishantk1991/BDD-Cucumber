@@ -1,0 +1,19 @@
+{ 
+   "initialPrincipalBalance":10000000.0,
+   "interestPeriodStartDate":"2021-01-01",
+   "interestPeriodEndDate":"2022-01-01",
+   "riskFreeRate":"SORA",
+   "spread":-0.456650,
+   "spreadAdjustment":-0.01,
+   "legacyRiskFreeRateFloor":0.0012,
+   "lookBackDays": "99",
+   "lockoutDays": "55",
+   "ccrRoundingApplies":true,
+    "ccrRoundingPrecision":8,
+   "showDailyDetails":"true",
+   "rateRoundingDecimalPoints":6,
+   "dayCountConvention":"ACT/365",
+   "paymentRounding":"DOWN"
+}
+   
+  

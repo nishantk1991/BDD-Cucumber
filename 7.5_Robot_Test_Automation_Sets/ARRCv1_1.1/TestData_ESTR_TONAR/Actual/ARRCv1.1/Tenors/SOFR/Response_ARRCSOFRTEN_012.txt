@@ -1,0 +1,54 @@
+{
+  "comment": " Computed time : 2021-05-21T16:02:37+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-05-21T13:05:20+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "requestParameters": {
+    "valueDate": "2020-03-30",
+    "riskFreeRate": "SOFR",
+    "rateRoundingDecimalPoints": 6
+  },
+  "calculatedCompoundedInArrearsRatesForTenors": [
+    {
+      "tenor": "7D",
+      "interestPeriodStartDate": "2020-03-23",
+      "interestPeriodEndDate": "2020-03-29",
+      "averageCompoundedRate": 0.011429,
+      "publishedRate": false
+    },
+    {
+      "tenor": "30D",
+      "interestPeriodStartDate": "2020-02-29",
+      "interestPeriodEndDate": "2020-03-29",
+      "averageCompoundedRate": 0.70318,
+      "publishedRate": true
+    },
+    {
+      "tenor": "60D",
+      "interestPeriodStartDate": "2020-01-30",
+      "interestPeriodEndDate": "2020-03-29",
+      "averageCompoundedRate": 1.145377,
+      "publishedRate": false
+    },
+    {
+      "tenor": "90D",
+      "interestPeriodStartDate": "2019-12-31",
+      "interestPeriodEndDate": "2020-03-29",
+      "averageCompoundedRate": 1.27943,
+      "publishedRate": true
+    },
+    {
+      "tenor": "180D",
+      "interestPeriodStartDate": "2019-10-02",
+      "interestPeriodEndDate": "2020-03-29",
+      "averageCompoundedRate": 1.47412,
+      "publishedRate": true
+    },
+    {
+      "tenor": "360D",
+      "interestPeriodStartDate": "2019-04-05",
+      "interestPeriodEndDate": "2020-03-29",
+      "averageCompoundedRate": 1.921989,
+      "publishedRate": false
+    }
+  ]
+}

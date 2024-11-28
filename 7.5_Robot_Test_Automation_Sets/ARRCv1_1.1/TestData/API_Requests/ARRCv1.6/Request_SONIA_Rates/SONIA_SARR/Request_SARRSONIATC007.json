@@ -1,0 +1,1 @@
+/corporate/lending/alternative-reference-rates/v1/simple-arr/rates?riskFreeRate=SONIA&rateRoundingDecimalPoints=5&interestPeriodStartDate=2021-03-31&interestPeriodEndDate=2023-05-01&calculateTillDate=2021-05-23&showDailyDetails=true&lookBackDays=95&lockoutDays=10&dayCountConvention=ACT/365&riskFreeRateFloor=-0.03

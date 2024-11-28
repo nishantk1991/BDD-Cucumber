@@ -1,0 +1,40 @@
+{
+  "comment": " The most recent published SOFR RFR rate is available as-of: 2021-11-17. Computed time : 2021-11-19T07:29:47+00:00. Computed time is the time stamp when the calculation was completed.",
+  "lastUpdatedFromSource": "2021-11-18T00:00:00+00:00",
+  "legalDisclaimer": "Use subject to New York Fed Terms of Use for Select Rate Data.  New York Fed has no liability for your use.  Refer the following link for more details: https://www.newyorkfed.org/markets/reference-rates-terms-of-use",
+  "requestParameters": {
+    "interestPeriodStartDate": "2019-12-31",
+    "interestPeriodEndDate": "2020-01-02",
+    "riskFreeRate": "SOFR",
+    "lookBackDays": 4,
+    "lockoutDays": 0,
+    "observationPeriodShift": true,
+    "dayCountConvention": "ACT/365",
+    "rateRoundingDecimalPoints": 9,
+    "showDailyDetails": true
+  },
+  "dailyRateSummary": [
+    {
+      "interestPeriodDate": "2020-01-02",
+      "interestPeriodDays": 1,
+      "observationPeriodDate": "2019-12-26",
+      "observationPeriodDays": 1,
+      "publishedRiskFreeRate": 1.52,
+      "rateApplied": 1.52,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.000083287671,
+      "dailyCompoundedRate": 1.520126597
+    },
+    {
+      "interestPeriodDate": "2019-12-31",
+      "interestPeriodDays": 2,
+      "observationPeriodDate": "2019-12-24",
+      "observationPeriodDays": 2,
+      "publishedRiskFreeRate": 1.52,
+      "rateApplied": 1.52,
+      "riskFreeRateFloorApplied": false,
+      "compoundingFactor": 1.0,
+      "dailyCompoundedRate": 1.52
+    }
+  ]
+}

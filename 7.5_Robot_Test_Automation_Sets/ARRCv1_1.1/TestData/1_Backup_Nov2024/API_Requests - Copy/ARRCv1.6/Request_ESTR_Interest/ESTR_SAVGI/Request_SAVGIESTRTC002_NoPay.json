@@ -1,0 +1,16 @@
+{ 
+    "initialPrincipalBalance":10000000.0,
+    "interestPeriodStartDate":"2021-01-01",
+    "interestPeriodEndDate":"2022-01-01",
+    "riskFreeRate":"ESTR",
+    "spread":-0.456650,
+    "spreadAdjustment":0.013,
+    "legacyRiskFreeRateFloor":-0.5515,
+    "lookBackDays": "94",
+    "lockoutDays": "52",
+    "showDailyDetails":"true",
+    "rateRoundingDecimalPoints":6,
+    "paymentRounding":"DOWN"
+ }
+    
+   

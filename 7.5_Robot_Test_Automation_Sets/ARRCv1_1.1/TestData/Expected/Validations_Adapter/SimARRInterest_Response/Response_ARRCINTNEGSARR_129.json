@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "NUMERIC_INVALID_FORMAT_LEGACY_RFR_FLOOR",
+    "exceptionMessage": "Invalid value passed for legacyRiskFreeRateFloor",
+    "status": "400"
+  }
+}

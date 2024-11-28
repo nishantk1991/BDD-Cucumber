@@ -1,0 +1,17 @@
+{
+  "message": "Bad Request",
+  "_links": {
+    "self": {
+      "href": "/corporate/lending/alternative-reference-rates/v1/simple-average/rates?riskFreeRate=SONIA&rateRoundingDecimalPoints=5&lookBackDays=4&lockoutDays=1&interestPeriodStartDate=2020-04-10&observationPeriodShift=false",
+      "templated": false
+    }
+  },
+  "_embedded": {
+    "errors": [
+      {
+        "message": "Required QueryValue [interestPeriodEndDate] not specified",
+        "path": "/interestPeriodEndDate"
+      }
+    ]
+  }
+}

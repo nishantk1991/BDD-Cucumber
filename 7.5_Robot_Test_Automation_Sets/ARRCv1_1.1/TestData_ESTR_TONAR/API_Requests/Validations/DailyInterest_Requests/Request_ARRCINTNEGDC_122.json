@@ -1,0 +1,15 @@
+{ 
+   "initialPrincipalBalance":100000,
+   "interestPeriodStartDate":"2020-11-09",
+   "interestPeriodEndDate":"2020-11-09",
+    "spread":0.523,
+   "spreadAdjustment":0.1,
+   "riskFreeRateFloor":"0.012",
+   "lookBackDays":6,
+   "lockoutDays":0,
+   "riskFreeRate":"ESTR",
+   "rateRoundingDecimalPoints":2,
+   "dayCountConvention":"ACT/360",
+   "showDailyDetails":"true",
+   "principalAmountChanges":[{"date":"2020-11-09","principalAmountChange":-100000}]
+}

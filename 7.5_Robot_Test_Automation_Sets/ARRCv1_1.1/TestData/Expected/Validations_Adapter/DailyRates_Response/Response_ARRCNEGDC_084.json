@@ -1,0 +1,7 @@
+{
+  "exception": {
+    "title": "LEGACY_FLOOR_RATE_OUT_RANGE",
+    "exceptionMessage": "legacyRiskFreeRateFloor must not be greater than 100 or less than -100",
+    "status": "400"
+  }
+}

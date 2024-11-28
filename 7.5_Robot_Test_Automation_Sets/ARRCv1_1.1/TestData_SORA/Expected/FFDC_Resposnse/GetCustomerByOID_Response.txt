@@ -1,0 +1,19 @@
+{
+    "id": "29265c3c3000002b",
+    "legalName": "BORROR2014",
+    "shortName": "BORROR2014",
+    "externalId": "22",
+    "restricted": false,
+    "specialLoan": false,
+    "majorUnderwriter": false,
+    "treasuryReportingAreaCode": "US",
+    "customerStatus": "SKELETAL",
+    "legalAddress": {
+        "addressLine1": "germany lane 1",
+        "city": "colarado",
+        "zipCode": "79#$%776",
+        "countryCode": "CA",
+        "province": "NBR",
+        "county": "NBR"
+    }
+}
